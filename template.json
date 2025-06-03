@@ -576,13 +576,13 @@
     },
     {
         "path": "currency/portal scroll stack.mp3",
-        "tts_text": "portal scroll stack",
-        "ssml_text": "<prosody rate='fast'>portal scroll stack</prosody>"
+        "tts_text": "portal stack",
+        "ssml_text": "<prosody rate='fast'>portal stack</prosody>"
     },
     {
         "path": "currency/portal scroll.mp3",
-        "tts_text": "portal scroll",
-        "ssml_text": "<prosody rate='fast'>portal scroll</prosody>"
+        "tts_text": "portal",
+        "ssml_text": "<prosody rate='fast'>portal</prosody>"
     },
     {
         "path": "currency/regal orb.mp3",
