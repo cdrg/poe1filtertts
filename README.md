@@ -5,12 +5,14 @@ If you want to see particular voice from [AWS Polly](https://ai-service-demos.go
 
 ### Note: Custom sound files and item filters that use them only work on PC, not console.
 
+### Note: Downloading the latest release is sometimes required even if you've downloaded a soundpack before, if new sounds are added.
+
 ### Link to filters: https://www.pathofexile.com/account/view-profile/cdrpoe-1004/item-filters
 
-* [AWSPolly-Brian preview](https://media.githubusercontent.com/media/cdrg/poe2filtertts/refs/heads/main/AWSPolly-Brian/sounds/basetypes/amulets/stellar%20amulet.mp3)
-* [AWSPolly-Matthew preview](https://media.githubusercontent.com/media/cdrg/poe2filtertts/refs/heads/main/AWSPolly-Matthew/sounds/basetypes/amulets/stellar%20amulet.mp3)
-* [AWSPolly-Nicole preview](https://media.githubusercontent.com/media/cdrg/poe2filtertts/refs/heads/main/AWSPolly-Nicole/sounds/basetypes/amulets/stellar%20amulet.mp3)
-* [TTSM-Oracle preview](https://media.githubusercontent.com/media/cdrg/poe2filtertts/refs/heads/main/TTSM-Oracle/sounds/basetypes/amulets/stellar%20amulet.mp3)
+* [AWSPolly-Brian preview](https://media.githubusercontent.com/media/cdrg/poe1filtertts/refs/heads/main/AWSPolly-Brian/sounds/currency/stacked%20deck.mp3)
+* [AWSPolly-Matthew preview](https://media.githubusercontent.com/media/cdrg/poe1filtertts/refs/heads/main/AWSPolly-Matthew/sounds/currency/stacked%20deck.mp3)
+* [AWSPolly-Nicole preview](https://media.githubusercontent.com/media/cdrg/poe1filtertts/refs/heads/main/AWSPolly-Nicole/sounds/currency/stacked%20deck.mp3)
+* [TTSM-Oracle preview](https://media.githubusercontent.com/media/cdrg/poe1filtertts/refs/heads/main/TTSM-Oracle/sounds/currency/stacked%20deck.mp3)
 
 ## Installation guide:
 - Choose and download a voice .zip in [github Releases](https://github.com/cdrg/poe1filtertts/releases/latest), such as "AWSPolly-Brian.zip"
