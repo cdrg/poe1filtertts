@@ -6,6 +6,7 @@ If you want to see particular voice from [AWS Polly](https://ttsmp3.com/), [TTS.
 ---
 ### Table of Contents
 - [Notes](#poe1filtertts)
+- [Preview](#preview)
 - [Installation](#installation-guide)
 - [Bug reports](#bug-reports-or-suggestions)
 - [Quest item sound](#quest-item-sound)
@@ -18,9 +19,12 @@ If you want to see particular voice from [AWS Polly](https://ttsmp3.com/), [TTS.
 
 ### Link to filters: https://www.pathofexile.com/account/view-profile/cdrpoe-1004/item-filters
 
+# Preview:
+(probably only works in Firefox, otherwise download the file)
 * [AWSPolly-Brian preview](https://media.githubusercontent.com/media/cdrg/poe1filtertts/refs/heads/main/AWSPolly-Brian/sounds/currency/stacked%20deck.mp3)
 * [AWSPolly-Matthew preview](https://media.githubusercontent.com/media/cdrg/poe1filtertts/refs/heads/main/AWSPolly-Matthew/sounds/currency/stacked%20deck.mp3)
 * [AWSPolly-Nicole preview](https://media.githubusercontent.com/media/cdrg/poe1filtertts/refs/heads/main/AWSPolly-Nicole/sounds/currency/stacked%20deck.mp3)
+* [TTSM-Axel preview](https://media.githubusercontent.com/media/cdrg/poe1filtertts/refs/heads/main/TTSM-Axel/sounds/currency/stacked%20deck.mp3)
 * [TTSM-Oracle preview](https://media.githubusercontent.com/media/cdrg/poe1filtertts/refs/heads/main/TTSM-Oracle/sounds/currency/stacked%20deck.mp3)
 
 ## Installation guide:
