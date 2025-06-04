@@ -1,7 +1,7 @@
 ## poe1filtertts
 Text-To-Speech sound file packs for Path of Exile 1 item filters
 
-If you want to see particular voice from [AWS Polly](https://ai-service-demos.go-aws.com/polly), [TTS.Monster](https://tts.monster/), etc suggest it on [Discord](https://discord.gg/gRMjT5gVms)!
+If you want to see particular voice from [AWS Polly](https://ttsmp3.com/), [TTS.Monster](https://tts.monster/), etc suggest it on [Discord](https://discord.gg/gRMjT5gVms)!
 
 ---
 ### Table of Contents
