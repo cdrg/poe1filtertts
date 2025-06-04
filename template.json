@@ -460,9 +460,9 @@
         "ssml_text": "<prosody rate='fast'>glassblowers</prosody>"
     },
     {
-        "path": "currency/hinekora's lock.mp3",
-        "tts_text": "hinekora's lock",
-        "ssml_text": "<prosody rate='fast'>hinekora's lock</prosody>"
+        "path": "currency/hinekoras lock.mp3",
+        "tts_text": "hinekoras lock",
+        "ssml_text": "<prosody rate='fast'>hinekoras lock</prosody>"
     },
     {
         "path": "currency/instilling orb.mp3",
