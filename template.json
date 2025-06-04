@@ -365,6 +365,11 @@
         "ssml_text": "<prosody rate='fast'>rare sceptre</prosody>"
     },
     {
+        "path": "classes/shield.mp3",
+        "tts_text": "shield",
+        "ssml_text": ""
+    },
+    {
         "path": "classes/shield rare.mp3",
         "tts_text": "rare shield",
         "ssml_text": "<prosody rate='fast'>rare shield</prosody>"
