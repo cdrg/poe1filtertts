@@ -1,7 +1,16 @@
-# poe1filtertts
+## poe1filtertts
 Text-To-Speech sound file packs for Path of Exile 1 item filters
 
-If you want to see particular voice from [AWS Polly](https://ai-service-demos.go-aws.com/polly), [TTS.Monster](https://tts.monster/), etc suggest it on Discord!
+If you want to see particular voice from [AWS Polly](https://ai-service-demos.go-aws.com/polly), [TTS.Monster](https://tts.monster/), etc suggest it on [Discord](https://discord.gg/gRMjT5gVms)!
+
+---
+### Table of Contents
+- [Notes](#poe1filtertts)
+- [Installation](#installation-guide)
+- [Bug reports](#bug-reports-or-suggestions)
+- [Quest item sound](#quest-item-sound)
+- [Links](#links)
+---
 
 ### Note: Custom sound files and item filters that use them only work on PC, not console.
 
@@ -24,8 +33,18 @@ If you want to see particular voice from [AWS Polly](https://ai-service-demos.go
 
 ![image](https://github.com/user-attachments/assets/6058a8ac-434f-4db2-8152-4415438e6ab6)
 
+## Bug reports or suggestions:
+
+Make suggestions or bug reports on Discord or the reddit thread.
+
+## Quest item sound: 
+
+If you don't like the quest item sound (AKA "Progress is literally how you're measured").
+
+Replace the "quest item.mp3" file with a file of your choice, eg one from the [Voicelines](https://github.com/cdrg/poe1filtertts/tree/main/voicelines) folder.
 
 ---
+## Links:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7ROZFD)
 
