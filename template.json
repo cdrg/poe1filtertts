@@ -1355,6 +1355,11 @@
         "ssml_text": "<prosody rate='fast'>4 link 6 socket</prosody>"
     },
     {
+        "path": "links/4 link armour.mp3",
+        "tts_text": "4 link armour",
+        "ssml_text": "<prosody rate='fast'>4 link armour</prosody>"
+    },
+    {
         "path": "links/4 link armour rare.mp3",
         "tts_text": "rare 4 link armour",
         "ssml_text": "<prosody rate='fast'>rare 4 link armour</prosody>"
@@ -1365,9 +1370,19 @@
         "ssml_text": "<prosody rate='fast'>4 link base</prosody>"
     },
     {
+        "path": "links/4 link es armour.mp3",
+        "tts_text": "4 link ê ess armour",
+        "ssml_text": "<prosody rate='fast'>4 link ê ess armour</prosody>"
+    },
+    {
         "path": "links/4 link es armour rare.mp3",
         "tts_text": "rare 4 link ê ess armour",
         "ssml_text": "<prosody rate='fast'>rare 4 link ê ess armour</prosody>"
+    },
+    {
+        "path": "links/4 link es evasion.mp3",
+        "tts_text": "4 link ê ess evasion",
+        "ssml_text": "<prosody rate='fast'>4 link ê ess evasion</prosody>"
     },
     {
         "path": "links/4 link es evasion rare.mp3",
@@ -1375,14 +1390,29 @@
         "ssml_text": "<prosody rate='fast'>rare 4 link ê ess evasion</prosody>"
     },
     {
+        "path": "links/4 link es.mp3",
+        "tts_text": "4 link ê ess",
+        "ssml_text": "<prosody rate='fast'>4 link ê ess</prosody>"
+    },
+    {
         "path": "links/4 link es rare.mp3",
         "tts_text": "rare 4 link ê ess",
         "ssml_text": "<prosody rate='fast'>rare 4 link ê ess</prosody>"
     },
     {
+        "path": "links/4 link evasion armour.mp3",
+        "tts_text": "4 link evasion armour",
+        "ssml_text": "<prosody rate='fast'>4 link evasion armour</prosody>"
+    },
+    {
         "path": "links/4 link evasion armour rare.mp3",
         "tts_text": "rare 4 link evasion armour",
         "ssml_text": "<prosody rate='fast'>rare 4 link evasion armour</prosody>"
+    },
+    {
+        "path": "links/4 link evasion.mp3",
+        "tts_text": "4 link evasion",
+        "ssml_text": "<prosody rate='fast'>4 link evasion</prosody>"
     },
     {
         "path": "links/4 link evasion rare.mp3",
