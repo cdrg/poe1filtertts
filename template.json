@@ -310,9 +310,9 @@
         "ssml_text": "<prosody rate='fast'>rare one-hand</prosody>"
     },
     {
-        "path": "classes/quality armor.mp3",
-        "tts_text": "quality armor",
-        "ssml_text": "<prosody rate='fast'>quality armor</prosody>"
+        "path": "classes/quality armour.mp3",
+        "tts_text": "quality armour",
+        "ssml_text": "<prosody rate='fast'>quality armour</prosody>"
     },
     {
         "path": "classes/quality flask.mp3",
