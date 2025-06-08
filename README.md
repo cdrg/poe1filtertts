@@ -47,6 +47,7 @@ Replace the "quest item.mp3" file with a file of your choice, eg one from the [V
 [![discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d74e9607e61eeec9c91b_Logo.svg)](https://discord.gg/gRMjT5gVms)
 
 # Previews:
+https://github.com/user-attachments/assets/32c669e1-98de-409a-938c-7a9b31b93362
 
 https://github.com/user-attachments/assets/1e735ccf-8bc7-4376-b5bf-983c908b14bf
 
