@@ -5,6 +5,7 @@ Text-To-Speech sound file packs for Path of Exile 1 item filters
 ### Table of Contents
 - [Notes](#poe1filtertts)
 - [Installation](#installation-guide)
+- [If sound files don't play](#if-sound-files-dont-play-or-sound-files-are-1kb)
 - [Bug reports](#bug-reports-or-suggestions)
 - [Quest item sound](#quest-item-sound)
 - [Links](#links)
@@ -16,6 +17,7 @@ Text-To-Speech sound file packs for Path of Exile 1 item filters
 ### Note: Downloading the latest release is sometimes required even if you've downloaded a soundpack before, if new sounds are added.
 
 ### Link to filters: https://www.pathofexile.com/account/view-profile/cdrpoe-1004/item-filters
+---
 
 ## Installation guide:
 - Choose and download a voice .zip in [github Releases](https://github.com/cdrg/poe1filtertts/releases/latest), such as "AWSPolly-Brian.zip"
@@ -26,6 +28,10 @@ Text-To-Speech sound file packs for Path of Exile 1 item filters
 ![image](https://github.com/user-attachments/assets/58ef8af8-64aa-463d-828d-ac18c1271c2e)
 
 ![image](https://github.com/user-attachments/assets/6058a8ac-434f-4db2-8152-4415438e6ab6)
+
+## If sound files don't play or sound files are 1kb
+
+The source uses git-lfs, so the actual files are not in the source. Using the source zip or git checkout won't work unless you configure git-lfs. Please use the release zips on the Release page to download files.
 
 ## Bug reports or suggestions:
 
@@ -45,6 +51,8 @@ Replace the "quest item.mp3" file with a file of your choice, eg one from the [V
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7ROZFD)
 
 [![discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d74e9607e61eeec9c91b_Logo.svg)](https://discord.gg/gRMjT5gVms)
+
+---
 
 # Previews:
 https://github.com/user-attachments/assets/32c669e1-98de-409a-938c-7a9b31b93362
