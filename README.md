@@ -5,7 +5,6 @@ Text-To-Speech sound file packs for Path of Exile 1 item filters
 ### Table of Contents
 - [Notes](#poe1filtertts)
 - [Installation](#installation-guide)
-- [If sound files don't play](#if-sound-files-dont-play-or-sound-files-are-1kb)
 - [Bug reports](#bug-reports-or-suggestions)
 - [Quest item sound](#quest-item-sound)
 - [Links](#links)
@@ -28,10 +27,6 @@ Text-To-Speech sound file packs for Path of Exile 1 item filters
 ![image](https://github.com/user-attachments/assets/58ef8af8-64aa-463d-828d-ac18c1271c2e)
 
 ![image](https://github.com/user-attachments/assets/6058a8ac-434f-4db2-8152-4415438e6ab6)
-
-## If sound files don't play or sound files are 1kb
-
-The source uses git-lfs, so the actual files are not in the source. Using the source zip or git checkout won't work unless you configure git-lfs. Please use the release zips on the Release page to download files.
 
 ## Bug reports or suggestions:
 
