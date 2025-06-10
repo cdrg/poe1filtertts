@@ -45,6 +45,11 @@
         "ssml_text": "<prosody rate='fast'>ghastly eye jewel</prosody>"
     },
     {
+        "path": "basetypes/goats horn.mp3",
+        "tts_text": "goat's horn",
+        "ssml_text": "<prosody rate='fast'>goat's horn</prosody>"
+    },
+    {
         "path": "basetypes/granite flask.mp3",
         "tts_text": "granite flask",
         "ssml_text": "<prosody rate='fast'>granite flask</prosody>"
