@@ -160,6 +160,11 @@
         "ssml_text": "<prosody rate='fast'>two-stone ring</prosody>"
     },
     {
+        "path": "basetypes/whalebone rapier.mp3",
+        "tts_text": "whalebone rapier",
+        "ssml_text": "<prosody rate='fast'>whalebone rapier</prosody>"
+    },
+    {
         "path": "classes/abyss jewel.mp3",
         "tts_text": "abyss jewel",
         "ssml_text": "<prosody rate='fast'>abyss jewel</prosody>"
