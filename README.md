@@ -16,6 +16,9 @@ Text-To-Speech sound file packs for Path of Exile 1 item filters
 ### Note: Downloading the latest release is sometimes required even if you've downloaded a soundpack before, if new sounds are added.
 
 ### Link to filters: https://www.pathofexile.com/account/view-profile/cdrpoe-1004/item-filters
+
+[FilterBlade profile](https://www.filterblade.xyz/Profile?name=cdrpoe%231004&game=Poe1)
+
 ---
 
 ## Installation guide:
