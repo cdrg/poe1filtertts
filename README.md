@@ -27,15 +27,16 @@ Text-To-Speech sound file packs for Path of Exile 1 item filters
   - Leave the "sounds" folder intact.
   - There's a button in Options > Game to open the filter folder.
 
-![image](https://github.com/user-attachments/assets/58ef8af8-64aa-463d-828d-ac18c1271c2e)
-
-![image](https://github.com/user-attachments/assets/6058a8ac-434f-4db2-8152-4415438e6ab6)
+Your folder should look like this:  
+![image](https://github.com/user-attachments/assets/58ef8af8-64aa-463d-828d-ac18c1271c2e)  
+Location in game options:  
+![image](https://github.com/user-attachments/assets/6058a8ac-434f-4db2-8152-4415438e6ab6)  
 
 ## Bug reports or suggestions:
 
-Make suggestions or bug reports on [Discord](https://discord.gg/gRMjT5gVms) or the reddit thread. Also if you want to see particular voice from [AWS Polly](https://ttsmp3.com/), [TTS.Monster](https://tts.monster/), etc.
+Make suggestions or bug reports on [Discord](https://discord.gg/gRMjT5gVms) or the reddit thread. If you want to see particular voice from [AWS Polly](https://ttsmp3.com/), [TTS.Monster](https://tts.monster/), etc suggest it.
 
-Git pull requests welcome, like adding items to the template.json.
+Git pull requests welcome, such as adding items to the template.json.
 
 ## Quest item sound: 
 
@@ -47,6 +48,8 @@ Replace the "quest item.mp3" file with a file of your choice, eg one from the [V
 ## Links:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7ROZFD)
+
+[![patreon](https://github.com/user-attachments/assets/b7841f4d-5bcc-4642-a04c-2f22e5c48a24)](https://patreon.com/cdrpt)
 
 [![discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d74e9607e61eeec9c91b_Logo.svg)](https://discord.gg/gRMjT5gVms)
 
