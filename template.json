@@ -35,24 +35,24 @@
         "ssml_text": "<prosody rate='fast'>chain belt</prosody>"
     },
     {
-        "path": "basetypes/belts/heavy belt.mp3",
-        "tts_text": "heavy belt",
-        "ssml_text": "<prosody rate='fast'>heavy belt</prosody>"
-    },
-    {
         "path": "basetypes/belts/heavy belt rare.mp3",
         "tts_text": "rare heavy belt",
         "ssml_text": "<prosody rate='fast'>rare heavy belt</prosody>"
     },
     {
-        "path": "basetypes/belts/leather belt.mp3",
-        "tts_text": "leather belt",
-        "ssml_text": "<prosody rate='fast'>leather belt</prosody>"
+        "path": "basetypes/belts/heavy belt.mp3",
+        "tts_text": "heavy belt",
+        "ssml_text": "<prosody rate='fast'>heavy belt</prosody>"
     },
     {
         "path": "basetypes/belts/leather belt rare.mp3",
         "tts_text": "rare leather belt",
         "ssml_text": "<prosody rate='fast'>rare leather belt</prosody>"
+    },
+    {
+        "path": "basetypes/belts/leather belt.mp3",
+        "tts_text": "leather belt",
+        "ssml_text": "<prosody rate='fast'>leather belt</prosody>"
     },
     {
         "path": "basetypes/belts/rustic sash rare.mp3",
@@ -65,44 +65,9 @@
         "ssml_text": "<prosody rate='fast'>rustic sash</prosody>"
     },
     {
-        "path": "basetypes/belts/sapphire flask.mp3",
-        "tts_text": "sapphire flask",
-        "ssml_text": "<prosody rate='fast'>sapphire flask</prosody>"
-    },
-    {
         "path": "basetypes/belts/stygian vise.mp3",
         "tts_text": "stygian vise",
         "ssml_text": "<prosody rate='fast'>stygian vise</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/small life flask.mp3",
-        "tts_text": "small life flask",
-        "ssml_text": "<prosody rate='fast'>small life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/medium life flask.mp3",
-        "tts_text": "medium life flask",
-        "ssml_text": "<prosody rate='fast'>medium life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/large life flask.mp3",
-        "tts_text": "large life flask",
-        "ssml_text": "<prosody rate='fast'>large life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/greater life flask.mp3",
-        "tts_text": "greater life flask",
-        "ssml_text": "<prosody rate='fast'>greater life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/grand life flask.mp3",
-        "tts_text": "grand life flask",
-        "ssml_text": "<prosody rate='fast'>grand life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/giant life flask.mp3",
-        "tts_text": "giant life flask",
-        "ssml_text": "<prosody rate='fast'>giant life flask</prosody>"
     },
     {
         "path": "basetypes/flasks/colossal life flask.mp3",
@@ -110,99 +75,9 @@
         "ssml_text": "<prosody rate='fast'>colossal life flask</prosody>"
     },
     {
-        "path": "basetypes/flasks/sacred life flask.mp3",
-        "tts_text": "sacred life flask",
-        "ssml_text": "<prosody rate='fast'>sacred life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/hallowed life flask.mp3",
-        "tts_text": "hallowed life flask",
-        "ssml_text": "<prosody rate='fast'>hallowed life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/sanctified life flask.mp3",
-        "tts_text": "sanctified life flask",
-        "ssml_text": "<prosody rate='fast'>sanctified life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/divine life flask.mp3",
-        "tts_text": "divine life flask",
-        "ssml_text": "<prosody rate='fast'>divine life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/divine life flask.mp3",
-        "tts_text": "divine life flask",
-        "ssml_text": "<prosody rate='fast'>divine life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/eternal life flask.mp3",
-        "tts_text": "eternal life flask",
-        "ssml_text": "<prosody rate='fast'>eternal life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/small mana flask.mp3",
-        "tts_text": "small mana flask",
-        "ssml_text": "<prosody rate='fast'>small mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/medium mana flask.mp3",
-        "tts_text": "medium mana flask",
-        "ssml_text": "<prosody rate='fast'>medium mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/large mana flask.mp3",
-        "tts_text": "large mana flask",
-        "ssml_text": "<prosody rate='fast'>large mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/greater mana flask.mp3",
-        "tts_text": "greater mana flask",
-        "ssml_text": "<prosody rate='fast'>greater mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/grand mana flask.mp3",
-        "tts_text": "grand mana flask",
-        "ssml_text": "<prosody rate='fast'>grand mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/giant mana flask.mp3",
-        "tts_text": "giant mana flask",
-        "ssml_text": "<prosody rate='fast'>giant mana flask</prosody>"
-    },
-    {
         "path": "basetypes/flasks/colossal mana flask.mp3",
         "tts_text": "colossal mana flask",
         "ssml_text": "<prosody rate='fast'>colossal mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/sacred mana flask.mp3",
-        "tts_text": "sacred mana flask",
-        "ssml_text": "<prosody rate='fast'>sacred mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/hallowed mana flask.mp3",
-        "tts_text": "hallowed mana flask",
-        "ssml_text": "<prosody rate='fast'>hallowed mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/sanctified mana flask.mp3",
-        "tts_text": "sanctified mana flask",
-        "ssml_text": "<prosody rate='fast'>sanctified mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/divine mana flask.mp3",
-        "tts_text": "divine mana flask",
-        "ssml_text": "<prosody rate='fast'>divine mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/divine mana flask.mp3",
-        "tts_text": "divine mana flask",
-        "ssml_text": "<prosody rate='fast'>divine mana flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/eternal mana flask.mp3",
-        "tts_text": "eternal mana flask",
-        "ssml_text": "<prosody rate='fast'>eternal mana flask</prosody>"
     },
     {
         "path": "basetypes/flasks/diamond flask.mp3",
@@ -210,14 +85,104 @@
         "ssml_text": "<prosody rate='fast'>diamond flask</prosody>"
     },
     {
+        "path": "basetypes/flasks/divine life flask.mp3",
+        "tts_text": "divine life flask",
+        "ssml_text": "<prosody rate='fast'>divine life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/divine life flask.mp3",
+        "tts_text": "divine life flask",
+        "ssml_text": "<prosody rate='fast'>divine life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/divine mana flask.mp3",
+        "tts_text": "divine mana flask",
+        "ssml_text": "<prosody rate='fast'>divine mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/divine mana flask.mp3",
+        "tts_text": "divine mana flask",
+        "ssml_text": "<prosody rate='fast'>divine mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/eternal life flask.mp3",
+        "tts_text": "eternal life flask",
+        "ssml_text": "<prosody rate='fast'>eternal life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/eternal mana flask.mp3",
+        "tts_text": "eternal mana flask",
+        "ssml_text": "<prosody rate='fast'>eternal mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/giant life flask.mp3",
+        "tts_text": "giant life flask",
+        "ssml_text": "<prosody rate='fast'>giant life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/giant mana flask.mp3",
+        "tts_text": "giant mana flask",
+        "ssml_text": "<prosody rate='fast'>giant mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/grand life flask.mp3",
+        "tts_text": "grand life flask",
+        "ssml_text": "<prosody rate='fast'>grand life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/grand mana flask.mp3",
+        "tts_text": "grand mana flask",
+        "ssml_text": "<prosody rate='fast'>grand mana flask</prosody>"
+    },
+    {
         "path": "basetypes/flasks/granite flask.mp3",
         "tts_text": "granite flask",
         "ssml_text": "<prosody rate='fast'>granite flask</prosody>"
     },
     {
+        "path": "basetypes/flasks/greater life flask.mp3",
+        "tts_text": "greater life flask",
+        "ssml_text": "<prosody rate='fast'>greater life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/greater mana flask.mp3",
+        "tts_text": "greater mana flask",
+        "ssml_text": "<prosody rate='fast'>greater mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/hallowed life flask.mp3",
+        "tts_text": "hallowed life flask",
+        "ssml_text": "<prosody rate='fast'>hallowed life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/hallowed mana flask.mp3",
+        "tts_text": "hallowed mana flask",
+        "ssml_text": "<prosody rate='fast'>hallowed mana flask</prosody>"
+    },
+    {
         "path": "basetypes/flasks/jade flask.mp3",
         "tts_text": "jade flask",
         "ssml_text": "<prosody rate='fast'>jade flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/large life flask.mp3",
+        "tts_text": "large life flask",
+        "ssml_text": "<prosody rate='fast'>large life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/large mana flask.mp3",
+        "tts_text": "large mana flask",
+        "ssml_text": "<prosody rate='fast'>large mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/medium life flask.mp3",
+        "tts_text": "medium life flask",
+        "ssml_text": "<prosody rate='fast'>medium life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/medium mana flask.mp3",
+        "tts_text": "medium mana flask",
+        "ssml_text": "<prosody rate='fast'>medium mana flask</prosody>"
     },
     {
         "path": "basetypes/flasks/quartz flask.mp3",
@@ -235,9 +200,44 @@
         "ssml_text": "<prosody rate='fast'>ruby flask</prosody>"
     },
     {
+        "path": "basetypes/flasks/sacred life flask.mp3",
+        "tts_text": "sacred life flask",
+        "ssml_text": "<prosody rate='fast'>sacred life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/sacred mana flask.mp3",
+        "tts_text": "sacred mana flask",
+        "ssml_text": "<prosody rate='fast'>sacred mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/sanctified life flask.mp3",
+        "tts_text": "sanctified life flask",
+        "ssml_text": "<prosody rate='fast'>sanctified life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/sanctified mana flask.mp3",
+        "tts_text": "sanctified mana flask",
+        "ssml_text": "<prosody rate='fast'>sanctified mana flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/sapphire flask.mp3",
+        "tts_text": "sapphire flask",
+        "ssml_text": "<prosody rate='fast'>sapphire flask</prosody>"
+    },
+    {
         "path": "basetypes/flasks/silver flask.mp3",
         "tts_text": "silver flask",
         "ssml_text": "<prosody rate='fast'>silver flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/small life flask.mp3",
+        "tts_text": "small life flask",
+        "ssml_text": "<prosody rate='fast'>small life flask</prosody>"
+    },
+    {
+        "path": "basetypes/flasks/small mana flask.mp3",
+        "tts_text": "small mana flask",
+        "ssml_text": "<prosody rate='fast'>small mana flask</prosody>"
     },
     {
         "path": "basetypes/flasks/sulphur flask.mp3",
@@ -810,1027 +810,1037 @@
         "ssml_text": ""
     },
     {
-        "path": "links/2b1g body.mp3",
+        "path": "links/3l/2b1g body.mp3",
         "tts_text": "2 bee 1 jee body",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee body</prosody>"
     },
     {
-        "path": "links/2b1g boots.mp3",
+        "path": "links/3l/2b1g boots.mp3",
         "tts_text": "2 bee 1 jee boots",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee boots</prosody>"
     },
     {
-        "path": "links/2b1g gloves.mp3",
+        "path": "links/3l/2b1g gloves.mp3",
         "tts_text": "2 bee 1 jee gloves",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee gloves</prosody>"
     },
     {
-        "path": "links/2b1g helm.mp3",
+        "path": "links/3l/2b1g helm.mp3",
         "tts_text": "2 bee 1 jee helm",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee helm</prosody>"
     },
     {
-        "path": "links/2b1g melee.mp3",
+        "path": "links/3l/2b1g melee.mp3",
         "tts_text": "2 bee 1 jee melee",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee melee</prosody>"
     },
     {
-        "path": "links/2b1g rare.mp3",
+        "path": "links/3l/2b1g rare.mp3",
         "tts_text": "rare 2 bee 1 jee ",
         "ssml_text": "<prosody rate='fast'>rare 2 bee 1 jee </prosody>"
     },
     {
-        "path": "links/2b1g rune dagger.mp3",
+        "path": "links/3l/2b1g rune dagger.mp3",
         "tts_text": "2 bee 1 jee rune dagger",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee rune dagger</prosody>"
     },
     {
-        "path": "links/2b1g sceptre.mp3",
+        "path": "links/3l/2b1g sceptre.mp3",
         "tts_text": "2 bee 1 jee sceptre",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee sceptre</prosody>"
     },
     {
-        "path": "links/2b1g shield.mp3",
+        "path": "links/3l/2b1g shield.mp3",
         "tts_text": "2 bee 1 jee shield",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee shield</prosody>"
     },
     {
-        "path": "links/2b1g wand.mp3",
+        "path": "links/3l/2b1g wand.mp3",
         "tts_text": "2 bee 1 jee wand",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee wand</prosody>"
     },
     {
-        "path": "links/2b1g1r body.mp3",
-        "tts_text": "2 bee 1 jee 1 are body",
-        "ssml_text": "<prosody rate='fast'>2 bee 1 jee 1 are body</prosody>"
-    },
-    {
-        "path": "links/2b1g1r boots.mp3",
-        "tts_text": "2 bee 1 jee 1 are boots",
-        "ssml_text": "<prosody rate='fast'>2 bee 1 jee 1 are boots</prosody>"
-    },
-    {
-        "path": "links/2b1g1r gloves.mp3",
-        "tts_text": "2 bee 1 jee 1 are gloves",
-        "ssml_text": "<prosody rate='fast'>2 bee 1 jee 1 are gloves</prosody>"
-    },
-    {
-        "path": "links/2b1g1r helm.mp3",
-        "tts_text": "2 bee 1 jee 1 are helm",
-        "ssml_text": "<prosody rate='fast'>2 bee 1 jee 1 are helm</prosody>"
-    },
-    {
-        "path": "links/2b1r body.mp3",
+        "path": "links/3l/2b1r body.mp3",
         "tts_text": "2 bee 1 are body",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are body</prosody>"
     },
     {
-        "path": "links/2b1r boots.mp3",
+        "path": "links/3l/2b1r boots.mp3",
         "tts_text": "2 bee 1 are boots",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are boots</prosody>"
     },
     {
-        "path": "links/2b1r gloves.mp3",
+        "path": "links/3l/2b1r gloves.mp3",
         "tts_text": "2 bee 1 are gloves",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are gloves</prosody>"
     },
     {
-        "path": "links/2b1r helm.mp3",
+        "path": "links/3l/2b1r helm.mp3",
         "tts_text": "2 bee 1 are helm",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are helm</prosody>"
     },
     {
-        "path": "links/2b1r melee.mp3",
+        "path": "links/3l/2b1r melee.mp3",
         "tts_text": "2 bee 1 are melee",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are melee</prosody>"
     },
     {
-        "path": "links/2b1r rare.mp3",
+        "path": "links/3l/2b1r rare.mp3",
         "tts_text": "rare 2 bee 1 are ",
         "ssml_text": "<prosody rate='fast'>rare 2 bee 1 are </prosody>"
     },
     {
-        "path": "links/2b1r rune dagger.mp3",
+        "path": "links/3l/2b1r rune dagger.mp3",
         "tts_text": "2 bee 1 are rune dagger",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are rune dagger</prosody>"
     },
     {
-        "path": "links/2b1r sceptre.mp3",
+        "path": "links/3l/2b1r sceptre.mp3",
         "tts_text": "2 bee 1 are sceptre",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are sceptre</prosody>"
     },
     {
-        "path": "links/2b1r shield.mp3",
+        "path": "links/3l/2b1r shield.mp3",
         "tts_text": "2 bee 1 are shield",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are shield</prosody>"
     },
     {
-        "path": "links/2b1r wand.mp3",
+        "path": "links/3l/2b1r wand.mp3",
         "tts_text": "2 bee 1 are wand",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are wand</prosody>"
     },
     {
-        "path": "links/2b2g body.mp3",
-        "tts_text": "2 bee 2 jee body",
-        "ssml_text": "<prosody rate='fast'>2 bee 2 jee body</prosody>"
-    },
-    {
-        "path": "links/2b2g boots.mp3",
-        "tts_text": "2 bee 2 jee boots",
-        "ssml_text": "<prosody rate='fast'>2 bee 2 jee boots</prosody>"
-    },
-    {
-        "path": "links/2b2g gloves.mp3",
-        "tts_text": "2 bee 2 jee gloves",
-        "ssml_text": "<prosody rate='fast'>2 bee 2 jee gloves</prosody>"
-    },
-    {
-        "path": "links/2b2g helm.mp3",
-        "tts_text": "2 bee 2 jee helm",
-        "ssml_text": "<prosody rate='fast'>2 bee 2 jee helm</prosody>"
-    },
-    {
-        "path": "links/2b2r body.mp3",
-        "tts_text": "2 bee 2 are body",
-        "ssml_text": "<prosody rate='fast'>2 bee 2 are body</prosody>"
-    },
-    {
-        "path": "links/2b2r boots.mp3",
-        "tts_text": "2 bee 2 are boots",
-        "ssml_text": "<prosody rate='fast'>2 bee 2 are boots</prosody>"
-    },
-    {
-        "path": "links/2b2r gloves.mp3",
-        "tts_text": "2 bee 2 are gloves",
-        "ssml_text": "<prosody rate='fast'>2 bee 2 are gloves</prosody>"
-    },
-    {
-        "path": "links/2b2r helm.mp3",
-        "tts_text": "2 bee 2 are helm",
-        "ssml_text": "<prosody rate='fast'>2 bee 2 are helm</prosody>"
-    },
-    {
-        "path": "links/2g1b body.mp3",
+        "path": "links/3l/2g1b body.mp3",
         "tts_text": "2 jee 1 bee body",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee body</prosody>"
     },
     {
-        "path": "links/2g1b boots.mp3",
+        "path": "links/3l/2g1b boots.mp3",
         "tts_text": "2 jee 1 bee boots",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee boots</prosody>"
     },
     {
-        "path": "links/2g1b gloves.mp3",
+        "path": "links/3l/2g1b gloves.mp3",
         "tts_text": "2 jee 1 bee gloves",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee gloves</prosody>"
     },
     {
-        "path": "links/2g1b helm.mp3",
+        "path": "links/3l/2g1b helm.mp3",
         "tts_text": "2 jee 1 bee helm",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee helm</prosody>"
     },
     {
-        "path": "links/2g1b melee.mp3",
+        "path": "links/3l/2g1b melee.mp3",
         "tts_text": "2 jee 1 bee melee",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee melee</prosody>"
     },
     {
-        "path": "links/2g1b rare.mp3",
+        "path": "links/3l/2g1b rare.mp3",
         "tts_text": "rare 2 jee 1 bee ",
         "ssml_text": "<prosody rate='fast'>rare 2 jee 1 bee </prosody>"
     },
     {
-        "path": "links/2g1b rune dagger.mp3",
+        "path": "links/3l/2g1b rune dagger.mp3",
         "tts_text": "2 jee 1 bee rune dagger",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee rune dagger</prosody>"
     },
     {
-        "path": "links/2g1b sceptre.mp3",
+        "path": "links/3l/2g1b sceptre.mp3",
         "tts_text": "2 jee 1 bee sceptre",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee sceptre</prosody>"
     },
     {
-        "path": "links/2g1b shield.mp3",
+        "path": "links/3l/2g1b shield.mp3",
         "tts_text": "2 jee 1 bee shield",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee shield</prosody>"
     },
     {
-        "path": "links/2g1b wand.mp3",
+        "path": "links/3l/2g1b wand.mp3",
         "tts_text": "2 jee 1 bee wand",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee wand</prosody>"
     },
     {
-        "path": "links/2g1b1r body.mp3",
-        "tts_text": "2 jee 1 bee 1 are body",
-        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are body</prosody>"
-    },
-    {
-        "path": "links/2g1b1r boots.mp3",
-        "tts_text": "2 jee 1 bee 1 are boots",
-        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are boots</prosody>"
-    },
-    {
-        "path": "links/2g1b1r bow.mp3",
-        "tts_text": "2 jee 1 bee 1 are bow",
-        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are bow</prosody>"
-    },
-    {
-        "path": "links/2g1b1r gloves.mp3",
-        "tts_text": "2 jee 1 bee 1 are gloves",
-        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are gloves</prosody>"
-    },
-    {
-        "path": "links/2g1b1r helm.mp3",
-        "tts_text": "2 jee 1 bee 1 are helm",
-        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are helm</prosody>"
-    },
-    {
-        "path": "links/2g1b1r melee.mp3",
-        "tts_text": "2 jee 1 bee 1 are melee",
-        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are melee</prosody>"
-    },
-    {
-        "path": "links/2g1r body.mp3",
+        "path": "links/3l/2g1r body.mp3",
         "tts_text": "2 jee 1 are body",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are body</prosody>"
     },
     {
-        "path": "links/2g1r boots.mp3",
+        "path": "links/3l/2g1r boots.mp3",
         "tts_text": "2 jee 1 are boots",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are boots</prosody>"
     },
     {
-        "path": "links/2g1r bow.mp3",
+        "path": "links/3l/2g1r bow.mp3",
         "tts_text": "2 jee 1 are bow",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are bow</prosody>"
     },
     {
-        "path": "links/2g1r gloves.mp3",
+        "path": "links/3l/2g1r gloves.mp3",
         "tts_text": "2 jee 1 are gloves",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are gloves</prosody>"
     },
     {
-        "path": "links/2g1r helm.mp3",
+        "path": "links/3l/2g1r helm.mp3",
         "tts_text": "2 jee 1 are helm",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are helm</prosody>"
     },
     {
-        "path": "links/2g1r melee.mp3",
+        "path": "links/3l/2g1r melee.mp3",
         "tts_text": "2 jee 1 are melee",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are melee</prosody>"
     },
     {
-        "path": "links/2g1r rare.mp3",
+        "path": "links/3l/2g1r rare.mp3",
         "tts_text": "rare 2 jee 1 are ",
         "ssml_text": "<prosody rate='fast'>rare 2 jee 1 are </prosody>"
     },
     {
-        "path": "links/2g1r shield.mp3",
+        "path": "links/3l/2g1r shield.mp3",
         "tts_text": "2 jee 1 are shield",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are shield</prosody>"
     },
     {
-        "path": "links/2g2b body.mp3",
-        "tts_text": "2 jee 2 bee body",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 bee body</prosody>"
-    },
-    {
-        "path": "links/2g2b boots.mp3",
-        "tts_text": "2 jee 2 bee boots",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 bee boots</prosody>"
-    },
-    {
-        "path": "links/2g2b gloves.mp3",
-        "tts_text": "2 jee 2 bee gloves",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 bee gloves</prosody>"
-    },
-    {
-        "path": "links/2g2b helm.mp3",
-        "tts_text": "2 jee 2 bee helm",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 bee helm</prosody>"
-    },
-    {
-        "path": "links/2g2r body.mp3",
-        "tts_text": "2 jee 2 are body",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 are body</prosody>"
-    },
-    {
-        "path": "links/2g2r boots.mp3",
-        "tts_text": "2 jee 2 are boots",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 are boots</prosody>"
-    },
-    {
-        "path": "links/2g2r bow.mp3",
-        "tts_text": "2 jee 2 are bow",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 are bow</prosody>"
-    },
-    {
-        "path": "links/2g2r gloves.mp3",
-        "tts_text": "2 jee 2 are gloves",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 are gloves</prosody>"
-    },
-    {
-        "path": "links/2g2r helm.mp3",
-        "tts_text": "2 jee 2 are helm",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 are helm</prosody>"
-    },
-    {
-        "path": "links/2g2r melee.mp3",
-        "tts_text": "2 jee 2 are melee",
-        "ssml_text": "<prosody rate='fast'>2 jee 2 are melee</prosody>"
-    },
-    {
-        "path": "links/2r1b body.mp3",
+        "path": "links/3l/2r1b body.mp3",
         "tts_text": "2 are 1 bee body",
         "ssml_text": "<prosody rate='fast'>2 are 1 bee body</prosody>"
     },
     {
-        "path": "links/2r1b boots.mp3",
+        "path": "links/3l/2r1b boots.mp3",
         "tts_text": "2 are 1 bee boots",
         "ssml_text": "<prosody rate='fast'>2 are 1 bee boots</prosody>"
     },
     {
-        "path": "links/2r1b gloves.mp3",
+        "path": "links/3l/2r1b gloves.mp3",
         "tts_text": "2 are 1 bee gloves",
         "ssml_text": "<prosody rate='fast'>2 are 1 bee gloves</prosody>"
     },
     {
-        "path": "links/2r1b helm.mp3",
+        "path": "links/3l/2r1b helm.mp3",
         "tts_text": "2 are 1 bee helm",
         "ssml_text": "<prosody rate='fast'>2 are 1 bee helm</prosody>"
     },
     {
-        "path": "links/2r1b melee.mp3",
+        "path": "links/3l/2r1b melee.mp3",
         "tts_text": "2 are 1 bee melee",
         "ssml_text": "<prosody rate='fast'>2 are 1 bee melee</prosody>"
     },
     {
-        "path": "links/2r1b rare.mp3",
+        "path": "links/3l/2r1b rare.mp3",
         "tts_text": "rare 2 are 1 bee ",
         "ssml_text": "<prosody rate='fast'>rare 2 are 1 bee </prosody>"
     },
     {
-        "path": "links/2r1b sceptre.mp3",
+        "path": "links/3l/2r1b sceptre.mp3",
         "tts_text": "2 are 1 bee sceptre",
         "ssml_text": "<prosody rate='fast'>2 are 1 bee sceptre</prosody>"
     },
     {
-        "path": "links/2r1b shield.mp3",
+        "path": "links/3l/2r1b shield.mp3",
         "tts_text": "2 are 1 bee shield",
         "ssml_text": "<prosody rate='fast'>2 are 1 bee shield</prosody>"
     },
     {
-        "path": "links/2r1b wand.mp3",
+        "path": "links/3l/2r1b wand.mp3",
         "tts_text": "2 are 1 bee wand",
         "ssml_text": "<prosody rate='fast'>2 are 1 bee wand</prosody>"
     },
     {
-        "path": "links/2r1b1g body.mp3",
-        "tts_text": "2 are 1 bee 1 jee body",
-        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee body</prosody>"
-    },
-    {
-        "path": "links/2r1b1g boots.mp3",
-        "tts_text": "2 are 1 bee 1 jee boots",
-        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee boots</prosody>"
-    },
-    {
-        "path": "links/2r1b1g gloves.mp3",
-        "tts_text": "2 are 1 bee 1 jee gloves",
-        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee gloves</prosody>"
-    },
-    {
-        "path": "links/2r1b1g helm.mp3",
-        "tts_text": "2 are 1 bee 1 jee helm",
-        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee helm</prosody>"
-    },
-    {
-        "path": "links/2r1b1g melee.mp3",
-        "tts_text": "2 are 1 bee 1 jee melee",
-        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee melee</prosody>"
-    },
-    {
-        "path": "links/2r1g body.mp3",
+        "path": "links/3l/2r1g body.mp3",
         "tts_text": "2 are 1 jee body",
         "ssml_text": "<prosody rate='fast'>2 are 1 jee body</prosody>"
     },
     {
-        "path": "links/2r1g boots.mp3",
+        "path": "links/3l/2r1g boots.mp3",
         "tts_text": "2 are 1 jee boots",
         "ssml_text": "<prosody rate='fast'>2 are 1 jee boots</prosody>"
     },
     {
-        "path": "links/2r1g bow.mp3",
+        "path": "links/3l/2r1g bow.mp3",
         "tts_text": "2 are 1 jee bow",
         "ssml_text": "<prosody rate='fast'>2 are 1 jee bow</prosody>"
     },
     {
-        "path": "links/2r1g gloves.mp3",
+        "path": "links/3l/2r1g gloves.mp3",
         "tts_text": "2 are 1 jee gloves",
         "ssml_text": "<prosody rate='fast'>2 are 1 jee gloves</prosody>"
     },
     {
-        "path": "links/2r1g helm.mp3",
+        "path": "links/3l/2r1g helm.mp3",
         "tts_text": "2 are 1 jee helm",
         "ssml_text": "<prosody rate='fast'>2 are 1 jee helm</prosody>"
     },
     {
-        "path": "links/2r1g melee.mp3",
+        "path": "links/3l/2r1g melee.mp3",
         "tts_text": "2 are 1 jee melee",
         "ssml_text": "<prosody rate='fast'>2 are 1 jee melee</prosody>"
     },
     {
-        "path": "links/2r1g rare.mp3",
+        "path": "links/3l/2r1g rare.mp3",
         "tts_text": "rare 2 are 1 jee ",
         "ssml_text": "<prosody rate='fast'>rare 2 are 1 jee </prosody>"
     },
     {
-        "path": "links/2r1g shield.mp3",
+        "path": "links/3l/2r1g shield.mp3",
         "tts_text": "2 are 1 jee shield",
         "ssml_text": "<prosody rate='fast'>2 are 1 jee shield</prosody>"
     },
     {
-        "path": "links/3b body.mp3",
+        "path": "links/3l/3b body.mp3",
         "tts_text": "3 bee body",
         "ssml_text": "<prosody rate='fast'>3 bee body</prosody>"
     },
     {
-        "path": "links/3b boots.mp3",
+        "path": "links/3l/3b boots.mp3",
         "tts_text": "3 bee boots",
         "ssml_text": "<prosody rate='fast'>3 bee boots</prosody>"
     },
     {
-        "path": "links/3b gloves.mp3",
+        "path": "links/3l/3b gloves.mp3",
         "tts_text": "3 bee gloves",
         "ssml_text": "<prosody rate='fast'>3 bee gloves</prosody>"
     },
     {
-        "path": "links/3b helm.mp3",
+        "path": "links/3l/3b helm.mp3",
         "tts_text": "3 bee helm",
         "ssml_text": "<prosody rate='fast'>3 bee helm</prosody>"
     },
     {
-        "path": "links/3b melee.mp3",
+        "path": "links/3l/3b melee.mp3",
         "tts_text": "3 bee melee",
         "ssml_text": "<prosody rate='fast'>3 bee melee</prosody>"
     },
     {
-        "path": "links/3b rare.mp3",
+        "path": "links/3l/3b rare.mp3",
         "tts_text": "rare 3 bee ",
         "ssml_text": "<prosody rate='fast'>rare 3 bee </prosody>"
     },
     {
-        "path": "links/3b rune dagger.mp3",
+        "path": "links/3l/3b rune dagger.mp3",
         "tts_text": "3 bee rune dagger",
         "ssml_text": "<prosody rate='fast'>3 bee rune dagger</prosody>"
     },
     {
-        "path": "links/3b sceptre.mp3",
+        "path": "links/3l/3b sceptre.mp3",
         "tts_text": "3 bee sceptre",
         "ssml_text": "<prosody rate='fast'>3 bee sceptre</prosody>"
     },
     {
-        "path": "links/3b shield.mp3",
+        "path": "links/3l/3b shield.mp3",
         "tts_text": "3 bee shield",
         "ssml_text": "<prosody rate='fast'>3 bee shield</prosody>"
     },
     {
-        "path": "links/3b wand.mp3",
+        "path": "links/3l/3b wand.mp3",
         "tts_text": "3 bee wand",
         "ssml_text": "<prosody rate='fast'>3 bee wand</prosody>"
     },
     {
-        "path": "links/3b1g body.mp3",
-        "tts_text": "3 bee 1 jee body",
-        "ssml_text": "<prosody rate='fast'>3 bee 1 jee body</prosody>"
-    },
-    {
-        "path": "links/3b1g boots.mp3",
-        "tts_text": "3 bee 1 jee boots",
-        "ssml_text": "<prosody rate='fast'>3 bee 1 jee boots</prosody>"
-    },
-    {
-        "path": "links/3b1g gloves.mp3",
-        "tts_text": "3 bee 1 jee gloves",
-        "ssml_text": "<prosody rate='fast'>3 bee 1 jee gloves</prosody>"
-    },
-    {
-        "path": "links/3b1g helm.mp3",
-        "tts_text": "3 bee 1 jee helm",
-        "ssml_text": "<prosody rate='fast'>3 bee 1 jee helm</prosody>"
-    },
-    {
-        "path": "links/3b1r body.mp3",
-        "tts_text": "3 bee 1 are body",
-        "ssml_text": "<prosody rate='fast'>3 bee 1 are body</prosody>"
-    },
-    {
-        "path": "links/3b1r boots.mp3",
-        "tts_text": "3 bee 1 are boots",
-        "ssml_text": "<prosody rate='fast'>3 bee 1 are boots</prosody>"
-    },
-    {
-        "path": "links/3b1r gloves.mp3",
-        "tts_text": "3 bee 1 are gloves",
-        "ssml_text": "<prosody rate='fast'>3 bee 1 are gloves</prosody>"
-    },
-    {
-        "path": "links/3b1r helm.mp3",
-        "tts_text": "3 bee 1 are helm",
-        "ssml_text": "<prosody rate='fast'>3 bee 1 are helm</prosody>"
-    },
-    {
-        "path": "links/3g body.mp3",
+        "path": "links/3l/3g body.mp3",
         "tts_text": "3 jee body",
         "ssml_text": "<prosody rate='fast'>3 jee body</prosody>"
     },
     {
-        "path": "links/3g boots.mp3",
+        "path": "links/3l/3g boots.mp3",
         "tts_text": "3 jee boots",
         "ssml_text": "<prosody rate='fast'>3 jee boots</prosody>"
     },
     {
-        "path": "links/3g bow.mp3",
+        "path": "links/3l/3g bow.mp3",
         "tts_text": "3 jee bow",
         "ssml_text": "<prosody rate='fast'>3 jee bow</prosody>"
     },
     {
-        "path": "links/3g gloves.mp3",
+        "path": "links/3l/3g gloves.mp3",
         "tts_text": "3 jee gloves",
         "ssml_text": "<prosody rate='fast'>3 jee gloves</prosody>"
     },
     {
-        "path": "links/3g helm.mp3",
+        "path": "links/3l/3g helm.mp3",
         "tts_text": "3 jee helm",
         "ssml_text": "<prosody rate='fast'>3 jee helm</prosody>"
     },
     {
-        "path": "links/3g melee.mp3",
+        "path": "links/3l/3g melee.mp3",
         "tts_text": "3 jee melee",
         "ssml_text": "<prosody rate='fast'>3 jee melee</prosody>"
     },
     {
-        "path": "links/3g rare.mp3",
+        "path": "links/3l/3g rare.mp3",
         "tts_text": "rare 3 jee ",
         "ssml_text": "<prosody rate='fast'>rare 3 jee </prosody>"
     },
     {
-        "path": "links/3g rune dagger.mp3",
+        "path": "links/3l/3g rune dagger.mp3",
         "tts_text": "3 jee rune dagger",
         "ssml_text": "<prosody rate='fast'>3 jee rune dagger</prosody>"
     },
     {
-        "path": "links/3g shield.mp3",
+        "path": "links/3l/3g shield.mp3",
         "tts_text": "3 jee shield",
         "ssml_text": "<prosody rate='fast'>3 jee shield</prosody>"
     },
     {
-        "path": "links/3g1b body.mp3",
-        "tts_text": "3 jee 1 bee body",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 bee body</prosody>"
-    },
-    {
-        "path": "links/3g1b boots.mp3",
-        "tts_text": "3 jee 1 bee boots",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 bee boots</prosody>"
-    },
-    {
-        "path": "links/3g1b bow.mp3",
-        "tts_text": "3 jee 1 bee bow",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 bee bow</prosody>"
-    },
-    {
-        "path": "links/3g1b gloves.mp3",
-        "tts_text": "3 jee 1 bee gloves",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 bee gloves</prosody>"
-    },
-    {
-        "path": "links/3g1b helm.mp3",
-        "tts_text": "3 jee 1 bee helm",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 bee helm</prosody>"
-    },
-    {
-        "path": "links/3g1b melee.mp3",
-        "tts_text": "3 jee 1 bee melee",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 bee melee</prosody>"
-    },
-    {
-        "path": "links/3g1r body.mp3",
-        "tts_text": "3 jee 1 are body",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 are body</prosody>"
-    },
-    {
-        "path": "links/3g1r boots.mp3",
-        "tts_text": "3 jee 1 are boots",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 are boots</prosody>"
-    },
-    {
-        "path": "links/3g1r bow.mp3",
-        "tts_text": "3 jee 1 are bow",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 are bow</prosody>"
-    },
-    {
-        "path": "links/3g1r gloves.mp3",
-        "tts_text": "3 jee 1 are gloves",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 are gloves</prosody>"
-    },
-    {
-        "path": "links/3g1r helm.mp3",
-        "tts_text": "3 jee 1 are helm",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 are helm</prosody>"
-    },
-    {
-        "path": "links/3g1r melee.mp3",
-        "tts_text": "3 jee 1 are melee",
-        "ssml_text": "<prosody rate='fast'>3 jee 1 are melee</prosody>"
-    },
-    {
-        "path": "links/3r body.mp3",
+        "path": "links/3l/3r body.mp3",
         "tts_text": "3 are body",
         "ssml_text": "<prosody rate='fast'>3 are body</prosody>"
     },
     {
-        "path": "links/3r boots.mp3",
+        "path": "links/3l/3r boots.mp3",
         "tts_text": "3 are boots",
         "ssml_text": "<prosody rate='fast'>3 are boots</prosody>"
     },
     {
-        "path": "links/3r gloves.mp3",
+        "path": "links/3l/3r gloves.mp3",
         "tts_text": "3 are gloves",
         "ssml_text": "<prosody rate='fast'>3 are gloves</prosody>"
     },
     {
-        "path": "links/3r helm.mp3",
+        "path": "links/3l/3r helm.mp3",
         "tts_text": "3 are helm",
         "ssml_text": "<prosody rate='fast'>3 are helm</prosody>"
     },
     {
-        "path": "links/3r melee.mp3",
+        "path": "links/3l/3r melee.mp3",
         "tts_text": "3 are melee",
         "ssml_text": "<prosody rate='fast'>3 are melee</prosody>"
     },
     {
-        "path": "links/3r rare.mp3",
+        "path": "links/3l/3r rare.mp3",
         "tts_text": "rare 3 are ",
         "ssml_text": "<prosody rate='fast'>rare 3 are </prosody>"
     },
     {
-        "path": "links/3r shield.mp3",
+        "path": "links/3l/3r shield.mp3",
         "tts_text": "3 are shield",
         "ssml_text": "<prosody rate='fast'>3 are shield</prosody>"
     },
     {
-        "path": "links/3r1b body.mp3",
-        "tts_text": "3 are 1 bee body",
-        "ssml_text": "<prosody rate='fast'>3 are 1 bee body</prosody>"
-    },
-    {
-        "path": "links/3r1b boots.mp3",
-        "tts_text": "3 are 1 bee boots",
-        "ssml_text": "<prosody rate='fast'>3 are 1 bee boots</prosody>"
-    },
-    {
-        "path": "links/3r1b gloves.mp3",
-        "tts_text": "3 are 1 bee gloves",
-        "ssml_text": "<prosody rate='fast'>3 are 1 bee gloves</prosody>"
-    },
-    {
-        "path": "links/3r1b helm.mp3",
-        "tts_text": "3 are 1 bee helm",
-        "ssml_text": "<prosody rate='fast'>3 are 1 bee helm</prosody>"
-    },
-    {
-        "path": "links/3r1b melee.mp3",
-        "tts_text": "3 are 1 bee melee",
-        "ssml_text": "<prosody rate='fast'>3 are 1 bee melee</prosody>"
-    },
-    {
-        "path": "links/3r1g body.mp3",
-        "tts_text": "3 are 1 jee body",
-        "ssml_text": "<prosody rate='fast'>3 are 1 jee body</prosody>"
-    },
-    {
-        "path": "links/3r1g boots.mp3",
-        "tts_text": "3 are 1 jee boots",
-        "ssml_text": "<prosody rate='fast'>3 are 1 jee boots</prosody>"
-    },
-    {
-        "path": "links/3r1g gloves.mp3",
-        "tts_text": "3 are 1 jee gloves",
-        "ssml_text": "<prosody rate='fast'>3 are 1 jee gloves</prosody>"
-    },
-    {
-        "path": "links/3r1g helm.mp3",
-        "tts_text": "3 are 1 jee helm",
-        "ssml_text": "<prosody rate='fast'>3 are 1 jee helm</prosody>"
-    },
-    {
-        "path": "links/3r1g melee.mp3",
-        "tts_text": "3 are 1 jee melee",
-        "ssml_text": "<prosody rate='fast'>3 are 1 jee melee</prosody>"
-    },
-    {
-        "path": "links/3w.mp3",
+        "path": "links/3l/3w.mp3",
         "tts_text": "3 white",
         "ssml_text": "<prosody rate='fast'>3 white</prosody>"
     },
     {
-        "path": "links/4 link 2h mace.mp3",
+        "path": "links/3l/bgr rare.mp3",
+        "tts_text": "rare bee jee are",
+        "ssml_text": ""
+    },
+    {
+        "path": "links/3l/bgr.mp3",
+        "tts_text": "bee jee are linked",
+        "ssml_text": ""
+    },
+    {
+        "path": "links/4l/2b1g1r body.mp3",
+        "tts_text": "2 bee 1 jee 1 are body",
+        "ssml_text": "<prosody rate='fast'>2 bee 1 jee 1 are body</prosody>"
+    },
+    {
+        "path": "links/4l/2b1g1r boots.mp3",
+        "tts_text": "2 bee 1 jee 1 are boots",
+        "ssml_text": "<prosody rate='fast'>2 bee 1 jee 1 are boots</prosody>"
+    },
+    {
+        "path": "links/4l/2b1g1r gloves.mp3",
+        "tts_text": "2 bee 1 jee 1 are gloves",
+        "ssml_text": "<prosody rate='fast'>2 bee 1 jee 1 are gloves</prosody>"
+    },
+    {
+        "path": "links/4l/2b1g1r helm.mp3",
+        "tts_text": "2 bee 1 jee 1 are helm",
+        "ssml_text": "<prosody rate='fast'>2 bee 1 jee 1 are helm</prosody>"
+    },
+    {
+        "path": "links/4l/2b2g body.mp3",
+        "tts_text": "2 bee 2 jee body",
+        "ssml_text": "<prosody rate='fast'>2 bee 2 jee body</prosody>"
+    },
+    {
+        "path": "links/4l/2b2g boots.mp3",
+        "tts_text": "2 bee 2 jee boots",
+        "ssml_text": "<prosody rate='fast'>2 bee 2 jee boots</prosody>"
+    },
+    {
+        "path": "links/4l/2b2g gloves.mp3",
+        "tts_text": "2 bee 2 jee gloves",
+        "ssml_text": "<prosody rate='fast'>2 bee 2 jee gloves</prosody>"
+    },
+    {
+        "path": "links/4l/2b2g helm.mp3",
+        "tts_text": "2 bee 2 jee helm",
+        "ssml_text": "<prosody rate='fast'>2 bee 2 jee helm</prosody>"
+    },
+    {
+        "path": "links/4l/2b2r body.mp3",
+        "tts_text": "2 bee 2 are body",
+        "ssml_text": "<prosody rate='fast'>2 bee 2 are body</prosody>"
+    },
+    {
+        "path": "links/4l/2b2r boots.mp3",
+        "tts_text": "2 bee 2 are boots",
+        "ssml_text": "<prosody rate='fast'>2 bee 2 are boots</prosody>"
+    },
+    {
+        "path": "links/4l/2b2r gloves.mp3",
+        "tts_text": "2 bee 2 are gloves",
+        "ssml_text": "<prosody rate='fast'>2 bee 2 are gloves</prosody>"
+    },
+    {
+        "path": "links/4l/2b2r helm.mp3",
+        "tts_text": "2 bee 2 are helm",
+        "ssml_text": "<prosody rate='fast'>2 bee 2 are helm</prosody>"
+    },
+    {
+        "path": "links/4l/2g1b1r body.mp3",
+        "tts_text": "2 jee 1 bee 1 are body",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are body</prosody>"
+    },
+    {
+        "path": "links/4l/2g1b1r boots.mp3",
+        "tts_text": "2 jee 1 bee 1 are boots",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are boots</prosody>"
+    },
+    {
+        "path": "links/4l/2g1b1r bow.mp3",
+        "tts_text": "2 jee 1 bee 1 are bow",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are bow</prosody>"
+    },
+    {
+        "path": "links/4l/2g1b1r gloves.mp3",
+        "tts_text": "2 jee 1 bee 1 are gloves",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are gloves</prosody>"
+    },
+    {
+        "path": "links/4l/2g1b1r helm.mp3",
+        "tts_text": "2 jee 1 bee 1 are helm",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are helm</prosody>"
+    },
+    {
+        "path": "links/4l/2g1b1r melee.mp3",
+        "tts_text": "2 jee 1 bee 1 are melee",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 bee 1 are melee</prosody>"
+    },
+    {
+        "path": "links/4l/2g2b body.mp3",
+        "tts_text": "2 jee 2 bee body",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 bee body</prosody>"
+    },
+    {
+        "path": "links/4l/2g2b boots.mp3",
+        "tts_text": "2 jee 2 bee boots",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 bee boots</prosody>"
+    },
+    {
+        "path": "links/4l/2g2b gloves.mp3",
+        "tts_text": "2 jee 2 bee gloves",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 bee gloves</prosody>"
+    },
+    {
+        "path": "links/4l/2g2b helm.mp3",
+        "tts_text": "2 jee 2 bee helm",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 bee helm</prosody>"
+    },
+    {
+        "path": "links/4l/2g2r body.mp3",
+        "tts_text": "2 jee 2 are body",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 are body</prosody>"
+    },
+    {
+        "path": "links/4l/2g2r boots.mp3",
+        "tts_text": "2 jee 2 are boots",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 are boots</prosody>"
+    },
+    {
+        "path": "links/4l/2g2r bow.mp3",
+        "tts_text": "2 jee 2 are bow",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 are bow</prosody>"
+    },
+    {
+        "path": "links/4l/2g2r gloves.mp3",
+        "tts_text": "2 jee 2 are gloves",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 are gloves</prosody>"
+    },
+    {
+        "path": "links/4l/2g2r helm.mp3",
+        "tts_text": "2 jee 2 are helm",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 are helm</prosody>"
+    },
+    {
+        "path": "links/4l/2g2r melee.mp3",
+        "tts_text": "2 jee 2 are melee",
+        "ssml_text": "<prosody rate='fast'>2 jee 2 are melee</prosody>"
+    },
+    {
+        "path": "links/4l/2r1b1g body.mp3",
+        "tts_text": "2 are 1 bee 1 jee body",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee body</prosody>"
+    },
+    {
+        "path": "links/4l/2r1b1g boots.mp3",
+        "tts_text": "2 are 1 bee 1 jee boots",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee boots</prosody>"
+    },
+    {
+        "path": "links/4l/2r1b1g gloves.mp3",
+        "tts_text": "2 are 1 bee 1 jee gloves",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee gloves</prosody>"
+    },
+    {
+        "path": "links/4l/2r1b1g helm.mp3",
+        "tts_text": "2 are 1 bee 1 jee helm",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee helm</prosody>"
+    },
+    {
+        "path": "links/4l/2r1b1g melee.mp3",
+        "tts_text": "2 are 1 bee 1 jee melee",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee 1 jee melee</prosody>"
+    },
+    {
+        "path": "links/4l/3b1g body.mp3",
+        "tts_text": "3 bee 1 jee body",
+        "ssml_text": "<prosody rate='fast'>3 bee 1 jee body</prosody>"
+    },
+    {
+        "path": "links/4l/3b1g boots.mp3",
+        "tts_text": "3 bee 1 jee boots",
+        "ssml_text": "<prosody rate='fast'>3 bee 1 jee boots</prosody>"
+    },
+    {
+        "path": "links/4l/3b1g gloves.mp3",
+        "tts_text": "3 bee 1 jee gloves",
+        "ssml_text": "<prosody rate='fast'>3 bee 1 jee gloves</prosody>"
+    },
+    {
+        "path": "links/4l/3b1g helm.mp3",
+        "tts_text": "3 bee 1 jee helm",
+        "ssml_text": "<prosody rate='fast'>3 bee 1 jee helm</prosody>"
+    },
+    {
+        "path": "links/4l/3b1r body.mp3",
+        "tts_text": "3 bee 1 are body",
+        "ssml_text": "<prosody rate='fast'>3 bee 1 are body</prosody>"
+    },
+    {
+        "path": "links/4l/3b1r boots.mp3",
+        "tts_text": "3 bee 1 are boots",
+        "ssml_text": "<prosody rate='fast'>3 bee 1 are boots</prosody>"
+    },
+    {
+        "path": "links/4l/3b1r gloves.mp3",
+        "tts_text": "3 bee 1 are gloves",
+        "ssml_text": "<prosody rate='fast'>3 bee 1 are gloves</prosody>"
+    },
+    {
+        "path": "links/4l/3b1r helm.mp3",
+        "tts_text": "3 bee 1 are helm",
+        "ssml_text": "<prosody rate='fast'>3 bee 1 are helm</prosody>"
+    },
+    {
+        "path": "links/4l/3g1b body.mp3",
+        "tts_text": "3 jee 1 bee body",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 bee body</prosody>"
+    },
+    {
+        "path": "links/4l/3g1b boots.mp3",
+        "tts_text": "3 jee 1 bee boots",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 bee boots</prosody>"
+    },
+    {
+        "path": "links/4l/3g1b bow.mp3",
+        "tts_text": "3 jee 1 bee bow",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 bee bow</prosody>"
+    },
+    {
+        "path": "links/4l/3g1b gloves.mp3",
+        "tts_text": "3 jee 1 bee gloves",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 bee gloves</prosody>"
+    },
+    {
+        "path": "links/4l/3g1b helm.mp3",
+        "tts_text": "3 jee 1 bee helm",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 bee helm</prosody>"
+    },
+    {
+        "path": "links/4l/3g1b melee.mp3",
+        "tts_text": "3 jee 1 bee melee",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 bee melee</prosody>"
+    },
+    {
+        "path": "links/4l/3g1r body.mp3",
+        "tts_text": "3 jee 1 are body",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 are body</prosody>"
+    },
+    {
+        "path": "links/4l/3g1r boots.mp3",
+        "tts_text": "3 jee 1 are boots",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 are boots</prosody>"
+    },
+    {
+        "path": "links/4l/3g1r bow.mp3",
+        "tts_text": "3 jee 1 are bow",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 are bow</prosody>"
+    },
+    {
+        "path": "links/4l/3g1r gloves.mp3",
+        "tts_text": "3 jee 1 are gloves",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 are gloves</prosody>"
+    },
+    {
+        "path": "links/4l/3g1r helm.mp3",
+        "tts_text": "3 jee 1 are helm",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 are helm</prosody>"
+    },
+    {
+        "path": "links/4l/3g1r melee.mp3",
+        "tts_text": "3 jee 1 are melee",
+        "ssml_text": "<prosody rate='fast'>3 jee 1 are melee</prosody>"
+    },
+    {
+        "path": "links/4l/3r1b body.mp3",
+        "tts_text": "3 are 1 bee body",
+        "ssml_text": "<prosody rate='fast'>3 are 1 bee body</prosody>"
+    },
+    {
+        "path": "links/4l/3r1b boots.mp3",
+        "tts_text": "3 are 1 bee boots",
+        "ssml_text": "<prosody rate='fast'>3 are 1 bee boots</prosody>"
+    },
+    {
+        "path": "links/4l/3r1b gloves.mp3",
+        "tts_text": "3 are 1 bee gloves",
+        "ssml_text": "<prosody rate='fast'>3 are 1 bee gloves</prosody>"
+    },
+    {
+        "path": "links/4l/3r1b helm.mp3",
+        "tts_text": "3 are 1 bee helm",
+        "ssml_text": "<prosody rate='fast'>3 are 1 bee helm</prosody>"
+    },
+    {
+        "path": "links/4l/3r1b melee.mp3",
+        "tts_text": "3 are 1 bee melee",
+        "ssml_text": "<prosody rate='fast'>3 are 1 bee melee</prosody>"
+    },
+    {
+        "path": "links/4l/3r1g body.mp3",
+        "tts_text": "3 are 1 jee body",
+        "ssml_text": "<prosody rate='fast'>3 are 1 jee body</prosody>"
+    },
+    {
+        "path": "links/4l/3r1g boots.mp3",
+        "tts_text": "3 are 1 jee boots",
+        "ssml_text": "<prosody rate='fast'>3 are 1 jee boots</prosody>"
+    },
+    {
+        "path": "links/4l/3r1g gloves.mp3",
+        "tts_text": "3 are 1 jee gloves",
+        "ssml_text": "<prosody rate='fast'>3 are 1 jee gloves</prosody>"
+    },
+    {
+        "path": "links/4l/3r1g helm.mp3",
+        "tts_text": "3 are 1 jee helm",
+        "ssml_text": "<prosody rate='fast'>3 are 1 jee helm</prosody>"
+    },
+    {
+        "path": "links/4l/3r1g melee.mp3",
+        "tts_text": "3 are 1 jee melee",
+        "ssml_text": "<prosody rate='fast'>3 are 1 jee melee</prosody>"
+    },
+    {
+        "path": "links/4l/4 link 2h mace.mp3",
         "tts_text": "4 link 2 h mace",
         "ssml_text": "<prosody rate='fast'>4 link <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
     },
     {
-        "path": "links/4 link 2h sword.mp3",
+        "path": "links/4l/4 link 2h sword.mp3",
         "tts_text": "4 link 2 h sword",
         "ssml_text": "<prosody rate='fast'>4 link <say-as interpret-as='characters'>2h</say-as> sword</prosody>"
     },
     {
-        "path": "links/4 link 6 socket.mp3",
+        "path": "links/4l/4 link 6 socket.mp3",
         "tts_text": "4 link 6 socket",
         "ssml_text": "<prosody rate='fast'>4 link 6 socket</prosody>"
     },
     {
-        "path": "links/4 link armour body.mp3",
+        "path": "links/4l/4 link armour body.mp3",
         "tts_text": "4 link body armour",
         "ssml_text": "<prosody rate='fast'>4 link body armour</prosody>"
     },
     {
-        "path": "links/4 link armour boots.mp3",
+        "path": "links/4l/4 link armour boots.mp3",
         "tts_text": "4 link boots armour",
         "ssml_text": "<prosody rate='fast'>4 link boots armour</prosody>"
     },
     {
-        "path": "links/4 link armour gloves.mp3",
+        "path": "links/4l/4 link armour gloves.mp3",
         "tts_text": "4 link gloves armour",
         "ssml_text": "<prosody rate='fast'>4 link gloves armour</prosody>"
     },
     {
-        "path": "links/4 link armour helm.mp3",
+        "path": "links/4l/4 link armour helm.mp3",
         "tts_text": "4 link helm armour",
         "ssml_text": "<prosody rate='fast'>4 link helm armour</prosody>"
     },
     {
-        "path": "links/4 link armour rare.mp3",
+        "path": "links/4l/4 link armour rare.mp3",
         "tts_text": "rare 4 link armour",
         "ssml_text": "<prosody rate='fast'>rare 4 link armour</prosody>"
     },
     {
-        "path": "links/4 link armour.mp3",
+        "path": "links/4l/4 link armour.mp3",
         "tts_text": "4 link armour",
         "ssml_text": "<prosody rate='fast'>4 link armour</prosody>"
     },
     {
-        "path": "links/4 link axe.mp3",
+        "path": "links/4l/4 link axe.mp3",
         "tts_text": "4 link axe",
         "ssml_text": "<prosody rate='fast'>4 link axe</prosody>"
     },
     {
-        "path": "links/4 link base.mp3",
+        "path": "links/4l/4 link base.mp3",
         "tts_text": "4 link base",
         "ssml_text": "<prosody rate='fast'>4 link base</prosody>"
     },
     {
-        "path": "links/4 link bow.mp3",
+        "path": "links/4l/4 link bow.mp3",
         "tts_text": "4 link bow",
         "ssml_text": "<prosody rate='fast'>4 link bow</prosody>"
     },
     {
-        "path": "links/4 link es armour body.mp3",
+        "path": "links/4l/4 link es armour body.mp3",
         "tts_text": "4 link body ê ess armour",
         "ssml_text": "<prosody rate='fast'>4 link body ê ess armour</prosody>"
     },
     {
-        "path": "links/4 link es armour boots.mp3",
+        "path": "links/4l/4 link es armour boots.mp3",
         "tts_text": "4 link boots ê ess armour",
         "ssml_text": "<prosody rate='fast'>4 link boots ê ess armour</prosody>"
     },
     {
-        "path": "links/4 link es armour gloves.mp3",
+        "path": "links/4l/4 link es armour gloves.mp3",
         "tts_text": "4 link gloves ê ess armour",
         "ssml_text": "<prosody rate='fast'>4 link gloves ê ess armour</prosody>"
     },
     {
-        "path": "links/4 link es armour helm.mp3",
+        "path": "links/4l/4 link es armour helm.mp3",
         "tts_text": "4 link helm ê ess armour",
         "ssml_text": "<prosody rate='fast'>4 link helm ê ess armour</prosody>"
     },
     {
-        "path": "links/4 link es armour rare.mp3",
+        "path": "links/4l/4 link es armour rare.mp3",
         "tts_text": "rare 4 link ê ess armour",
         "ssml_text": "<prosody rate='fast'>rare 4 link ê ess armour</prosody>"
     },
     {
-        "path": "links/4 link es armour.mp3",
+        "path": "links/4l/4 link es armour.mp3",
         "tts_text": "4 link ê ess armour",
         "ssml_text": "<prosody rate='fast'>4 link ê ess armour</prosody>"
     },
     {
-        "path": "links/4 link es evasion body.mp3",
-        "tts_text": "4 link body ê ess evasion",
-        "ssml_text": "<prosody rate='fast'>4 link body ê ess evasion</prosody>"
-    },
-    {
-        "path": "links/4 link es evasion boots.mp3",
-        "tts_text": "4 link boots ê ess evasion",
-        "ssml_text": "<prosody rate='fast'>4 link boots ê ess evasion</prosody>"
-    },
-    {
-        "path": "links/4 link es evasion gloves.mp3",
-        "tts_text": "4 link gloves ê ess evasion",
-        "ssml_text": "<prosody rate='fast'>4 link gloves ê ess evasion</prosody>"
-    },
-    {
-        "path": "links/4 link es evasion helm.mp3",
-        "tts_text": "4 link helm ê ess evasion",
-        "ssml_text": "<prosody rate='fast'>4 link helm ê ess evasion</prosody>"
-    },
-    {
-        "path": "links/4 link es evasion rare.mp3",
-        "tts_text": "rare 4 link ê ess evasion",
-        "ssml_text": "<prosody rate='fast'>rare 4 link ê ess evasion</prosody>"
-    },
-    {
-        "path": "links/4 link es evasion.mp3",
-        "tts_text": "4 link ê ess evasion",
-        "ssml_text": "<prosody rate='fast'>4 link ê ess evasion</prosody>"
-    },
-    {
-        "path": "links/4 link es body.mp3",
+        "path": "links/4l/4 link es body.mp3",
         "tts_text": "4 link body ê ess",
         "ssml_text": "<prosody rate='fast'>4 link body ê ess</prosody>"
     },
     {
-        "path": "links/4 link es boots.mp3",
+        "path": "links/4l/4 link es boots.mp3",
         "tts_text": "4 link boots ê ess",
         "ssml_text": "<prosody rate='fast'>4 link boots ê ess</prosody>"
     },
     {
-        "path": "links/4 link es gloves.mp3",
+        "path": "links/4l/4 link es evasion body.mp3",
+        "tts_text": "4 link body ê ess evasion",
+        "ssml_text": "<prosody rate='fast'>4 link body ê ess evasion</prosody>"
+    },
+    {
+        "path": "links/4l/4 link es evasion boots.mp3",
+        "tts_text": "4 link boots ê ess evasion",
+        "ssml_text": "<prosody rate='fast'>4 link boots ê ess evasion</prosody>"
+    },
+    {
+        "path": "links/4l/4 link es evasion gloves.mp3",
+        "tts_text": "4 link gloves ê ess evasion",
+        "ssml_text": "<prosody rate='fast'>4 link gloves ê ess evasion</prosody>"
+    },
+    {
+        "path": "links/4l/4 link es evasion helm.mp3",
+        "tts_text": "4 link helm ê ess evasion",
+        "ssml_text": "<prosody rate='fast'>4 link helm ê ess evasion</prosody>"
+    },
+    {
+        "path": "links/4l/4 link es evasion rare.mp3",
+        "tts_text": "rare 4 link ê ess evasion",
+        "ssml_text": "<prosody rate='fast'>rare 4 link ê ess evasion</prosody>"
+    },
+    {
+        "path": "links/4l/4 link es evasion.mp3",
+        "tts_text": "4 link ê ess evasion",
+        "ssml_text": "<prosody rate='fast'>4 link ê ess evasion</prosody>"
+    },
+    {
+        "path": "links/4l/4 link es gloves.mp3",
         "tts_text": "4 link gloves ê ess",
         "ssml_text": "<prosody rate='fast'>4 link gloves ê ess</prosody>"
     },
     {
-        "path": "links/4 link es helm.mp3",
+        "path": "links/4l/4 link es helm.mp3",
         "tts_text": "4 link helm ê ess",
         "ssml_text": "<prosody rate='fast'>4 link helm ê ess</prosody>"
     },
     {
-        "path": "links/4 link es rare.mp3",
+        "path": "links/4l/4 link es rare.mp3",
         "tts_text": "rare 4 link ê ess",
         "ssml_text": "<prosody rate='fast'>rare 4 link ê ess</prosody>"
     },
     {
-        "path": "links/4 link es.mp3",
+        "path": "links/4l/4 link es.mp3",
         "tts_text": "4 link ê ess",
         "ssml_text": "<prosody rate='fast'>4 link ê ess</prosody>"
     },
     {
-        "path": "links/4 link evasion armour body.mp3",
+        "path": "links/4l/4 link evasion armour body.mp3",
         "tts_text": "4 link body evasion armour",
         "ssml_text": "<prosody rate='fast'>4 link body evasion armour</prosody>"
     },
     {
-        "path": "links/4 link evasion armour boots.mp3",
+        "path": "links/4l/4 link evasion armour boots.mp3",
         "tts_text": "4 link boots evasion armour",
         "ssml_text": "<prosody rate='fast'>4 link boots evasion armour</prosody>"
     },
     {
-        "path": "links/4 link evasion armour gloves.mp3",
+        "path": "links/4l/4 link evasion armour gloves.mp3",
         "tts_text": "4 link gloves evasion armour",
         "ssml_text": "<prosody rate='fast'>4 link gloves evasion armour</prosody>"
     },
     {
-        "path": "links/4 link evasion armour helm.mp3",
+        "path": "links/4l/4 link evasion armour helm.mp3",
         "tts_text": "4 link helm evasion armour",
         "ssml_text": "<prosody rate='fast'>4 link helm evasion armour</prosody>"
     },
     {
-        "path": "links/4 link evasion armour rare.mp3",
+        "path": "links/4l/4 link evasion armour rare.mp3",
         "tts_text": "rare 4 link evasion armour",
         "ssml_text": "<prosody rate='fast'>rare 4 link evasion armour</prosody>"
     },
     {
-        "path": "links/4 link evasion armour.mp3",
+        "path": "links/4l/4 link evasion armour.mp3",
         "tts_text": "4 link evasion armour",
         "ssml_text": "<prosody rate='fast'>4 link evasion armour</prosody>"
     },
     {
-        "path": "links/4 link evasion body.mp3",
+        "path": "links/4l/4 link evasion body.mp3",
         "tts_text": "4 link body evasion",
         "ssml_text": "<prosody rate='fast'>4 link body evasion</prosody>"
     },
     {
-        "path": "links/4 link evasion boots.mp3",
+        "path": "links/4l/4 link evasion boots.mp3",
         "tts_text": "4 link boots evasion",
         "ssml_text": "<prosody rate='fast'>4 link boots evasion</prosody>"
     },
     {
-        "path": "links/4 link evasion gloves.mp3",
+        "path": "links/4l/4 link evasion gloves.mp3",
         "tts_text": "4 link gloves evasion",
         "ssml_text": "<prosody rate='fast'>4 link gloves evasion</prosody>"
     },
     {
-        "path": "links/4 link evasion helm.mp3",
+        "path": "links/4l/4 link evasion helm.mp3",
         "tts_text": "4 link helm evasion",
         "ssml_text": "<prosody rate='fast'>4 link helm evasion</prosody>"
     },
     {
-        "path": "links/4 link evasion rare.mp3",
+        "path": "links/4l/4 link evasion rare.mp3",
         "tts_text": "rare 4 link evasion",
         "ssml_text": "<prosody rate='fast'>rare 4 link evasion</prosody>"
     },
     {
-        "path": "links/4 link evasion.mp3",
+        "path": "links/4l/4 link evasion.mp3",
         "tts_text": "4 link evasion",
         "ssml_text": "<prosody rate='fast'>4 link evasion</prosody>"
     },
     {
-        "path": "links/4 link rare.mp3",
+        "path": "links/4l/4 link rare.mp3",
         "tts_text": "rare 4 link",
         "ssml_text": "<prosody rate='fast'>rare 4 link</prosody>"
     },
     {
-        "path": "links/4 link staff.mp3",
+        "path": "links/4l/4 link staff.mp3",
         "tts_text": "4 link staff",
         "ssml_text": "<prosody rate='fast'>4 link staff</prosody>"
     },
     {
-        "path": "links/4 link warstaff.mp3",
+        "path": "links/4l/4 link warstaff.mp3",
         "tts_text": "4 link warstaff",
         "ssml_text": "<prosody rate='fast'>4 link warstaff</prosody>"
     },
     {
-        "path": "links/4b body.mp3",
+        "path": "links/4l/4b body.mp3",
         "tts_text": "4 bee body",
         "ssml_text": "<prosody rate='fast'>4 bee body</prosody>"
     },
     {
-        "path": "links/4b boots.mp3",
+        "path": "links/4l/4b boots.mp3",
         "tts_text": "4 bee boots",
         "ssml_text": "<prosody rate='fast'>4 bee boots</prosody>"
     },
     {
-        "path": "links/4b gloves.mp3",
+        "path": "links/4l/4b gloves.mp3",
         "tts_text": "4 bee gloves",
         "ssml_text": "<prosody rate='fast'>4 bee gloves</prosody>"
     },
     {
-        "path": "links/4b helm.mp3",
+        "path": "links/4l/4b helm.mp3",
         "tts_text": "4 bee helm",
         "ssml_text": "<prosody rate='fast'>4 bee helm</prosody>"
     },
     {
-        "path": "links/4g body.mp3",
+        "path": "links/4l/4g body.mp3",
         "tts_text": "4 jee body",
         "ssml_text": "<prosody rate='fast'>4 jee body</prosody>"
     },
     {
-        "path": "links/4g boots.mp3",
+        "path": "links/4l/4g boots.mp3",
         "tts_text": "4 jee boots",
         "ssml_text": "<prosody rate='fast'>4 jee boots</prosody>"
     },
     {
-        "path": "links/4g bow.mp3",
+        "path": "links/4l/4g bow.mp3",
         "tts_text": "4 jee bow",
         "ssml_text": "<prosody rate='fast'>4 jee bow</prosody>"
     },
     {
-        "path": "links/4g gloves.mp3",
+        "path": "links/4l/4g gloves.mp3",
         "tts_text": "4 jee gloves",
         "ssml_text": "<prosody rate='fast'>4 jee gloves</prosody>"
     },
     {
-        "path": "links/4g helm.mp3",
+        "path": "links/4l/4g helm.mp3",
         "tts_text": "4 jee helm",
         "ssml_text": "<prosody rate='fast'>4 jee helm</prosody>"
     },
     {
-        "path": "links/4r body.mp3",
+        "path": "links/4l/4r body.mp3",
         "tts_text": "4 are body",
         "ssml_text": "<prosody rate='fast'>4 are body</prosody>"
     },
     {
-        "path": "links/4r boots.mp3",
+        "path": "links/4l/4r boots.mp3",
         "tts_text": "4 are boots",
         "ssml_text": "<prosody rate='fast'>4 are boots</prosody>"
     },
     {
-        "path": "links/4r gloves.mp3",
+        "path": "links/4l/4r gloves.mp3",
         "tts_text": "4 are gloves",
         "ssml_text": "<prosody rate='fast'>4 are gloves</prosody>"
     },
     {
-        "path": "links/4r helm.mp3",
+        "path": "links/4l/4r helm.mp3",
         "tts_text": "4 are helm",
         "ssml_text": "<prosody rate='fast'>4 are helm</prosody>"
     },
     {
-        "path": "links/4r melee.mp3",
+        "path": "links/4l/4r melee.mp3",
         "tts_text": "4 are melee",
         "ssml_text": "<prosody rate='fast'>4 are melee</prosody>"
     },
     {
-        "path": "links/4w.mp3",
+        "path": "links/4l/4w.mp3",
         "tts_text": "4 white",
         "ssml_text": "<prosody rate='fast'>4 white</prosody>"
     },
@@ -1838,16 +1848,6 @@
         "path": "links/5 link.mp3",
         "tts_text": "5 link",
         "ssml_text": "<prosody rate='fast'>5 link</prosody>"
-    },
-    {
-        "path": "links/bgr rare.mp3",
-        "tts_text": "rare bee jee are",
-        "ssml_text": ""
-    },
-    {
-        "path": "links/bgr.mp3",
-        "tts_text": "bee jee are linked",
-        "ssml_text": ""
     },
     {
         "path": "sockets/6 socket.mp3",
