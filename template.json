@@ -65,9 +65,24 @@
         "ssml_text": "<prosody rate='fast'>rustic sash</prosody>"
     },
     {
+        "path": "basetypes/belts/stygian vise i86.mp3",
+        "tts_text": "i86 stygian vise",
+        "ssml_text": "<prosody rate='fast'>i86 stygian vise</prosody>"
+    },
+    {
         "path": "basetypes/belts/stygian vise.mp3",
         "tts_text": "stygian vise",
         "ssml_text": "<prosody rate='fast'>stygian vise</prosody>"
+    },
+    {
+        "path": "basetypes/body armours/grasping mail.mp3",
+        "tts_text": "grasping mail",
+        "ssml_text": ""
+    },
+    {
+        "path": "basetypes/body armours/sacrificial garb.mp3",
+        "tts_text": "sacrificial garb",
+        "ssml_text": "<prosody rate='fast'>sacrificial garb</prosody>"
     },
     {
         "path": "basetypes/flasks/colossal life flask.mp3",
@@ -250,9 +265,64 @@
         "ssml_text": "<prosody rate='fast'>topaz flask</prosody>"
     },
     {
+        "path": "basetypes/gems/portal.mp3",
+        "tts_text": "portal gem",
+        "ssml_text": "<prosody rate='fast'>portal gem</prosody>"
+    },
+    {
+        "path": "basetypes/heist/enamel brooch.mp3",
+        "tts_text": "enamel brooch",
+        "ssml_text": "<prosody rate='fast'>enamel brooch</prosody>"
+    },
+    {
+        "path": "basetypes/heist/foliate brooch i84.mp3",
+        "tts_text": "foliate brooch i 84",
+        "ssml_text": "<prosody rate='fast'>foliate brooch i 84</prosody>"
+    },
+    {
+        "path": "basetypes/heist/foliate brooch.mp3",
+        "tts_text": "foliate brooch",
+        "ssml_text": "<prosody rate='fast'>foliate brooch</prosody>"
+    },
+    {
+        "path": "basetypes/heist/hooded cloak.mp3",
+        "tts_text": "hooded cloak",
+        "ssml_text": "<prosody rate='fast'>hooded cloak</prosody>"
+    },
+    {
+        "path": "basetypes/heist/whisper-woven cloak i83.mp3",
+        "tts_text": "whisper-woven cloak i 83",
+        "ssml_text": "<prosody rate='fast'>whisper-woven cloak i 83</prosody>"
+    },
+    {
+        "path": "basetypes/heist/whisper-woven cloak.mp3",
+        "tts_text": "whisper-woven cloak",
+        "ssml_text": "<prosody rate='fast'>whisper-woven cloak</prosody>"
+    },
+    {
         "path": "basetypes/jewels/ghastly eye jewel.mp3",
         "tts_text": "ghastly eye jewel",
         "ssml_text": "<prosody rate='fast'>ghastly eye jewel</prosody>"
+    },
+    {
+        "path": "basetypes/maps/harbinger map t16.mp3",
+        "tts_text": "t16 beachhead map",
+        "ssml_text": ""
+    },
+    {
+        "path": "basetypes/maps/vaal temple map.mp3",
+        "tts_text": "vaal temple map",
+        "ssml_text": ""
+    },
+    {
+        "path": "basetypes/miscmapitems/chronicle of atzoatl.mp3",
+        "tts_text": "chronicle of atzoatl",
+        "ssml_text": ""
+    },
+    {
+        "path": "basetypes/miscmapitems/inscribed ultimatum.mp3",
+        "tts_text": "inscribed ultimatum",
+        "ssml_text": ""
     },
     {
         "path": "basetypes/quivers/two-point quiver.mp3",
@@ -268,6 +338,16 @@
         "path": "basetypes/rings/bone ring.mp3",
         "tts_text": "bone ring",
         "ssml_text": "<prosody rate='fast'>bone ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/breach ring high ilvl.mp3",
+        "tts_text": "high ilvl breach ring",
+        "ssml_text": "<prosody rate='fast'>high ilvl breach ring</prosody>"
+    },
+    {
+        "path": "basetypes/rings/breach ring.mp3",
+        "tts_text": "breach ring",
+        "ssml_text": "<prosody rate='fast'>breach ring</prosody>"
     },
     {
         "path": "basetypes/rings/coral ring.mp3",
@@ -300,6 +380,11 @@
         "ssml_text": "<prosody rate='fast'>two-stone ring</prosody>"
     },
     {
+        "path": "basetypes/sanctumresearch/forbidden tome.mp3",
+        "tts_text": "forbidden tome",
+        "ssml_text": ""
+    },
+    {
         "path": "basetypes/thrusting swords/whalebone rapier.mp3",
         "tts_text": "whalebone rapier",
         "ssml_text": "<prosody rate='fast'>whalebone rapier</prosody>"
@@ -320,14 +405,234 @@
         "ssml_text": "<prosody rate='fast'>rosethorn tincture</prosody>"
     },
     {
+        "path": "basetypes/trinkets/thiefs trinket.mp3",
+        "tts_text": "thief's trinket",
+        "ssml_text": ""
+    },
+    {
         "path": "basetypes/wands/goats horn.mp3",
         "tts_text": "goat's horn",
         "ssml_text": "<prosody rate='fast'>goat's horn</prosody>"
     },
     {
+        "path": "classes/heist/brooch t3.mp3",
+        "tts_text": "brooch t 3",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/heist/cloak t3.mp3",
+        "tts_text": "cloak t 3",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/heist/gear t1 i83.mp3",
+        "tts_text": "gear t 1 i 83",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/heist/gear t1.mp3",
+        "tts_text": "gear t 1",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/heist/gear t2.mp3",
+        "tts_text": "gear t 2",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/heist/gear t3.mp3",
+        "tts_text": "gear t 3",
+        "ssml_text": ""
+    },
+    {   
+        "path": "classes/heist/tool t1 i83.mp3",
+        "tts_text": "tool t 1 i 83",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/heist/tool t1.mp3",
+        "tts_text": "tool t 1",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/heist/tool t2.mp3",
+        "tts_text": "tool t 2",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/heist/tool t3.mp3",
+        "tts_text": "tool t 3",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/8 mod map.mp3",
+        "tts_text": "8 mod map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/blight ravaged map.mp3",
+        "tts_text": "blight ravaged map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/blighted map.mp3",
+        "tts_text": "blighted map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/conqueror map.mp3",
+        "tts_text": "conqueror map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/delirium enchanted map.mp3",
+        "tts_text": "delirium enchanted map",
+        "ssml_text": "<prosody rate='fast'>delirium enchanted map</prosody>"
+    },
+    {
+        "path": "classes/maps/elder map.mp3",
+        "tts_text": "elder map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/shaper map.mp3",
+        "tts_text": "shaper map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/memory influenced map.mp3",
+        "tts_text": "memory influenced map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t17 map.mp3",
+        "tts_text": "t17 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t16.5 map.mp3",
+        "tts_text": "t16 point 5 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t16 map.mp3",
+        "tts_text": "t16 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t15 map.mp3",
+        "tts_text": "t15 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t14 map.mp3",
+        "tts_text": "t14 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t13 map.mp3",
+        "tts_text": "t13 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t12 map.mp3",
+        "tts_text": "t12 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t11 map.mp3",
+        "tts_text": "t11 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t10 map.mp3",
+        "tts_text": "t10 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t9 map.mp3",
+        "tts_text": "t9 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t8 map.mp3",
+        "tts_text": "t8 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t7 map.mp3",
+        "tts_text": "t7 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t6 map.mp3",
+        "tts_text": "t6 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t5 map.mp3",
+        "tts_text": "t5 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t4 map.mp3",
+        "tts_text": "t4 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t3 map.mp3",
+        "tts_text": "t3 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t2 map.mp3",
+        "tts_text": "t2 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/t1 map.mp3",
+        "tts_text": "t1 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/quest/quest heist target.mp3",
+        "tts_text": "quest heist target",
+        "ssml_text": "<prosody rate='fast'>quest heist target</prosody>"
+    },
+    {
+        "path": "classes/quest/quest incursion item.mp3",
+        "tts_text": "quest incursion item",
+        "ssml_text": "<prosody rate='fast'>quest incursion item</prosody>"
+    },
+    {
+        "path": "classes/quest/quest labyrinth item.mp3",
+        "tts_text": "quest labyrinth item",
+        "ssml_text": "<prosody rate='fast'>quest labyrinth item</prosody>"
+    },
+    {
+        "path": "classes/quest/quest mavens invitation.mp3",
+        "tts_text": "quest maven's invitation",
+        "ssml_text": "<prosody rate='fast'>quest maven's invitation</prosody>"
+    },
+    {
+        "path": "classes/quest/quest voidstone.mp3",
+        "tts_text": "voidstone",
+        "ssml_text": ""
+    },
+    {
         "path": "classes/abyss jewel.mp3",
         "tts_text": "abyss jewel",
         "ssml_text": "<prosody rate='fast'>abyss jewel</prosody>"
+    },
+    {
+        "path": "classes/base valuable.mp3",
+        "tts_text": "valuable base",
+        "ssml_text": "<prosody rate='fast'>valuable base</prosody>"
+    },
+    {
+        "path": "classes/blueprint.mp3",
+        "tts_text": "blueprint",
+        "ssml_text": ""
     },
     {
         "path": "classes/boots magic.mp3",
@@ -354,6 +659,66 @@
         "tts_text": "rare caster weapon",
         "ssml_text": "<prosody rate='fast'>rare caster weapon</prosody>"
     },
+    {        
+        "path": "classes/chancing overquality.mp3",
+        "tts_text": "chancing overquality",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/claw rare.mp3",
+        "tts_text": "rare claw",
+        "ssml_text": "<prosody rate='fast'>rare claw</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel large i84 12 passive.mp3",
+        "tts_text": "large cluster jewel i 84 12",
+        "ssml_text": "<prosody rate='fast'>large cluster jewel i 84 12</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel large i84 8 passive.mp3",
+        "tts_text": "large cluster jewel i 84 8",
+        "ssml_text": "<prosody rate='fast'>large cluster jewel i 84 8</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel large 8 passive.mp3",
+        "tts_text": "large cluster jewel 8 passive",
+        "ssml_text": "<prosody rate='fast'>large cluster jewel 8 passive</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel large.mp3",
+        "tts_text": "large cluster jewel",
+        "ssml_text": "<prosody rate='fast'>large cluster jewel</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel medium i84 5 passive.mp3",
+        "tts_text": "medium cluster jewel i 84 5",
+        "ssml_text": "<prosody rate='fast'>medium cluster jewel i 84 5</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel medium 5 passive.mp3",
+        "tts_text": "medium cluster jewel 5 passive",
+        "ssml_text": "<prosody rate='fast'>medium i86 cluster jewel 5 passive</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel medium.mp3",
+        "tts_text": "medium cluster jewel",
+        "ssml_text": "<prosody rate='fast'>medium cluster jewel</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel small i84 3 passive.mp3",
+        "tts_text": "small cluster jewel i 84 3",
+        "ssml_text": "<prosody rate='fast'>small cluster jewel i 84 3</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel small 3 passive.mp3",
+        "tts_text": "small cluster jewel 3 passive",
+        "ssml_text": "<prosody rate='fast'>small cluster jewel 3 passive</prosody>"
+    },
+    {
+        "path": "classes/cluster jewel small.mp3",
+        "tts_text": "small cluster jewel",
+        "ssml_text": "<prosody rate='fast'>small cluster jewel</prosody>"
+    },
     {
         "path": "classes/cluster jewel.mp3",
         "tts_text": "cluster jewel",
@@ -365,9 +730,29 @@
         "ssml_text": ""
     },
     {
-        "path": "classes/div card.mp3",
+        "path": "classes/corrupted double.mp3",
+        "tts_text": "double corrupted",
+        "ssml_text": "<prosody rate='fast'>double corrupted</prosody>"
+    },
+    {
+        "path": "classes/dagger rare.mp3",
+        "tts_text": "rare dagger",
+        "ssml_text": "<prosody rate='fast'>rare dagger</prosody>"
+    },
+    {
+        "path": "classes/divination card.mp3",
         "tts_text": "div card",
         "ssml_text": "<prosody rate='fast'>div card</prosody>"
+    },
+        {
+        "path": "classes/divination card stack.mp3",
+        "tts_text": "div card stack",
+        "ssml_text": "<prosody rate='fast'>div card stack</prosody>"
+    },
+    {
+        "path": "classes/enchanted.mp3",
+        "tts_text": "enchanted",
+        "ssml_text": ""
     },
     {
         "path": "classes/essence.mp3",
@@ -375,27 +760,152 @@
         "ssml_text": ""
     },
     {
+        "path": "classes/fishing rod.mp3",
+        "tts_text": "fishing rod",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/flask life mana 21% quality.mp3",
+        "tts_text": "21% quality life mana flask",
+        "ssml_text": "<prosody rate='fast'>21% quality life mana flask</prosody>"
+    },
+    {
+        "path": "classes/flask life mana exceptional quality.mp3",
+        "tts_text": "exceptional life mana flask",
+        "ssml_text": "<prosody rate='fast'>exceptional life mana flask</prosody>"
+    },
+    {
+        "path": "classes/flask utility 21% quality.mp3",
+        "tts_text": "21% quality utility flask",
+        "ssml_text": "<prosody rate='fast'>21% quality utility flask</prosody>"
+    },
+    {
+        "path": "classes/flask utility exceptional quality.mp3",
+        "tts_text": "exceptional utility flask",
+        "ssml_text": "<prosody rate='fast'>exceptional utility flask</prosody>"
+    },
+    {
+        "path": "classes/flask utility i85.mp3",
+        "tts_text": "i 85 utility flask",
+        "ssml_text": "<prosody rate='fast'>i 85 utility flask</prosody>"
+    },
+    {
         "path": "classes/flask.mp3",
         "tts_text": "flask",
         "ssml_text": ""
     },
     {
-        "path": "classes/gem off class.mp3",
+        "path": "classes/fractured.mp3",
+        "tts_text": "fractured",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/fractured special mod.mp3",
+        "tts_text": "fractured special mod",
+        "ssml_text": "<prosody rate='fast'>fractured special mod</prosody>"
+    },
+    {
+        "path": "classes/gems/gem 23% quality.mp3",
+        "tts_text": "23% quality gem",
+        "ssml_text": "<prosody rate='fast'>23% quality gem</prosody>"
+    },
+    {
+        "path": "classes/gems/em 20% quality.mp3",
+        "tts_text": "20% quality gem",
+        "ssml_text": "<prosody rate='fast'>20% quality gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem awakened s tier.mp3",
+        "tts_text": "s tier awakened gem",
+        "ssml_text": "<prosody rate='fast'>s tier awakened gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem awakened.mp3",
+        "tts_text": "awakened gem",
+        "ssml_text": "<prosody rate='fast'>awakened gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem gemcutters recipe.mp3",
+        "tts_text": "gemcutter's recipe gem",
+        "ssml_text": "<prosody rate='fast'>gemcutter's recipe gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem exceptional level 2.mp3",
+        "tts_text": "level 2 exceptional gem",
+        "ssml_text": "<prosody rate='fast'>level 2 exceptional gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem exceptional level 4.mp3",
+        "tts_text": "level 4 exceptional gem",
+        "ssml_text": "<prosody rate='fast'>level 4 exceptional gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem exceptional s tier.mp3",
+        "tts_text": "s tier exceptional gem",
+        "ssml_text": "<prosody rate='fast'>s tier exceptional gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem exceptional.mp3",
+        "tts_text": "exceptional gem",
+        "ssml_text": "<prosody rate='fast'>exceptional gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem level 20 20% quality uncorrupted.mp3",
+        "tts_text": "20 20% gem",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/gems/gem level 20 23% quality.mp3",
+        "tts_text": "20 23% gem",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/gems/gem level 20.mp3",
+        "tts_text": "level 20 gem",
+        "ssml_text": "<prosody rate='fast'>level 20 gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem level 21 20% quality.mp3",
+        "tts_text": "21 20% gem",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/gems/gem level 21 23% quality.mp3",
+        "tts_text": "21 23% gem",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/gems/gem level 21.mp3",
+        "tts_text": "level 21 gem",
+        "ssml_text": "<prosody rate='fast'>level 21 gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem level 6 special.mp3",
+        "tts_text": "level 6 special gem",
+        "ssml_text": "<prosody rate='fast'>level 6 special gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem off class.mp3",
         "tts_text": "off class gem",
         "ssml_text": "<prosody rate='fast'>off class gem</prosody>"
     },
     {
-        "path": "classes/gem plus one recipe.mp3",
+        "path": "classes/gems/gem plus one recipe.mp3",
         "tts_text": "plus one recipe gem",
         "ssml_text": "<prosody rate='fast'>plus one recipe gem</prosody>"
     },
     {
-        "path": "classes/gem vaal.mp3",
+        "path": "classes/gems/gem transfigured.mp3",
+        "tts_text": "transfigured gem",
+        "ssml_text": "<prosody rate='fast'>transfigured gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem vaal.mp3",
         "tts_text": "vaal gem",
         "ssml_text": "<prosody rate='fast'>vaal gem</prosody>"
     },
     {
-        "path": "classes/gem.mp3",
+        "path": "classes/gems/gem.mp3",
         "tts_text": "gem",
         "ssml_text": ""
     },
@@ -415,9 +925,34 @@
         "ssml_text": "<prosody rate='fast'>good jewellery</prosody>"
     },
     {
+        "path": "classes/harbinger scroll.mp3",
+        "tts_text": "harbinger scroll",
+        "ssml_text": ""
+    },
+    {
         "path": "classes/helm rare.mp3",
         "tts_text": "rare helm",
         "ssml_text": "<prosody rate='fast'>rare helm</prosody>"
+    },
+    {
+        "path": "classes/heist base.mp3",
+        "tts_text": "heist base",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/incubator high level.mp3",
+        "tts_text": "incubator high level",
+        "ssml_text": "<prosody rate='fast'>incubator high level</prosody>"
+    },
+    {
+        "path": "classes/jewel magic corrupted mod.mp3",
+        "tts_text": "magic corrupted mod jewel",
+        "ssml_text": "<prosody rate='fast'>magic corrupted mod jewel</prosody>"
+    },
+    {
+        "path": "classes/jewel rare corrupted mod.mp3",
+        "tts_text": "rare corrupted mod jewel",
+        "ssml_text": "<prosody rate='fast'>rare corrupted mod jewel</prosody>"
     },
     {
         "path": "classes/jewel.mp3",
@@ -428,6 +963,11 @@
         "path": "classes/jewellery rare.mp3",
         "tts_text": "rare jewellery",
         "ssml_text": "<prosody rate='fast'>rare jewellery</prosody>"
+    },
+    {
+        "path": "classes/league invitation.mp3",
+        "tts_text": "league invitation",
+        "ssml_text": ""
     },
     {
         "path": "classes/life flask.mp3",
@@ -450,6 +990,16 @@
         "ssml_text": "<prosody rate='fast'>rare melee weapon</prosody>"
     },
     {
+        "path": "classes/memory strands fractured.mp3",
+        "tts_text": "memory strands fractured",
+        "ssml_text": "<prosody rate='fast'>memory strands fractured</prosody>"
+    },
+    {
+        "path": "classes/memory strands veiled.mp3",
+        "tts_text": "memory strands veiled",
+        "ssml_text": "<prosody rate='fast'>memory strands veiled</prosody>"
+    },
+    {
         "path": "classes/minion gear rare.mp3",
         "tts_text": "rare minion gear",
         "ssml_text": "<prosody rate='fast'>rare minion gear</prosody>"
@@ -465,9 +1015,34 @@
         "ssml_text": "<prosody rate='fast'>minion wand</prosody>"
     },
     {
+        "path": "classes/one-hand axe rare.mp3",
+        "tts_text": "rare 1 h axe",
+        "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>1h</say-as> axe</prosody>"
+    },
+    {
+        "path": "classes/one-hand mace rare.mp3",
+        "tts_text": "rare 1 h mace",
+        "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+    },
+    {
+        "path": "classes/one-hand sword rare.mp3",
+        "tts_text": "rare 1 h sword",
+        "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>1h</say-as> sword</prosody>"
+    },
+    {
         "path": "classes/one-hand rare.mp3",
         "tts_text": "rare one-hand",
         "ssml_text": "<prosody rate='fast'>rare one-hand</prosody>"
+    },
+    {
+        "path": "classes/piece adorned.mp3",
+        "tts_text": "adorned piece",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/piece harbinger.mp3",
+        "tts_text": "harbinger piece",
+        "ssml_text": ""
     },
     {
         "path": "classes/quality armour.mp3",
@@ -490,6 +1065,16 @@
         "ssml_text": "<prosody rate='fast'>quality weapon</prosody>"
     },
     {
+        "path": "classes/quarterstaff rare.mp3",
+        "tts_text": "rare quarterstaff",
+        "ssml_text": "<prosody rate='fast'>rare quarterstaff</prosody>"
+    },
+    {
+        "path": "classes/quest contract.mp3",
+        "tts_text": "quest contract",
+        "ssml_text": ""
+    },
+    {
         "path": "classes/quiver implicit.mp3",
         "tts_text": "quiver implicit",
         "ssml_text": "<prosody rate='fast'>quiver implicit</prosody>"
@@ -498,6 +1083,11 @@
         "path": "classes/quiver rare.mp3",
         "tts_text": "rare quiver",
         "ssml_text": "<prosody rate='fast'>rare quiver</prosody>"
+    },
+    {
+        "path": "classes/rare bricked exotic unique.mp3",
+        "tts_text": "rare bricked exotic unique",
+        "ssml_text": "<prosody rate='fast'>rare bricked exotic unique</prosody>"
     },
     {
         "path": "classes/recipe ring.mp3",
@@ -510,8 +1100,18 @@
         "ssml_text": "<prosody rate='fast'>recipe wand</prosody>"
     },
     {
+        "path": "classes/relic.mp3",
+        "tts_text": "relic",
+        "ssml_text": ""
+    },
+    {
         "path": "classes/ring.mp3",
         "tts_text": "ring",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/ritual base.mp3",
+        "tts_text": "ritual base",
         "ssml_text": ""
     },
     {
@@ -535,18 +1135,123 @@
         "ssml_text": ""
     },
     {
+        "path": "classes/synthesised.mp3",
+        "tts_text": "synthesised",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/thrusting one-hand sword rare.mp3",
+        "tts_text": "rare rapier",
+        "ssml_text": "<prosody rate='fast'>rare rapier</prosody>"
+    },
+    {
+        "path": "classes/tincture 21% quality.mp3",
+        "tts_text": "21% quality tincture",
+        "ssml_text": "<prosody rate='fast'>21% quality tincture</prosody>"
+    },
+    {
+        "path": "classes/tincture exceptional quality.mp3",
+        "tts_text": "exceptional tincture",
+        "ssml_text": "<prosody rate='fast'>exceptional tincture</prosody>"
+    },
+    {
         "path": "classes/tincture.mp3",
         "tts_text": "tincture",
         "ssml_text": ""
+    },
+    {
+        "path": "classes/two-hand axe rare.mp3",
+        "tts_text": "rare 2 h axe",
+        "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>2h</say-as> axe</prosody>"
+    },
+    {
+        "path": "classes/two-hand mace rare.mp3",
+        "tts_text": "rare 2 h mace",
+        "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
+    },
+    {
+        "path": "classes/two-hand sword rare.mp3",
+        "tts_text": "rare 2 h sword",
+        "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>2h</say-as> sword</prosody>"
     },
     {
         "path": "classes/two-hand rare.mp3",
         "tts_text": "rare two-hand",
         "ssml_text": "<prosody rate='fast'>rare two-hand</prosody>"
     },
+    {        
+        "path": "classes/unique 2 abyssal.mp3",
+        "tts_text": "unique 2 abyssal",
+        "ssml_text": "<prosody rate='fast'>unique 2 abyssal</prosody>"
+    },
+    {
+        "path": "classes/unique 1250 dust per slot.mp3",
+        "tts_text": "1250 dust per slot",
+        "ssml_text": "<prosody rate='fast'>1250 dust per slot</prosody>"
+    },
+    {
+        "path": "classes/unique 2500 dust per slot.mp3",
+        "tts_text": "2500 dust per slot",
+        "ssml_text": "<prosody rate='fast'>2500 dust per slot</prosody>"
+    },
+    {
+        "path": "classes/unique 5000 dust per slot.mp3",
+        "tts_text": "5000 dust per slot",
+        "ssml_text": "<prosody rate='fast'>5000 dust per slot</prosody>"
+    },
+    {
+        "path": "classes/unique contract.mp3",
+        "tts_text": "unique contract",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/unique corrupted.mp3",
+        "tts_text": "corrupted unique",
+        "ssml_text": "<prosody rate='fast'>corrupted unique</prosody>"
+    },
+    {
+        "path": "classes/unique crucible.mp3",
+        "tts_text": "crucible unique",
+        "ssml_text": "<prosody rate='fast'>crucible unique</prosody>"
+    },
+    {
+        "path": "classes/unique double corrupted.mp3",
+        "tts_text": "double corrupted unique",
+        "ssml_text": "<prosody rate='fast'>double corrupted unique</prosody>"
+    },
+    {
+        "path": "classes/unique jewel corrupted.mp3",
+        "tts_text": "corrupted unique jewel",
+        "ssml_text": "<prosody rate='fast'>corrupted unique jewel</prosody>"
+    },
+    {
+        "path": "classes/unique jewel.mp3",
+        "tts_text": "unique jewel",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/unique ring loreweave.mp3",
+        "tts_text": "unique loreweave ring ",
+        "ssml_text": "<prosody rate='fast'>unique loreweave ring</prosody>"
+    },
+    {
+        "path": "classes/unique replica.mp3",
+        "tts_text": "replica unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/unique synthesized.mp3",
+        "tts_text": "synthesized unique",
+        "ssml_text": ""
+    },
     {
         "path": "classes/unique.mp3",
         "tts_text": "unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/veiled double.mp3",
+        "tts_text": "double veiled",
         "ssml_text": ""
     },
     {
@@ -558,6 +1263,11 @@
         "path": "classes/vendor blacksmiths whetstone.mp3",
         "tts_text": "vendor whetstone",
         "ssml_text": "<prosody rate='fast'>vendor whetstone</prosody>"
+    },
+    {
+        "path": "classes/vendor chromatic orb.mp3",
+        "tts_text": "vendor chromatic",
+        "ssml_text": "<prosody rate='fast'>vendor chromatic</prosody>"
     },
     {
         "path": "classes/vendor gemcutters prism.mp3",
@@ -573,6 +1283,36 @@
         "path": "classes/wand rare.mp3",
         "tts_text": "rare wand",
         "ssml_text": "<prosody rate='fast'>rare wand</prosody>"
+    },
+    {
+        "path": "classes/ward base.mp3",
+        "tts_text": "ward base",
+        "ssml_text": "<prosody rate='fast'>ward base</prosody>"
+    },
+    {
+        "path": "classes/warstaff rare.mp3",
+        "tts_text": "rare warstaff",
+        "ssml_text": "<prosody rate='fast'>rare warstaff</prosody>"
+    },
+    {
+        "path": "currency/delirium/simulacrum splinter.mp3",
+        "tts_text": "simulacrum splinter",
+        "ssml_text": "<prosody rate='fast'>simulacrum splinter</prosody>"
+    },
+    {
+        "path": "currency/gold/gold pile huge.mp3",
+        "tts_text": "huge gold pile",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/gold/gold pile large.mp3",
+        "tts_text": "large gold pile",
+        "ssml_text": ""
+    },
+    {
+        "path": "currency/delve/prime chaotic resonator.mp3",
+        "tts_text": "prime chaotic resonator",
+        "ssml_text": "<prosody rate='fast'>prime chaotic resonator</prosody>"
     },
     {
         "path": "currency/armourers scrap stack.mp3",
@@ -650,6 +1390,11 @@
         "ssml_text": "<prosody rate='fast'>hinekoras lock</prosody>"
     },
     {
+        "path": "currency/imprint.mp3",
+        "tts_text": "imprint",
+        "ssml_text": "<prosody rate='fast'>imprint</prosody>"
+    },
+    {
         "path": "currency/instilling orb.mp3",
         "tts_text": "instilling",
         "ssml_text": "<prosody rate='fast'>instilling</prosody>"
@@ -698,6 +1443,11 @@
         "path": "currency/orb of annulment.mp3",
         "tts_text": "annulment",
         "ssml_text": ""
+    },
+    {
+        "path": "currency/orb of augmentation 10+.mp3",
+        "tts_text": "augmentation 10 plus",
+        "ssml_text": "<prosody rate='fast'>augmentation 10 plus</prosody>"
     },
     {
         "path": "currency/orb of augmentation stack.mp3",
@@ -750,6 +1500,11 @@
         "ssml_text": ""
     },
     {
+        "path": "currency/orb of transmutation 10+.mp3",
+        "tts_text": "transmutation 10 plus",
+        "ssml_text": "<prosody rate='fast'>transmutation 10 plus</prosody>"
+    },
+    {
         "path": "currency/orb of transmutation stack.mp3",
         "tts_text": "transmutation stack",
         "ssml_text": "<prosody rate='fast'>transmutation stack</prosody>"
@@ -780,6 +1535,11 @@
         "ssml_text": ""
     },
     {
+        "path": "currency/rogues marker large stack.mp3",
+        "tts_text": "rogues marker large stack",
+        "ssml_text": "<prosody rate='fast'>rogues marker large stack</prosody>"
+    },
+    {
         "path": "currency/rogues marker.mp3",
         "tts_text": "rogues marker",
         "ssml_text": "<prosody rate='fast'>rogues marker</prosody>"
@@ -808,6 +1568,11 @@
         "path": "currency/vaal orb.mp3",
         "tts_text": "vaal",
         "ssml_text": ""
+    },
+    {        
+        "path": "ided/jewel life es.mp3",
+        "tts_text": "ided life es jewel",
+        "ssml_text": "<prosody rate='fast'>ided life es jewel</prosody>"
     },
     {
         "path": "links/3l/2b1g body.mp3",
@@ -1845,9 +2610,59 @@
         "ssml_text": "<prosody rate='fast'>4 white</prosody>"
     },
     {
+        "path": "links/5 link unique.mp3",
+        "tts_text": "5 link unique",
+        "ssml_text": ""
+    },
+    {
         "path": "links/5 link.mp3",
         "tts_text": "5 link",
         "ssml_text": "<prosody rate='fast'>5 link</prosody>"
+    },
+    {
+        "path": "links/5 link 6 socket.mp3",
+        "tts_text": "5 link 6 socket",
+        "ssml_text": "<prosody rate='fast'>5 link 6 socket</prosody>"
+    },
+    {
+        "path": "links/6 link s tier.mp3",
+        "tts_text": "6 link s tier",
+        "ssml_text": ""
+    },
+    {
+        "path": "links/6 link unique.mp3",
+        "tts_text": "6 link unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "links/6 link.mp3",
+        "tts_text": "6 link",
+        "ssml_text": ""
+    },
+    {
+        "path": "sockets/2 socket.mp3",
+        "tts_text": "2 socket",
+        "ssml_text": "<prosody rate='fast'>2 socket</prosody>"
+    },
+    {
+        "path": "sockets/3 socket.mp3",
+        "tts_text": "3 socket",
+        "ssml_text": "<prosody rate='fast'>3 socket</prosody>"
+    },
+    {
+        "path": "sockets/4 socket.mp3",
+        "tts_text": "4 socket",
+        "ssml_text": "<prosody rate='fast'>4 socket</prosody>"
+    },
+    {
+        "path": "sockets/5 socket.mp3",
+        "tts_text": "5 socket",
+        "ssml_text": "<prosody rate='fast'>5 socket</prosody>"
+    },
+    {
+        "path": "sockets/6 socket unique.mp3",
+        "tts_text": "6 socket unique",
+        "ssml_text": "<prosody rate='fast'>6 socket unique</prosody>"
     },
     {
         "path": "sockets/6 socket.mp3",
@@ -1855,9 +2670,864 @@
         "ssml_text": "<prosody rate='fast'>6 socket</prosody>"
     },
     {
+        "path": "sockets/6w.mp3",
+        "tts_text": "6 white socket",
+        "ssml_text": "<prosody rate='fast'>6 white socket</prosody>"
+    },
+    {
         "path": "sockets/white socket.mp3",
         "tts_text": "white socket",
         "ssml_text": "<prosody rate='fast'>white socket</prosody>"
+    },
+    {
+        "path": "tiers/blight oil s tier.mp3",
+        "tts_text": "s tier blight oil",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/blight oil a tier.mp3",
+        "tts_text": "a tier blight oil",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/blight oil b tier.mp3",
+        "tts_text": "b tier blight oil",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/blight oil c tier.mp3",
+        "tts_text": "c tier blight oil",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/blight oil d tier.mp3",
+        "tts_text": "d tier blight oil",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/boss invitation s tier.mp3",
+        "tts_text": "s tier boss invitation",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/boss invitation a tier.mp3",
+        "tts_text": "a tier boss invitation",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/boss invitation b tier.mp3",
+        "tts_text": "b tier boss invitation",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/cluster jewel large a tier.mp3",
+        "tts_text": "a tier large cluster jewel",
+        "ssml_text": "<prosody rate='fast'>a tier large cluster jewel</prosody>"
+    },
+    {
+        "path": "tiers/cluster jewel large s tier.mp3",
+        "tts_text": "s tier large cluster jewel",
+        "ssml_text": "<prosody rate='fast'>s tier large cluster jewel</prosody>"
+    },
+    {
+        "path": "tiers/cluster jewel medium a tier.mp3",
+        "tts_text": "a tier medium cluster jewel",
+        "ssml_text": "<prosody rate='fast'>a tier medium cluster jewel</prosody>"
+    },
+    {
+        "path": "tiers/cluster jewel medium s tier.mp3",
+        "tts_text": "s tier medium cluster jewel",
+        "ssml_text": "<prosody rate='fast'>s tier medium cluster jewel</prosody>"
+    },
+    {
+        "path": "tiers/cluster jewel small a tier.mp3",
+        "tts_text": "a tier small cluster jewel",
+        "ssml_text": "<prosody rate='fast'>a tier small cluster jewel</prosody>"
+    },
+    {
+        "path": "tiers/cluster jewel small s tier.mp3",
+        "tts_text": "s tier small cluster jewel",
+        "ssml_text": "<prosody rate='fast'>s tier small cluster jewel</prosody>"
+    },
+    {
+        "path": "tiers/corpse s tier.mp3",
+        "tts_text": "s tier corpse",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/corpse a tier.mp3",
+        "tts_text": "a tier corpse",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/corpse b tier.mp3",
+        "tts_text": "b tier corpse",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/corpse c tier.mp3",
+        "tts_text": "c tier corpse",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/corpse d tier.mp3",
+        "tts_text": "d tier corpse",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/currency s tier.mp3",
+        "tts_text": "s tier currency",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/currency a tier.mp3",
+        "tts_text": "a tier currency",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/currency b tier.mp3",
+        "tts_text": "b tier currency",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/currency c tier.mp3",
+        "tts_text": "c tier currency",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/currency d tier.mp3",
+        "tts_text": "d tier currency",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/currency e tier.mp3",
+        "tts_text": "e tier currency",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/currency f tier.mp3",
+        "tts_text": "f tier currency",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/currency large stack s tier.mp3",
+        "tts_text": "s tier large stack currency",
+        "ssml_text": "<prosody rate='fast'>s tier large stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency large stack a tier.mp3",
+        "tts_text": "a tier large stack currency",
+        "ssml_text": "<prosody rate='fast'>a tier large stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency large stack b tier.mp3",
+        "tts_text": "b tier large stack currency",
+        "ssml_text": "<prosody rate='fast'>b tier large stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency large stack c tier.mp3",
+        "tts_text": "c tier large stack currency",
+        "ssml_text": "<prosody rate='fast'>c tier large stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency large stack d tier.mp3",
+        "tts_text": "d tier large stack currency",
+        "ssml_text": "<prosody rate='fast'>d tier large stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency large stack e tier.mp3",
+        "tts_text": "e tier large stack currency",
+        "ssml_text": "<prosody rate='fast'>e tier large stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency large stack f tier.mp3",
+        "tts_text": "f tier large stack currency",
+        "ssml_text": "<prosody rate='fast'>f tier large stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency small stack s tier.mp3",
+        "tts_text": "s tier small stack currency",
+        "ssml_text": "<prosody rate='fast'>s tier small stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency small stack a tier.mp3",
+        "tts_text": "a tier small stack currency",
+        "ssml_text": "<prosody rate='fast'>a tier small stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency small stack b tier.mp3",
+        "tts_text": "b tier small stack currency",
+        "ssml_text": "<prosody rate='fast'>b tier small stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency small stack c tier.mp3",
+        "tts_text": "c tier small stack currency",
+        "ssml_text": "<prosody rate='fast'>c tier small stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency small stack d tier.mp3",
+        "tts_text": "d tier small stack currency",
+        "ssml_text": "<prosody rate='fast'>d tier small stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency small stack e tier.mp3",
+        "tts_text": "e tier small stack currency",
+        "ssml_text": "<prosody rate='fast'>e tier small stack currency</prosody>"
+    },
+    {
+        "path": "tiers/currency small stack f tier.mp3",
+        "tts_text": "f tier small stack currency",
+        "ssml_text": "<prosody rate='fast'>f tier small stack currency</prosody>"
+    },
+    {
+        "path": "tiers/delirium orb s tier.mp3",
+        "tts_text": "s tier delirium orb",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/delirium orb a tier.mp3",
+        "tts_text": "a tier delirium orb",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/delirium orb b tier.mp3",
+        "tts_text": "b tier delirium orb",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/divination card s tier.mp3",
+        "tts_text": "s tier div card",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/divination card a tier.mp3",
+        "tts_text": "a tier div card",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/divination card b tier.mp3",
+        "tts_text": "b tier div card",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/divination card c tier currency.mp3",
+        "tts_text": "c tier currency div card",
+        "ssml_text": ""
+    },
+        {
+        "path": "tiers/divination card c tier.mp3",
+        "tts_text": "c tier div card",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/divination card d tier.mp3",
+        "tts_text": "d tier div card",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/divination card e tier currency.mp3",
+        "tts_text": "e tier currency div card",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/divination card e tier.mp3",
+        "tts_text": "e tier div card",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/essence s tier.mp3",
+        "tts_text": "s tier essence",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/essence a tier.mp3",
+        "tts_text": "a tier essence",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/essence b tier.mp3",
+        "tts_text": "b tier essence",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/essence c tier.mp3",
+        "tts_text": "c tier essence",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fossil s tier.mp3",
+        "tts_text": "s tier fossil",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fossil a tier.mp3",
+        "tts_text": "a tier fossil",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fossil b tier.mp3",
+        "tts_text": "b tier fossil",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fractured a tier.mp3",
+        "tts_text": "a tier fractured",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fractured b tier.mp3",
+        "tts_text": "b tier fractured",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fractured c tier.mp3",
+        "tts_text": "c tier fractured",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fractured d tier.mp3",
+        "tts_text": "d tier fractured",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fragment s tier.mp3",
+        "tts_text": "s tier fragment",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fragment a tier.mp3",
+        "tts_text": "a tier fragment",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fragment b tier.mp3",
+        "tts_text": "b tier fragment",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fragment c tier.mp3",
+        "tts_text": "c tier fragment",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/fragment c tier stack.mp3",
+        "tts_text": "c tier fragment stack",
+        "ssml_text": "<prosody rate='fast'>c tier fragment stack</prosody>"
+    },
+    {
+        "path": "tiers/incubator s tier.mp3",
+        "tts_text": "s tier incubator",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/incubator a tier.mp3",
+        "tts_text": "a tier incubator",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/incubator b tier.mp3",
+        "tts_text": "b tier incubator",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/incubator c tier.mp3",
+        "tts_text": "c tier incubator",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/incubator d tier.mp3",
+        "tts_text": "d tier incubator",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/incursion vial s tier.mp3",
+        "tts_text": "s tier incursion vial",
+        "ssml_text": "<prosody rate='fast'>s tier incursion vial</prosody>"
+    },
+    {
+        "path": "tiers/incursion vial a tier.mp3",
+        "tts_text": "a tier incursion vial",
+        "ssml_text": "<prosody rate='fast'>a tier incursion vial</prosody>"
+    },
+    {
+        "path": "tiers/incursion vial b tier.mp3",
+        "tts_text": "b tier incursion vial",
+        "ssml_text": "<prosody rate='fast'>b tier incursion vial</prosody>"
+    },
+    {
+        "path": "tiers/influenced s tier.mp3",
+        "tts_text": "s tier influenced",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/influenced a tier.mp3",
+        "tts_text": "a tier influenced",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/influenced b tier.mp3",
+        "tts_text": "b tier influenced",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/memory strands s tier high.mp3",
+        "tts_text": "s tier memory strands high",
+        "ssml_text": "<prosody rate='fast'>s tier memory strands high</prosody>"
+    },
+    {
+        "path": "tiers/memory strands s tier.mp3",
+        "tts_text": "s tier memory strands",
+        "ssml_text": "<prosody rate='fast'>s tier memory strands</prosody>"
+    },
+    {
+        "path": "tiers/memory strands a tier high.mp3",
+        "tts_text": "a tier memory strands high",
+        "ssml_text": "<prosody rate='fast'>a tier memory strands high</prosody>"
+    },
+    {
+        "path": "tiers/memory strands a tier.mp3",
+        "tts_text": "a tier memory strands",
+        "ssml_text": "<prosody rate='fast'>a tier memory strands</prosody>"
+    },
+    {
+        "path": "tiers/memory strands b tier high.mp3",
+        "tts_text": "b tier memory strands high",
+        "ssml_text": "<prosody rate='fast'>b tier memory strands high</prosody>"
+    },
+    {
+        "path": "tiers/memory strands b tier.mp3",
+        "tts_text": "b tier memory strands",
+        "ssml_text": "<prosody rate='fast'>b tier memory strands</prosody>"
+    },
+    {
+        "path": "tiers/memory strands c tier high.mp3",
+        "tts_text": "c tier memory strands high",
+        "ssml_text": "<prosody rate='fast'>c tier memory strands high</prosody>"
+    },
+    {
+        "path": "tiers/memory strands c tier.mp3",
+        "tts_text": "c tier memory strands",
+        "ssml_text": "<prosody rate='fast'>c tier memory strands</prosody>"
+    },
+    {
+        "path": "tiers/memory strands d tier high.mp3",
+        "tts_text": "d tier memory strands high",
+        "ssml_text": "<prosody rate='fast'>d tier memory strands high</prosody>"
+    },
+    {
+        "path": "tiers/memory strands d tier.mp3",
+        "tts_text": "d tier memory strands",
+        "ssml_text": "<prosody rate='fast'>d tier memory strands</prosody>"
+    },
+    {
+        "path": "tiers/omen s tier.mp3",
+        "tts_text": "s tier omen",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/omen a tier.mp3",
+        "tts_text": "a tier omen",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/omen b tier.mp3",
+        "tts_text": "b tier omen",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/omen c tier.mp3",
+        "tts_text": "c tier omen",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/omen d tier.mp3",
+        "tts_text": "d tier omen",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/overquality armour a tier highest.mp3",
+        "tts_text": "overquality armour highest",
+        "ssml_text": "<prosody rate='fast'>overquality armour highest</prosody>"
+    },
+    {
+        "path": "tiers/overquality armour a tier mid.mp3",
+        "tts_text": "overquality armour mid",
+        "ssml_text": "<prosody rate='fast'>overquality armour mid</prosody>"
+    },
+    {
+        "path": "tiers/overquality weapon a tier highest.mp3",
+        "tts_text": "a tier overquality weapon highest",
+        "ssml_text": "<prosody rate='fast'>a tier overquality weapon highest</prosody>"
+    },
+    {
+        "path": "tiers/overquality weapon a tier mid.mp3",
+        "tts_text": "a tier overquality weapon mid",
+        "ssml_text": "<prosody rate='fast'>a tier overquality weapon mid</prosody>"
+    },
+    {
+        "path": "tiers/overquality weapon b tier highest.mp3",
+        "tts_text": "b tier overquality weapon highest",
+        "ssml_text": "<prosody rate='fast'>b tier overquality weapon highest</prosody>"
+    },
+    {
+        "path": "tiers/overquality weapon b tier mid.mp3",
+        "tts_text": "b tier overquality weapon mid",
+        "ssml_text": "<prosody rate='fast'>b tier overquality weapon mid</prosody>"
+    },
+    {
+        "path": "tiers/replica unique s tier.mp3",
+        "tts_text": "s tier replica unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/replica unique a tier.mp3",
+        "tts_text": "a tier replica unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/resonator s tier.mp3",
+        "tts_text": "s tier resonator",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/resonator a tier.mp3",
+        "tts_text": "a tier resonator",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/resonator b tier.mp3",
+        "tts_text": "b tier resonator",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/runegraft s tier.mp3",
+        "tts_text": "s tier runegraft",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/runegraft a tier.mp3",
+        "tts_text": "a tier runegraft",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/runegraft b tier.mp3",
+        "tts_text": "b tier runegraft",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/runegraft c tier.mp3",
+        "tts_text": "c tier runegraft",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/scarab s tier.mp3",
+        "tts_text": "s tier scarab",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/scarab a tier.mp3",
+        "tts_text": "a tier scarab",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/scarab b tier.mp3",
+        "tts_text": "b tier scarab",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/scarab c tier.mp3",
+        "tts_text": "c tier scarab",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/scarab d tier.mp3",
+        "tts_text": "d tier scarab",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/scarab e tier.mp3",
+        "tts_text": "d tier scarab",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/scarab low tier stack.mp3",
+        "tts_text": "low tier scarab stack",
+        "ssml_text": "<prosody rate='fast'>low tier scarab stack</prosody>"
+    },
+    {
+        "path": "tiers/simulacrum splinter stack huge.mp3",
+        "tts_text": "huge simulacrum splinter stack",
+        "ssml_text": "<prosody rate='fast'>huge simulacrum splinter stack</prosody>"
+    },
+    {
+        "path": "tiers/simulacrum splinter stack large.mp3",
+        "tts_text": "large simulacrum splinter stack",
+        "ssml_text": "<prosody rate='fast'>large simulacrum splinter stack</prosody>"
+    },
+    {
+        "path": "tiers/simulacrum splinter stack medium.mp3",
+        "tts_text": "medium simulacrum splinter stack",
+        "ssml_text": "<prosody rate='fast'>medium simulacrum splinter stack</prosody>"
+    },
+    {
+        "path": "tiers/simulacrum splinter stack small.mp3",
+        "tts_text": "small simulacrum splinter stack",
+        "ssml_text": "<prosody rate='fast'>small simulacrum splinter stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter s tier.mp3",
+        "tts_text": "s tier splinter",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/splinter s tier stack huge.mp3",
+        "tts_text": "s tier splinter huge stack",
+        "ssml_text": "<prosody rate='fast'>s tier splinter huge stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter s tier stack large.mp3",
+        "tts_text": "s tier splinter large stack",
+        "ssml_text": "<prosody rate='fast'>s tier splinter large stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter s tier stack medium.mp3",
+        "tts_text": "s tier splinter medium stack",
+        "ssml_text": "<prosody rate='fast'>s tier splinter medium stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter s tier stack small.mp3",
+        "tts_text": "s tier splinter small stack",
+        "ssml_text": "<prosody rate='fast'>s tier splinter small stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter s tier stack tiny.mp3",
+        "tts_text": "s tier splinter tiny stack",
+        "ssml_text": "<prosody rate='fast'>s tier splinter tiny stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter stack huge.mp3",
+        "tts_text": "splinter huge stack",
+        "ssml_text": "<prosody rate='fast'>splinter huge stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter stack large.mp3",
+        "tts_text": "splinter large stack",
+        "ssml_text": "<prosody rate='fast'>splinter large stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter stack medium.mp3",
+        "tts_text": "splinter medium stack",
+        "ssml_text": "<prosody rate='fast'>splinter medium stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter stack small.mp3",
+        "tts_text": "splinter small stack",
+        "ssml_text": "<prosody rate='fast'>splinter small stack</prosody>"
+    },
+    {
+        "path": "tiers/splinter stack tiny.mp3",
+        "tts_text": "splinter tiny stack",
+        "ssml_text": "<prosody rate='fast'>splinter tiny stack</prosody>"
+    },
+    {
+        "path": "tiers/synthesised a tier.mp3",
+        "tts_text": "a tier synthesised",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/talisman s tier.mp3",
+        "tts_text": "s tier talisman",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/talisman a tier.mp3",
+        "tts_text": "a tier talisman",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/talisman b tier.mp3",
+        "tts_text": "b tier talisman",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/talisman c tier.mp3",
+        "tts_text": "c tier talisman",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/tattoo s tier.mp3",
+        "tts_text": "s tier tattoo",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/tattoo a tier.mp3",
+        "tts_text": "a tier tattoo",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/tattoo b tier.mp3",
+        "tts_text": "b tier tattoo",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/tattoo c tier.mp3",
+        "tts_text": "c tier tattoo",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/unique s tier.mp3",
+        "tts_text": "s tier unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/unique a tier.mp3",
+        "tts_text": "a tier unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/unique b tier.mp3",
+        "tts_text": "b tier unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/unique c tier.mp3",
+        "tts_text": "c tier unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/unique d tier early league.mp3",
+        "tts_text": "d tier unique early league",
+        "ssml_text": "<prosody rate='fast'>d tier unique early league</prosody>"
+    },
+    {
+        "path": "tiers/unique d tier mercenary.mp3",
+        "tts_text": "d tier unique mercenary",
+        "ssml_text": "<prosody rate='fast'>d tier unique mercenary</prosody>"
+    },
+    {
+        "path": "tiers/unique d tier nondrop.mp3",
+        "tts_text": "d tier unique nondrop",
+        "ssml_text": "<prosody rate='fast'>d tier unique nondrop</prosody>"
+    },
+    {
+        "path": "tiers/unique d tier.mp3",
+        "tts_text": "d tier unique",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/unique multibase boss.mp3",
+        "tts_text": "boss multibase unique",
+        "ssml_text": "<prosody rate='fast'>boss multibase unique</prosody>"
+    },
+    {
+        "path": "tiers/unique multibase top.mp3",
+        "tts_text": "top multibase unique",
+        "ssml_text": "<prosody rate='fast'>top multibase unique</prosody>"
+    },
+    {
+        "path": "tiers/unique multibase.mp3",
+        "tts_text": "multibase unique",
+        "ssml_text": "<prosody rate='fast'>multibase unique</prosody>"
+    },
+    {
+        "path": "tiers/unique map s tier.mp3",
+        "tts_text": "s tier unique map",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/unique map a tier.mp3",
+        "tts_text": "a tier unique map",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/unique map b tier.mp3",
+        "tts_text": "b tier unique map",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/unique map c tier.mp3",
+        "tts_text": "c tier unique map",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/veiled a tier.mp3",
+        "tts_text": "a tier veiled",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/veiled b tier.mp3",
+        "tts_text": "b tier veiled",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/veiled c tier.mp3",
+        "tts_text": "c tier veiled",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/veiled d tier.mp3",
+        "tts_text": "d tier veiled",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/veiled e tier.mp3",
+        "tts_text": "e tier veiled",
+        "ssml_text": ""
+    },
+    {
+        "path": "tiers/veiled special mod s tier.mp3",
+        "tts_text": "s tier special mod veiled",
+        "ssml_text": "<prosody rate='fast'>s tier special mod veiled</prosody>"
+    },
+    {
+        "path": "tiers/veiled special mod a tier.mp3",
+        "tts_text": "special mod veiled",
+        "ssml_text": "<prosody rate='fast'>special mod veiled</prosody>"
+    },
+    {
+        "path": "uniques/impresence double curse.mp3",
+        "tts_text": "impresence double curse",
+        "ssml_text": ""
+    },
+    {
+        "path": "uniques/kaoms heart.mp3",
+        "tts_text": "kaom's heart",
+        "ssml_text": ""
+    },
+    {
+        "path": "uniques/shroud of the lightless 3 abyssal.mp3",
+        "tts_text": "shroud of the lightless three abyss",
+        "ssml_text": ""
+    },
+    {
+        "path": "uniques/starforge voidforge.mp3",
+        "tts_text": "forge",
+        "ssml_text": ""
+    },
+    {
+        "path": "uniques/tabula rasa.mp3",
+        "tts_text": "tabula rasa",
+        "ssml_text": ""
+    },
+    {
+        "path": "uniques/the squire.mp3",
+        "tts_text": "the squire",
+        "ssml_text": ""
+    },
+    {
+        "path": "uniques/triad grip 4w.mp3",
+        "tts_text": "triad grip 4 white",
+        "ssml_text": "<prosody rate='fast'>triad grip 4 white</prosody>"
+    },
+    {
+        "path": "uniques/rational doctrine.mp3",
+        "tts_text": "rational doctrine",
+        "ssml_text": ""
+    },
+    {
+        "path": "uniques/wraithlord.mp3",
+        "tts_text": "wraithlord",
+        "ssml_text": ""
     },
     {
         "path": "switch filter.mp3",
