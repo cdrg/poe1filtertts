@@ -635,6 +635,11 @@
         "ssml_text": ""
     },
     {
+        "path": "classes/body armour rare.mp3",
+        "tts_text": "rare body",
+        "ssml_text": "<prosody rate='fast'>rare body</prosody>"
+    },
+    {
         "path": "classes/boots magic.mp3",
         "tts_text": "magic boots",
         "ssml_text": "<prosody rate='fast'>magic boots</prosody>"
@@ -810,7 +815,7 @@
         "ssml_text": "<prosody rate='fast'>23% quality gem</prosody>"
     },
     {
-        "path": "classes/gems/em 20% quality.mp3",
+        "path": "classes/gems/gem 20% quality.mp3",
         "tts_text": "20% quality gem",
         "ssml_text": "<prosody rate='fast'>20% quality gem</prosody>"
     },
@@ -908,6 +913,11 @@
         "path": "classes/gems/gem.mp3",
         "tts_text": "gem",
         "ssml_text": ""
+    },
+    {
+        "path": "classes/gloves rare.mp3",
+        "tts_text": "rare gloves",
+        "ssml_text": "<prosody rate='fast'>rare gloves</prosody>"
     },
     {
         "path": "classes/glove implicit.mp3",
@@ -1300,6 +1310,86 @@
         "ssml_text": "<prosody rate='fast'>simulacrum splinter</prosody>"
     },
     {
+        "path": "currency/essence/essence of anger.mp3",
+        "tts_text": "anger essence",
+        "ssml_text": "<prosody rate='fast'>anger essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of anguish.mp3",
+        "tts_text": "anguish essence",
+        "ssml_text": "<prosody rate='fast'>anguish essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of contempt.mp3",
+        "tts_text": "contempt essence",
+        "ssml_text": "<prosody rate='fast'>contempt essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of doubt.mp3",
+        "tts_text": "doubt essence",
+        "ssml_text": "<prosody rate='fast'>doubt essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of fear.mp3",
+        "tts_text": "fear essence",
+        "ssml_text": "<prosody rate='fast'>fear essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of greed.mp3",
+        "tts_text": "greed essence",
+        "ssml_text": "<prosody rate='fast'>greed essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of hatred.mp3",
+        "tts_text": "hatred essence",
+        "ssml_text": "<prosody rate='fast'>hatred essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of loathing.mp3",
+        "tts_text": "loathing essence",
+        "ssml_text": "<prosody rate='fast'>loathing essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of rage.mp3",
+        "tts_text": "rage essence",
+        "ssml_text": "<prosody rate='fast'>rage essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of sorrow.mp3",
+        "tts_text": "sorrow essence",
+        "ssml_text": "<prosody rate='fast'>sorrow essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of spite.mp3",
+        "tts_text": "spite essence",
+        "ssml_text": "<prosody rate='fast'>spite essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of suffering.mp3",
+        "tts_text": "suffering essence",
+        "ssml_text": "<prosody rate='fast'>suffering essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of torment.mp3",
+        "tts_text": "torment essence",
+        "ssml_text": "<prosody rate='fast'>torment essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of woe.mp3",
+        "tts_text": "woe essence",
+        "ssml_text": "<prosody rate='fast'>woe essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of wrath.mp3",
+        "tts_text": "wrath essence",
+        "ssml_text": "<prosody rate='fast'>wrath essence</prosody>"
+    },
+    {
+        "path": "currency/essence/essence of zeal.mp3",
+        "tts_text": "zeal essence",
+        "ssml_text": "<prosody rate='fast'>zeal essence</prosody>"
+    },
+    {
         "path": "currency/gold/gold pile huge.mp3",
         "tts_text": "huge gold pile",
         "ssml_text": ""
@@ -1573,6 +1663,11 @@
         "path": "ided/jewel life es.mp3",
         "tts_text": "ided life es jewel",
         "ssml_text": "<prosody rate='fast'>ided life es jewel</prosody>"
+    },
+    {        
+        "path": "ided/boots movespeed.mp3",
+        "tts_text": "movespeed boots",
+        "ssml_text": "<prosody rate='fast'>movespeed boots</prosody>"
     },
     {
         "path": "links/3l/2b1g body.mp3",
@@ -2310,14 +2405,34 @@
         "ssml_text": "<prosody rate='fast'>3 are 1 jee melee</prosody>"
     },
     {
-        "path": "links/4l/4 link 2h mace.mp3",
+        "path": "links/4l/4 link two-hand axe rare.mp3",
+        "tts_text": "rare 4 link axe",
+        "ssml_text": "<prosody rate='fast'>rare 4 link axe</prosody>"
+    },
+    {
+        "path": "links/4l/4 link two-hand axe.mp3",
+        "tts_text": "4 link axe",
+        "ssml_text": "<prosody rate='fast'>4 link axe</prosody>"
+    },
+    {
+        "path": "links/4l/4 link two-hand mace rare.mp3",
+        "tts_text": "rare 4 link mace",
+        "ssml_text": "<prosody rate='fast'>rare 4 link mace</prosody>"
+    },
+    {
+        "path": "links/4l/4 link two-hand mace.mp3",
         "tts_text": "4 link 2 h mace",
         "ssml_text": "<prosody rate='fast'>4 link <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
     },
     {
-        "path": "links/4l/4 link 2h sword.mp3",
-        "tts_text": "4 link 2 h sword",
-        "ssml_text": "<prosody rate='fast'>4 link <say-as interpret-as='characters'>2h</say-as> sword</prosody>"
+        "path": "links/4l/4 link two-hand sword rare.mp3",
+        "tts_text": "rare 4 link sword",
+        "ssml_text": "<prosody rate='fast'>rare 4 link sword</prosody>"
+    },
+    {
+        "path": "links/4l/4 link two-hand sword.mp3",
+        "tts_text": "4 link sword",
+        "ssml_text": "<prosody rate='fast'>4 link sword</prosody>"
     },
     {
         "path": "links/4l/4 link 6 socket.mp3",
@@ -2355,14 +2470,14 @@
         "ssml_text": "<prosody rate='fast'>4 link armour</prosody>"
     },
     {
-        "path": "links/4l/4 link axe.mp3",
-        "tts_text": "4 link axe",
-        "ssml_text": "<prosody rate='fast'>4 link axe</prosody>"
-    },
-    {
         "path": "links/4l/4 link base.mp3",
         "tts_text": "4 link base",
         "ssml_text": "<prosody rate='fast'>4 link base</prosody>"
+    },
+    {
+        "path": "links/4l/4 link bow rare.mp3",
+        "tts_text": "rare 4 link bow",
+        "ssml_text": "<prosody rate='fast'>rare 4 link bow</prosody>"
     },
     {
         "path": "links/4l/4 link bow.mp3",
@@ -2525,9 +2640,19 @@
         "ssml_text": "<prosody rate='fast'>rare 4 link</prosody>"
     },
     {
+        "path": "links/4l/4 link staff rare.mp3",
+        "tts_text": "rare 4 link staff",
+        "ssml_text": "<prosody rate='fast'>rare 4 link staff</prosody>"
+    },
+    {
         "path": "links/4l/4 link staff.mp3",
         "tts_text": "4 link staff",
         "ssml_text": "<prosody rate='fast'>4 link staff</prosody>"
+    },
+    {
+        "path": "links/4l/4 link warstaff rare.mp3",
+        "tts_text": "rare 4 link warstaff",
+        "ssml_text": "<prosody rate='fast'>rare 4 link warstaff</prosody>"
     },
     {
         "path": "links/4l/4 link warstaff.mp3",
