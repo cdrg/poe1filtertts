@@ -1680,6 +1680,16 @@
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee boots</prosody>"
     },
     {
+        "path": "links/3l/2b1g claw.mp3",
+        "tts_text": "2 bee 1 jee claw",
+        "ssml_text": "<prosody rate='fast'>2 bee 1 jee claw</prosody>"
+    },
+    {
+        "path": "links/3l/2b1g dagger.mp3",
+        "tts_text": "2 bee 1 jee dagger",
+        "ssml_text": "<prosody rate='fast'>2 bee 1 jee dagger</prosody>"
+    },
+    {
         "path": "links/3l/2b1g gloves.mp3",
         "tts_text": "2 bee 1 jee gloves",
         "ssml_text": "<prosody rate='fast'>2 bee 1 jee gloves</prosody>"
@@ -1696,8 +1706,8 @@
     },
     {
         "path": "links/3l/2b1g rare.mp3",
-        "tts_text": "rare 2 bee 1 jee ",
-        "ssml_text": "<prosody rate='fast'>rare 2 bee 1 jee </prosody>"
+        "tts_text": "rare 2 bee 1 jee",
+        "ssml_text": "<prosody rate='fast'>rare 2 bee 1 jee</prosody>"
     },
     {
         "path": "links/3l/2b1g rune dagger.mp3",
@@ -1730,6 +1740,16 @@
         "ssml_text": "<prosody rate='fast'>2 bee 1 are boots</prosody>"
     },
     {
+        "path": "links/3l/2b1r claw.mp3",
+        "tts_text": "2 bee 1 arr claw",
+        "ssml_text": "<prosody rate='fast'>2 bee 1 arr claw</prosody>"
+    },
+    {
+        "path": "links/3l/2b1r dagger.mp3",
+        "tts_text": "2 bee 1 arr dagger",
+        "ssml_text": "<prosody rate='fast'>2 bee 1 arr dagger</prosody>"
+    },
+    {
         "path": "links/3l/2b1r gloves.mp3",
         "tts_text": "2 bee 1 are gloves",
         "ssml_text": "<prosody rate='fast'>2 bee 1 are gloves</prosody>"
@@ -1746,8 +1766,8 @@
     },
     {
         "path": "links/3l/2b1r rare.mp3",
-        "tts_text": "rare 2 bee 1 are ",
-        "ssml_text": "<prosody rate='fast'>rare 2 bee 1 are </prosody>"
+        "tts_text": "rare 2 bee 1 are",
+        "ssml_text": "<prosody rate='fast'>rare 2 bee 1 are</prosody>"
     },
     {
         "path": "links/3l/2b1r rune dagger.mp3",
@@ -1780,6 +1800,16 @@
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee boots</prosody>"
     },
     {
+        "path": "links/3l/2g1b claw.mp3",
+        "tts_text": "2 jee 1 bee claw",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 bee claw</prosody>"
+    },
+    {
+        "path": "links/3l/2g1b dagger.mp3",
+        "tts_text": "2 jee 1 bee dagger",
+        "ssml_text": "<prosody rate='fast'>2 gee 1 bee dagger</prosody>"
+    },
+    {
         "path": "links/3l/2g1b gloves.mp3",
         "tts_text": "2 jee 1 bee gloves",
         "ssml_text": "<prosody rate='fast'>2 jee 1 bee gloves</prosody>"
@@ -1796,8 +1826,8 @@
     },
     {
         "path": "links/3l/2g1b rare.mp3",
-        "tts_text": "rare 2 jee 1 bee ",
-        "ssml_text": "<prosody rate='fast'>rare 2 jee 1 bee </prosody>"
+        "tts_text": "rare 2 jee 1 bee",
+        "ssml_text": "<prosody rate='fast'>rare 2 jee 1 bee</prosody>"
     },
     {
         "path": "links/3l/2g1b rune dagger.mp3",
@@ -1835,6 +1865,16 @@
         "ssml_text": "<prosody rate='fast'>2 jee 1 are bow</prosody>"
     },
     {
+        "path": "links/3l/2g1r claw.mp3",
+        "tts_text": "2 jee 1 arr claw",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 arr claw</prosody>"
+    },
+    {
+        "path": "links/3l/2g1r dagger.mp3",
+        "tts_text": "2 jee 1 arr dagger",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 arr dagger</prosody>"
+    },
+    {
         "path": "links/3l/2g1r gloves.mp3",
         "tts_text": "2 jee 1 are gloves",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are gloves</prosody>"
@@ -1850,14 +1890,44 @@
         "ssml_text": "<prosody rate='fast'>2 jee 1 are melee</prosody>"
     },
     {
+        "path": "links/3l/2g1r one-hand axe.mp3",
+        "tts_text": "2 jee 1 are 1 h axe",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 are <say-as interpret-as='characters'>1h</say-as> axe</prosody>"
+    },
+    {
+        "path": "links/3l/2g1r one-hand mace.mp3",
+        "tts_text": "2 jee 1 are 1 h mace",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 are <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+    },
+    {
+        "path": "links/3l/2g1r one-hand sword.mp3",
+        "tts_text": "2 jee 1 are 1 h sword",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 are <say-as interpret-as='characters'>1h</say-as> sword</prosody>"
+    },
+    {
         "path": "links/3l/2g1r rare.mp3",
-        "tts_text": "rare 2 jee 1 are ",
-        "ssml_text": "<prosody rate='fast'>rare 2 jee 1 are </prosody>"
+        "tts_text": "rare 2 jee 1 are",
+        "ssml_text": "<prosody rate='fast'>rare 2 jee 1 are</prosody>"
     },
     {
         "path": "links/3l/2g1r shield.mp3",
         "tts_text": "2 jee 1 are shield",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are shield</prosody>"
+    },
+    {
+        "path": "links/3l/2g1r two-hand axe.mp3",
+        "tts_text": "2 jee 1 are 2 h axe",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 are <say-as interpret-as='characters'>2h</say-as> axe</prosody>"
+    },
+    {
+        "path": "links/3l/2g1r two-hand mace.mp3",
+        "tts_text": "2 jee 1 are 2 h mace",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 are <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
+    },
+    {
+        "path": "links/3l/2g1r two-hand sword.mp3",
+        "tts_text": "2 jee 1 are 2 h sword",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 are <say-as interpret-as='characters'>2h</say-as> sword</prosody>"
     },
     {
         "path": "links/3l/2r1b body.mp3",
@@ -1885,9 +1955,24 @@
         "ssml_text": "<prosody rate='fast'>2 are 1 bee melee</prosody>"
     },
     {
+        "path": "links/3l/2r1b one-hand axe.mp3",
+        "tts_text": "2 are 1 bee 1 h axe",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee <say-as interpret-as='characters'>1h</say-as> axe</prosody>"
+    },
+    {
+        "path": "links/3l/2r1b one-hand mace.mp3",
+        "tts_text": "2 are 1 bee 1 h mace",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+    },
+    {
+        "path": "links/3l/2r1b one-hand sword.mp3",
+        "tts_text": "2 are 1 bee 1 h sword",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee <say-as interpret-as='characters'>1h</say-as> sword</prosody>"
+    },
+    {
         "path": "links/3l/2r1b rare.mp3",
-        "tts_text": "rare 2 are 1 bee ",
-        "ssml_text": "<prosody rate='fast'>rare 2 are 1 bee </prosody>"
+        "tts_text": "rare 2 are 1 bee",
+        "ssml_text": "<prosody rate='fast'>rare 2 are 1 bee</prosody>"
     },
     {
         "path": "links/3l/2r1b sceptre.mp3",
@@ -1898,6 +1983,26 @@
         "path": "links/3l/2r1b shield.mp3",
         "tts_text": "2 are 1 bee shield",
         "ssml_text": "<prosody rate='fast'>2 are 1 bee shield</prosody>"
+    },
+    {
+        "path": "links/3l/2r1b two-hand axe.mp3",
+        "tts_text": "2 are 1 bee 2 h axe",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee <say-as interpret-as='characters'>2h</say-as> axe</prosody>"
+    },
+    {
+        "path": "links/3l/2r1b two-hand mace.mp3",
+        "tts_text": "2 are 1 bee 2 h mace",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
+    },
+    {
+        "path": "links/3l/2r1b two-hand sword.mp3",
+        "tts_text": "2 are 1 bee 2 h sword",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee <say-as interpret-as='characters'>2h</say-as> sword</prosody>"
+    },
+    {
+        "path": "links/3l/2r1b warstaff.mp3",
+        "tts_text": "2 are 1 bee warstaff",
+        "ssml_text": "<prosody rate='fast'>2 are 1 bee warstaff</prosody>"
     },
     {
         "path": "links/3l/2r1b wand.mp3",
@@ -1935,14 +2040,49 @@
         "ssml_text": "<prosody rate='fast'>2 are 1 jee melee</prosody>"
     },
     {
+        "path": "links/3l/2r1g one-hand axe.mp3",
+        "tts_text": "2 are 1 jee 1 h axe",
+        "ssml_text": "<prosody rate='fast'>2 are 1 jee <say-as interpret-as='characters'>1h</say-as> axe</prosody>"
+    },
+    {
+        "path": "links/3l/2r1g one-hand mace.mp3",
+        "tts_text": "2 are 1 jee are 1 h mace",
+        "ssml_text": "<prosody rate='fast'>2 are 1 jee <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+    },
+    {
+        "path": "links/3l/2r1g one-hand sword.mp3",
+        "tts_text": "2 are 1 jee 1 h sword",
+        "ssml_text": "<prosody rate='fast'>2 are 1 jee <say-as interpret-as='characters'>1h</say-as> sword</prosody>"
+    },
+    {
         "path": "links/3l/2r1g rare.mp3",
-        "tts_text": "rare 2 are 1 jee ",
-        "ssml_text": "<prosody rate='fast'>rare 2 are 1 jee </prosody>"
+        "tts_text": "rare 2 are 1 jee",
+        "ssml_text": "<prosody rate='fast'>rare 2 are 1 jee</prosody>"
     },
     {
         "path": "links/3l/2r1g shield.mp3",
         "tts_text": "2 are 1 jee shield",
         "ssml_text": "<prosody rate='fast'>2 are 1 jee shield</prosody>"
+    },
+    {
+        "path": "links/3l/2r1g two-hand axe.mp3",
+        "tts_text": "2 are 1 jee 2 h axe",
+        "ssml_text": "<prosody rate='fast'>2 are 1 jee <say-as interpret-as='characters'>2h</say-as> axe</prosody>"
+    },
+    {
+        "path": "links/3l/2r1g two-hand mace.mp3",
+        "tts_text": "2 are 1 jee 2 h mace",
+        "ssml_text": "<prosody rate='fast'>2 are 1 jee <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
+    },
+    {
+        "path": "links/3l/2r1g two-hand sword.mp3",
+        "tts_text": "2 are 1 jee 2 h sword",
+        "ssml_text": "<prosody rate='fast'>2 are 1 jee <say-as interpret-as='characters'>2h</say-as> sword</prosody>"
+    },
+    {
+        "path": "links/3l/2r1g warstaff.mp3",
+        "tts_text": "2 are 1 gee warstaff",
+        "ssml_text": "<prosody rate='fast'>2 are 1 gee warstaff</prosody>"
     },
     {
         "path": "links/3l/3b body.mp3",
@@ -1971,8 +2111,8 @@
     },
     {
         "path": "links/3l/3b rare.mp3",
-        "tts_text": "rare 3 bee ",
-        "ssml_text": "<prosody rate='fast'>rare 3 bee </prosody>"
+        "tts_text": "rare 3 bee",
+        "ssml_text": "<prosody rate='fast'>rare 3 bee</prosody>"
     },
     {
         "path": "links/3l/3b rune dagger.mp3",
@@ -2010,6 +2150,16 @@
         "ssml_text": "<prosody rate='fast'>3 jee bow</prosody>"
     },
     {
+        "path": "links/3l/3g claw.mp3",
+        "tts_text": "3 jee claw",
+        "ssml_text": "<prosody rate='fast'>3 jee claw</prosody>"
+    },
+    {
+        "path": "links/3l/3g dagger.mp3",
+        "tts_text": "3 jee dagger",
+        "ssml_text": "<prosody rate='fast'>3 gee dagger</prosody>"
+    },
+    {
         "path": "links/3l/3g gloves.mp3",
         "tts_text": "3 jee gloves",
         "ssml_text": "<prosody rate='fast'>3 jee gloves</prosody>"
@@ -2026,8 +2176,8 @@
     },
     {
         "path": "links/3l/3g rare.mp3",
-        "tts_text": "rare 3 jee ",
-        "ssml_text": "<prosody rate='fast'>rare 3 jee </prosody>"
+        "tts_text": "rare 3 jee",
+        "ssml_text": "<prosody rate='fast'>rare 3 jee</prosody>"
     },
     {
         "path": "links/3l/3g rune dagger.mp3",
@@ -2064,15 +2214,50 @@
         "tts_text": "3 are melee",
         "ssml_text": "<prosody rate='fast'>3 are melee</prosody>"
     },
+        {
+        "path": "links/3l/3r one-hand axe.mp3",
+        "tts_text": "3 are 1 h axe",
+        "ssml_text": "<prosody rate='fast'>3 are <say-as interpret-as='characters'>1h</say-as> axe</prosody>"
+    },
+    {
+        "path": "links/3l/3r one-hand mace.mp3",
+        "tts_text": "3 are are 1 h mace",
+        "ssml_text": "<prosody rate='fast'>3 are <say-as interpret-as='characters'>1h</say-as> mace</prosody>"
+    },
+    {
+        "path": "links/3l/3r one-hand sword.mp3",
+        "tts_text": "3 are 1 h sword",
+        "ssml_text": "<prosody rate='fast'>3 are <say-as interpret-as='characters'>1h</say-as> sword</prosody>"
+    },
     {
         "path": "links/3l/3r rare.mp3",
-        "tts_text": "rare 3 are ",
-        "ssml_text": "<prosody rate='fast'>rare 3 are </prosody>"
+        "tts_text": "rare 3 are",
+        "ssml_text": "<prosody rate='fast'>rare 3 are</prosody>"
     },
     {
         "path": "links/3l/3r shield.mp3",
         "tts_text": "3 are shield",
         "ssml_text": "<prosody rate='fast'>3 are shield</prosody>"
+    },
+    {
+        "path": "links/3l/3r two-hand axe.mp3",
+        "tts_text": "3 are 2 h axe",
+        "ssml_text": "<prosody rate='fast'>3 are <say-as interpret-as='characters'>2h</say-as> axe</prosody>"
+    },
+    {
+        "path": "links/3l/3r two-hand mace.mp3",
+        "tts_text": "3 are 2 h mace",
+        "ssml_text": "<prosody rate='fast'>3 are <say-as interpret-as='characters'>2h</say-as> mace</prosody>"
+    },
+    {
+        "path": "links/3l/3r two-hand sword.mp3",
+        "tts_text": "3 are 2 h sword",
+        "ssml_text": "<prosody rate='fast'>3 are <say-as interpret-as='characters'>2h</say-as> sword</prosody>"
+    },
+    {
+        "path": "links/3l/3r warstaff.mp3",
+        "tts_text": "3 are warstaff",
+        "ssml_text": "<prosody rate='fast'>3 are warstaff</prosody>"
     },
     {
         "path": "links/3l/3w.mp3",
@@ -2811,8 +2996,8 @@
     },
     {
         "path": "tiers/blight oil a tier.mp3",
-        "tts_text": "a tier blight oil",
-        "ssml_text": ""
+        "tts_text": "ei tier blight oil",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier blight oil</speak>"
     },
     {
         "path": "tiers/blight oil b tier.mp3",
@@ -2836,8 +3021,8 @@
     },
     {
         "path": "tiers/boss invitation a tier.mp3",
-        "tts_text": "a tier boss invitation",
-        "ssml_text": ""
+        "tts_text": "eigh tier boss invitation",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier boss invitation</speak>"
     },
     {
         "path": "tiers/boss invitation b tier.mp3",
@@ -2846,8 +3031,8 @@
     },
     {
         "path": "tiers/cluster jewel large a tier.mp3",
-        "tts_text": "a tier large cluster jewel",
-        "ssml_text": "<prosody rate='fast'>a tier large cluster jewel</prosody>"
+        "tts_text": "eigh tier large cluster jewel",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier large cluster jewel</prosody>"
     },
     {
         "path": "tiers/cluster jewel large s tier.mp3",
@@ -2856,8 +3041,8 @@
     },
     {
         "path": "tiers/cluster jewel medium a tier.mp3",
-        "tts_text": "a tier medium cluster jewel",
-        "ssml_text": "<prosody rate='fast'>a tier medium cluster jewel</prosody>"
+        "tts_text": "eigh tier medium cluster jewel",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier medium cluster jewel</prosody>"
     },
     {
         "path": "tiers/cluster jewel medium s tier.mp3",
@@ -2866,8 +3051,8 @@
     },
     {
         "path": "tiers/cluster jewel small a tier.mp3",
-        "tts_text": "a tier small cluster jewel",
-        "ssml_text": "<prosody rate='fast'>a tier small cluster jewel</prosody>"
+        "tts_text": "eigh tier small cluster jewel",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier small cluster jewel</prosody>"
     },
     {
         "path": "tiers/cluster jewel small s tier.mp3",
@@ -2881,8 +3066,8 @@
     },
     {
         "path": "tiers/corpse a tier.mp3",
-        "tts_text": "a tier corpse",
-        "ssml_text": ""
+        "tts_text": "eigh tier corpse",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier corpse</speak>"
     },
     {
         "path": "tiers/corpse b tier.mp3",
@@ -2906,8 +3091,8 @@
     },
     {
         "path": "tiers/currency a tier.mp3",
-        "tts_text": "a tier currency",
-        "ssml_text": ""
+        "tts_text": "eigh tier currency",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier currency</speak>"
     },
     {
         "path": "tiers/currency b tier.mp3",
@@ -2941,8 +3126,8 @@
     },
     {
         "path": "tiers/currency large stack a tier.mp3",
-        "tts_text": "a tier large stack currency",
-        "ssml_text": "<prosody rate='fast'>a tier large stack currency</prosody>"
+        "tts_text": "eigh tier large stack currency",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier large stack currency</prosody>"
     },
     {
         "path": "tiers/currency large stack b tier.mp3",
@@ -2976,8 +3161,8 @@
     },
     {
         "path": "tiers/currency small stack a tier.mp3",
-        "tts_text": "a tier small stack currency",
-        "ssml_text": "<prosody rate='fast'>a tier small stack currency</prosody>"
+        "tts_text": "eigh tier small stack currency",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier small stack currency</prosody>"
     },
     {
         "path": "tiers/currency small stack b tier.mp3",
@@ -3011,8 +3196,8 @@
     },
     {
         "path": "tiers/delirium orb a tier.mp3",
-        "tts_text": "a tier delirium orb",
-        "ssml_text": ""
+        "tts_text": "eigh tier delirium orb",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier delirium orb</speak>"
     },
     {
         "path": "tiers/delirium orb b tier.mp3",
@@ -3026,8 +3211,8 @@
     },
     {
         "path": "tiers/divination card a tier.mp3",
-        "tts_text": "a tier div card",
-        "ssml_text": ""
+        "tts_text": "eigh tier div card",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier div card</speak>"
     },
     {
         "path": "tiers/divination card b tier.mp3",
@@ -3066,8 +3251,8 @@
     },
     {
         "path": "tiers/essence a tier.mp3",
-        "tts_text": "a tier essence",
-        "ssml_text": ""
+        "tts_text": "eigh tier essence",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier essence</speak>"
     },
     {
         "path": "tiers/essence b tier.mp3",
@@ -3086,8 +3271,8 @@
     },
     {
         "path": "tiers/fossil a tier.mp3",
-        "tts_text": "a tier fossil",
-        "ssml_text": ""
+        "tts_text": "eigh tier fossil",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier fossil</speak>"
     },
     {
         "path": "tiers/fossil b tier.mp3",
@@ -3096,8 +3281,8 @@
     },
     {
         "path": "tiers/fractured a tier.mp3",
-        "tts_text": "a tier fractured",
-        "ssml_text": ""
+        "tts_text": "eigh tier fractured",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier fractured</speak>"
     },
     {
         "path": "tiers/fractured b tier.mp3",
@@ -3121,8 +3306,8 @@
     },
     {
         "path": "tiers/fragment a tier.mp3",
-        "tts_text": "a tier fragment",
-        "ssml_text": ""
+        "tts_text": "eigh tier fragment",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier fragment</speak>"
     },
     {
         "path": "tiers/fragment b tier.mp3",
@@ -3146,8 +3331,8 @@
     },
     {
         "path": "tiers/incubator a tier.mp3",
-        "tts_text": "a tier incubator",
-        "ssml_text": ""
+        "tts_text": "eigh tier incubator",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier incubator</speak>"
     },
     {
         "path": "tiers/incubator b tier.mp3",
@@ -3171,8 +3356,8 @@
     },
     {
         "path": "tiers/incursion vial a tier.mp3",
-        "tts_text": "a tier incursion vial",
-        "ssml_text": "<prosody rate='fast'>a tier incursion vial</prosody>"
+        "tts_text": "eigh tier incursion vial",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier incursion vial</prosody>"
     },
     {
         "path": "tiers/incursion vial b tier.mp3",
@@ -3186,8 +3371,8 @@
     },
     {
         "path": "tiers/influenced a tier.mp3",
-        "tts_text": "a tier influenced",
-        "ssml_text": ""
+        "tts_text": "eigh tier influenced",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier influenced</speak>"
     },
     {
         "path": "tiers/influenced b tier.mp3",
@@ -3206,13 +3391,13 @@
     },
     {
         "path": "tiers/memory strands a tier high.mp3",
-        "tts_text": "a tier memory strands high",
-        "ssml_text": "<prosody rate='fast'>a tier memory strands high</prosody>"
+        "tts_text": "eigh tier memory strands high",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier memory strands high</prosody>"
     },
     {
         "path": "tiers/memory strands a tier.mp3",
-        "tts_text": "a tier memory strands",
-        "ssml_text": "<prosody rate='fast'>a tier memory strands</prosody>"
+        "tts_text": "eigh tier memory strands",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier memory strands</prosody>"
     },
     {
         "path": "tiers/memory strands b tier high.mp3",
@@ -3251,8 +3436,8 @@
     },
     {
         "path": "tiers/omen a tier.mp3",
-        "tts_text": "a tier omen",
-        "ssml_text": ""
+        "tts_text": "eigh tier omen",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier omen</speak>"
     },
     {
         "path": "tiers/omen b tier.mp3",
@@ -3281,13 +3466,13 @@
     },
     {
         "path": "tiers/overquality weapon a tier highest.mp3",
-        "tts_text": "a tier overquality weapon highest",
-        "ssml_text": "<prosody rate='fast'>a tier overquality weapon highest</prosody>"
+        "tts_text": "eigh tier overquality weapon highest",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier overquality weapon highest</prosody>"
     },
     {
         "path": "tiers/overquality weapon a tier mid.mp3",
-        "tts_text": "a tier overquality weapon mid",
-        "ssml_text": "<prosody rate='fast'>a tier overquality weapon mid</prosody>"
+        "tts_text": "eigh tier overquality weapon mid",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier overquality weapon mid</prosody>"
     },
     {
         "path": "tiers/overquality weapon b tier highest.mp3",
@@ -3306,8 +3491,8 @@
     },
     {
         "path": "tiers/replica unique a tier.mp3",
-        "tts_text": "a tier replica unique",
-        "ssml_text": ""
+        "tts_text": "eigh tier replica unique",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier replica unique</speak>"
     },
     {
         "path": "tiers/resonator s tier.mp3",
@@ -3316,8 +3501,8 @@
     },
     {
         "path": "tiers/resonator a tier.mp3",
-        "tts_text": "a tier resonator",
-        "ssml_text": ""
+        "tts_text": "eigh tier resonator",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier resonator</speak>"
     },
     {
         "path": "tiers/resonator b tier.mp3",
@@ -3331,8 +3516,8 @@
     },
     {
         "path": "tiers/runegraft a tier.mp3",
-        "tts_text": "a tier runegraft",
-        "ssml_text": ""
+        "tts_text": "eigh tier runegraft",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier runegraft</speak>"
     },
     {
         "path": "tiers/runegraft b tier.mp3",
@@ -3351,8 +3536,8 @@
     },
     {
         "path": "tiers/scarab a tier.mp3",
-        "tts_text": "a tier scarab",
-        "ssml_text": ""
+        "tts_text": "eigh tier scarab",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier scarab</speak>"
     },
     {
         "path": "tiers/scarab b tier.mp3",
@@ -3371,7 +3556,7 @@
     },
     {
         "path": "tiers/scarab e tier.mp3",
-        "tts_text": "d tier scarab",
+        "tts_text": "e tier scarab",
         "ssml_text": ""
     },
     {
@@ -3456,8 +3641,8 @@
     },
     {
         "path": "tiers/synthesised a tier.mp3",
-        "tts_text": "a tier synthesised",
-        "ssml_text": ""
+        "tts_text": "eigh tier synthesised",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier synthesised</speak>"
     },
     {
         "path": "tiers/talisman s tier.mp3",
@@ -3466,8 +3651,8 @@
     },
     {
         "path": "tiers/talisman a tier.mp3",
-        "tts_text": "a tier talisman",
-        "ssml_text": ""
+        "tts_text": "eigh tier talisman",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier talisman</speak>"
     },
     {
         "path": "tiers/talisman b tier.mp3",
@@ -3486,8 +3671,8 @@
     },
     {
         "path": "tiers/tattoo a tier.mp3",
-        "tts_text": "a tier tattoo",
-        "ssml_text": ""
+        "tts_text": "eigh tier tattoo",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier tattoo</speak>"
     },
     {
         "path": "tiers/tattoo b tier.mp3",
@@ -3506,8 +3691,8 @@
     },
     {
         "path": "tiers/unique a tier.mp3",
-        "tts_text": "a tier unique",
-        "ssml_text": ""
+        "tts_text": "eigh tier unique",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier unique</speak>"
     },
     {
         "path": "tiers/unique b tier.mp3",
@@ -3561,8 +3746,8 @@
     },
     {
         "path": "tiers/unique map a tier.mp3",
-        "tts_text": "a tier unique map",
-        "ssml_text": ""
+        "tts_text": "eigh tier unique map",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier unique map</speak>"
     },
     {
         "path": "tiers/unique map b tier.mp3",
@@ -3576,8 +3761,8 @@
     },
     {
         "path": "tiers/veiled a tier.mp3",
-        "tts_text": "a tier veiled",
-        "ssml_text": ""
+        "tts_text": "eigh tier veiled",
+        "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier veiled</speak>"
     },
     {
         "path": "tiers/veiled b tier.mp3",
