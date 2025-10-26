@@ -1660,14 +1660,289 @@
         "ssml_text": ""
     },
     {        
+        "path": "ided/weapons/weapon attack physical.mp3",
+        "tts_text": "physical weapon mods",
+        "ssml_text": "<prosody rate='fast'>physical weapon mods</prosody>"
+    },
+    {        
+        "path": "ided/weapons/weapon attack elemental.mp3",
+        "tts_text": "elemental weapon mods",
+        "ssml_text": "<prosody rate='fast'>physical weapon mods</prosody>"
+    },
+    {        
+        "path": "ided/weapons/weapon caster cold.mp3",
+        "tts_text": "cold spell weapon mods",
+        "ssml_text": "<prosody rate='fast'>cold spell weapon mods</prosody>"
+    },
+    {        
+        "path": "ided/weapons/weapon caster fire.mp3",
+        "tts_text": "fire spell weapon mods",
+        "ssml_text": "<prosody rate='fast'>fire spell weapon mods</prosody>"
+    },
+    {        
+        "path": "ided/weapons/weapon caster lightning.mp3",
+        "tts_text": "lightning spell weapon mods",
+        "ssml_text": "<prosody rate='fast'>lightning spell weapon mods</prosody>"
+    },
+    {        
+        "path": "ided/weapons/weapon caster chaos.mp3",
+        "tts_text": "chaos spell weapon mods",
+        "ssml_text": "<prosody rate='fast'>chaos spell weapon mods</prosody>"
+    },
+    {        
+        "path": "ided/weapons/weapon caster minion.mp3",
+        "tts_text": "minion weapon mods",
+        "ssml_text": "<prosody rate='fast'>minion weapon mods</prosody>"
+    },
+    {        
+        "path": "ided/weapons/weapon caster physical.mp3",
+        "tts_text": "physical spell weapon mods",
+        "ssml_text": "<prosody rate='fast'>physical spell weapon mods</prosody>"
+    },
+    {        
+        "path": "ided/weapons/quiver hit.mp3",
+        "tts_text": "quiver damage mods",
+        "ssml_text": "<prosody rate='fast'>quiver damage mods</prosody>"
+    },
+    {        
+        "path": "ided/weapons/quiver dot.mp3",
+        "tts_text": "quiver damage over time mods",
+        "ssml_text": "<prosody rate='fast'>quiver damage over time mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/life body.mp3",
+        "tts_text": "body life mods",
+        "ssml_text": "<prosody rate='fast'>body life mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/life boots.mp3",
+        "tts_text": "boots life mods",
+        "ssml_text": "<prosody rate='fast'>boots life mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/life helmet.mp3",
+        "tts_text": "helmet life mods",
+        "ssml_text": "<prosody rate='fast'>helmet life mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/life gloves.mp3",
+        "tts_text": "gloves life mods",
+        "ssml_text": "<prosody rate='fast'>gloves life mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/life shield.mp3",
+        "tts_text": "shield life mods",
+        "ssml_text": "<prosody rate='fast'>shield life mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/es body.mp3",
+        "tts_text": "body e ess mods",
+        "ssml_text": "<prosody rate='fast'>body e ess mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/es boots.mp3",
+        "tts_text": "boots e ess mods",
+        "ssml_text": "<prosody rate='fast'>boots e ess mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/es helmet.mp3",
+        "tts_text": "helmet e ess mods",
+        "ssml_text": "<prosody rate='fast'>helmet e ess mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/es gloves.mp3",
+        "tts_text": "gloves e ess mods",
+        "ssml_text": "<prosody rate='fast'>gloves e ess mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/es shield.mp3",
+        "tts_text": "shield e ess mods",
+        "ssml_text": "<prosody rate='fast'>shield e ess mods</prosody>"
+    },
+    {        
+        "path": "ided/armour/spell shield.mp3",
+        "tts_text": "shield spell mods",
+        "ssml_text": "<prosody rate='fast'>shield spell mods</prosody>"
+    },
+    {        
+        "path": "ided/jewellery/belt high tier.mp3",
+        "tts_text": "belt high tier mods",
+        "ssml_text": "<prosody rate='fast'>belt high tier mods</prosody>"
+    },
+    {        
+        "path": "ided/jewellery/ring attack.mp3",
+        "tts_text": "ring attack mods",
+        "ssml_text": "<prosody rate='fast'>ring attack mods</prosody>"
+    },
+    {        
+        "path": "ided/jewellery/ring caster.mp3",
+        "tts_text": "ring caster mods",
+        "ssml_text": "<prosody rate='fast'>ring caster mods</prosody>"
+    },
+    {        
+        "path": "ided/jewellery/ring minion.mp3",
+        "tts_text": "ring minion mods",
+        "ssml_text": "<prosody rate='fast'>ring minion mods</prosody>"
+    },
+    {        
+        "path": "ided/jewellery/amulet attack.mp3",
+        "tts_text": "amulet attack mods",
+        "ssml_text": "<prosody rate='fast'>amulet attack mods</prosody>"
+    },
+    {        
+        "path": "ided/jewellery/amulet caster.mp3",
+        "tts_text": "amulet caster mods",
+        "ssml_text": "<prosody rate='fast'>amulet caster mods</prosody>"
+    },
+    {        
+        "path": "ided/jewellery/amulet dot.mp3",
+        "tts_text": "amulet damage over time mods",
+        "ssml_text": "<prosody rate='fast'>amulet damage over time mods</prosody>"
+    },
+    {        
+        "path": "ided/jewels/minion.mp3",
+        "tts_text": "jewel minion mods",
+        "ssml_text": "<prosody rate='fast'>jewel minion mods</prosody>"
+    },
+    {        
+        "path": "ided/jewels/dot.mp3",
+        "tts_text": "jewel damage over time mods",
+        "ssml_text": "<prosody rate='fast'>jewel damage over time mods</prosody>"
+    },
+    {        
+        "path": "ided/jewels/crit attack.mp3",
+        "tts_text": "jewel attack crit mods",
+        "ssml_text": "<prosody rate='fast'>jewel attack crit mods</prosody>"
+    },
+    {        
+        "path": "ided/jewels/crit spell.mp3",
+        "tts_text": "jewel spell crit mods",
+        "ssml_text": "<prosody rate='fast'>jewel spell crit mods</prosody>"
+    },
+    {        
+        "path": "ided/jewels/abyss minion.mp3",
+        "tts_text": "abyss jewel minion mods",
+        "ssml_text": "<prosody rate='fast'>abyss jewel minion mods</prosody>"
+    },
+    {        
+        "path": "ided/jewels/abyss high tier.mp3",
+        "tts_text": "abyss jewel high tier mods",
+        "ssml_text": "<prosody rate='fast'>abyss jewel high tier mods</prosody>"
+    },
+    {        
+        "path": "ided/jewels/abyss attack.mp3",
+        "tts_text": "abyss jewel attack mods",
+        "ssml_text": "<prosody rate='fast'>abyss jewel attack mods</prosody>"
+    },
+    {        
+        "path": "ided/jewels/abyss spell.mp3",
+        "tts_text": "abyss jewel spell mods",
+        "ssml_text": "<prosody rate='fast'>abyss jewel spell mods</prosody>"
+    },
+    {
+        "path": "ided/additional arrow.mp3",
+        "tts_text": "additional arrow mod",
+        "ssml_text": "<prosody rate='fast'>additional arrow mod</prosody>"
+    },
+    {        
+        "path": "ided/dot multi chaos.mp3",
+        "tts_text": "chaos dot multi mod",
+        "ssml_text": "<prosody rate='fast'>chaos dot multi mod</prosody>"
+    },
+    {        
+        "path": "ided/dot multi cold.mp3",
+        "tts_text": "cold dot multi mod",
+        "ssml_text": "<prosody rate='fast'>cold dot multi mod</prosody>"
+    },
+    {        
+        "path": "ided/dot multi fire.mp3",
+        "tts_text": "fire dot multi mod",
+        "ssml_text": "<prosody rate='fast'>fire dot multi mod</prosody>"
+    },
+    {        
+        "path": "ided/dot multi lightning.mp3",
+        "tts_text": "lightning dot multi mod",
+        "ssml_text": "<prosody rate='fast'>lightning dot multi mod</prosody>"
+    },
+    {        
+        "path": "ided/dot multi physical.mp3",
+        "tts_text": "physical dot multi mod",
+        "ssml_text": "<prosody rate='fast'>physical dot multi mod</prosody>"
+    },
+    {        
+        "path": "ided/flask bleed.mp3",
+        "tts_text": "bleed mod flask",
+        "ssml_text": "<prosody rate='fast'>bleed mod flask</prosody>"
+    },
+    {        
+        "path": "ided/gem level all.mp3",
+        "tts_text": "all skill gem level mod",
+        "ssml_text": "<prosody rate='fast'>all skill gem level mod</prosody>"
+    },
+    {        
+        "path": "ided/gem level bow.mp3",
+        "tts_text": "bow gem level mod",
+        "ssml_text": "<prosody rate='fast'>bow gem level mod</prosody>"
+    },
+    {        
+        "path": "ided/gem level chaos.mp3",
+        "tts_text": "chaos gem level mod",
+        "ssml_text": "<prosody rate='fast'>chaos gem level mod</prosody>"
+    },
+    {        
+        "path": "ided/gem level cold.mp3",
+        "tts_text": "cold gem level mod",
+        "ssml_text": "<prosody rate='fast'>cold gem level mod</prosody>"
+    },
+    {        
+        "path": "ided/gem level fire.mp3",
+        "tts_text": "fire gem level mod",
+        "ssml_text": "<prosody rate='fast'>fire gem level mod</prosody>"
+    },
+    {        
+        "path": "ided/gem level lightning.mp3",
+        "tts_text": "lightning gem level mod",
+        "ssml_text": "<prosody rate='fast'>lightning gem level mod</prosody>"
+    },
+    {        
+        "path": "ided/gem level minion.mp3",
+        "tts_text": "minion gem level mod",
+        "ssml_text": "<prosody rate='fast'>minion gem level mod</prosody>"
+    },
+    {        
+        "path": "ided/gem level physical.mp3",
+        "tts_text": "physical gem level mod",
+        "ssml_text": "<prosody rate='fast'>physical gem level mod</prosody>"
+    },
+    {        
         "path": "ided/jewel life es.mp3",
-        "tts_text": "ided life es jewel",
-        "ssml_text": "<prosody rate='fast'>ided life es jewel</prosody>"
+        "tts_text": "life ee ess mod jewel",
+        "ssml_text": "<prosody rate='fast'>life ee ess mod jewel</prosody>"
     },
     {        
         "path": "ided/boots movespeed.mp3",
         "tts_text": "movespeed boots",
         "ssml_text": "<prosody rate='fast'>movespeed boots</prosody>"
+    },
+    {        
+        "path": "ided/resistance life.mp3",
+        "tts_text": "life resistance mod",
+        "ssml_text": "<prosody rate='fast'>life resistance mod</prosody>"
+    },
+    {        
+        "path": "ided/resistance two.mp3",
+        "tts_text": "two resistance mod",
+        "ssml_text": "<prosody rate='fast'>two resistance mod</prosody>"
+    },
+    {        
+        "path": "ided/resistance three.mp3",
+        "tts_text": "three resistance mod",
+        "ssml_text": "<prosody rate='fast'>three resistance mod</prosody>"
+    },
+    {        
+        "path": "ided/weapon physical.mp3",
+        "tts_text": "physical mod",
+        "ssml_text": "<prosody rate='fast'>physical mod</prosody>"
     },
     {
         "path": "links/3l/2b1g body.mp3",
