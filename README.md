@@ -23,6 +23,7 @@ Text-To-Speech sound file packs for Path of Exile 1 item filters
 
 ## Installation guide:
 - Choose and download a voice .zip in [github Releases](https://github.com/cdrg/poe1filtertts/releases/latest), such as "AWSPolly-Brian.zip"
+  - Alternatively, download the development version from the [green github Code button](https://github.com/cdrg/poe1filtertts/archive/refs/heads/main.zip)
 - Extract the "sounds" folder in the .zip to your Path of Exile 1 filter folder
   - Leave the "sounds" folder intact.
   - There's a button in Options > Game to open the filter folder.
