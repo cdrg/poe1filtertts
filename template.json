@@ -2240,6 +2240,11 @@
         "ssml_text": "<prosody rate='fast'>rare 2 jee 1 are</prosody>"
     },
     {
+        "path": "links/3l/2g1r sceptre.mp3",
+        "tts_text": "2 jee 1 are sceptre",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 are sceptre</prosody>"
+    },
+    {
         "path": "links/3l/2g1r shield.mp3",
         "tts_text": "2 jee 1 are shield",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are shield</prosody>"
@@ -2258,6 +2263,11 @@
         "path": "links/3l/2g1r two-hand sword.mp3",
         "tts_text": "2 jee 1 are 2 h sword",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are <say-as interpret-as='characters'>2h</say-as> sword</prosody>"
+    },
+    {
+        "path": "links/3l/2g1r wand.mp3",
+        "tts_text": "2 jee 1 are wand",
+        "ssml_text": "<prosody rate='fast'>2 jee 1 are wand</prosody>"
     },
     {
         "path": "links/3l/2r1b body.mp3",
@@ -2595,9 +2605,39 @@
         "ssml_text": "<prosody rate='fast'>3 white</prosody>"
     },
     {
+        "path": "links/3l/bgr body.mp3",
+        "tts_text": "bee jee are body",
+        "ssml_text": "<prosody rate='fast'>bee jee are body</prosody>"
+    },
+    {
+        "path": "links/3l/bgr boots.mp3",
+        "tts_text": "bee jee are boots",
+        "ssml_text": "<prosody rate='fast'>bee jee are boots</prosody>"
+    },
+    {
+        "path": "links/3l/bgr gloves.mp3",
+        "tts_text": "bee jee are gloves",
+        "ssml_text": "<prosody rate='fast'>bee jee are gloves</prosody>"
+    },
+    {
+        "path": "links/3l/bgr helm.mp3",
+        "tts_text": "bee jee are helm",
+        "ssml_text": "<prosody rate='fast'>bee jee are helm</prosody>"
+    },
+    {
         "path": "links/3l/bgr rare.mp3",
         "tts_text": "rare bee jee are",
         "ssml_text": ""
+    },
+    {
+        "path": "links/3l/bgr shield.mp3",
+        "tts_text": "bee jee are shield",
+        "ssml_text": "<prosody rate='fast'>bee jee are shield</prosody>"
+    },
+    {
+        "path": "links/3l/bgr wand.mp3",
+        "tts_text": "bee jee are wand",
+        "ssml_text": "<prosody rate='fast'>bee jee are wand</prosody>"
     },
     {
         "path": "links/3l/bgr.mp3",
