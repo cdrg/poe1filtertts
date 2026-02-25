@@ -85,6 +85,11 @@
         "ssml_text": "<prosody rate='fast'>sacrificial garb</prosody>"
     },
     {
+        "path": "basetypes/expedition logbooks/expedition logbook.mp3",
+        "tts_text": "logbook",
+        "ssml_text": ""
+    },
+    {
         "path": "basetypes/flasks/colossal life flask.mp3",
         "tts_text": "colossal life flask",
         "ssml_text": "<prosody rate='fast'>colossal life flask</prosody>"
@@ -845,6 +850,56 @@
         "ssml_text": "<prosody rate='fast'>incubator high level</prosody>"
     },
     {
+        "path": "classes/idols/idol 1x magic.mp3",
+        "tts_text": "magic 1x idol",
+        "ssml_text": "<prosody rate='fast'>magic 1x idol</prosody>"
+    },
+    {
+        "path": "classes/idols/idol 1x rare.mp3",
+        "tts_text": "rare 1x idol",
+        "ssml_text": "<prosody rate='fast'>rare 1x idol</prosody>"
+    },
+    {
+        "path": "classes/idols/idol 1x unique.mp3",
+        "tts_text": "unique 1x idol",
+        "ssml_text": "<prosody rate='fast'>unique 1x idol</prosody>"
+    },
+    {
+        "path": "classes/idols/idol 2x magic.mp3",
+        "tts_text": "magic 2x idol",
+        "ssml_text": "<prosody rate='fast'>magic 2x idol</prosody>"
+    },
+    {
+        "path": "classes/idols/idol 2x rare.mp3",
+        "tts_text": "rare 2x idol",
+        "ssml_text": "<prosody rate='fast'>rare 2x idol</prosody>"
+    },
+    {
+        "path": "classes/idols/idol 3x magic.mp3",
+        "tts_text": "magic 3x idol",
+        "ssml_text": "<prosody rate='fast'>magic 3x idol</prosody>"
+    },
+    {
+        "path": "classes/idols/idol 3x rare.mp3",
+        "tts_text": "rare 3x idol",
+        "ssml_text": "<prosody rate='fast'>rare 3x idol</prosody>"
+    },
+    {
+        "path": "classes/idols/idol 4x magic.mp3",
+        "tts_text": "magic 4x idol",
+        "ssml_text": "<prosody rate='fast'>magic 4x idol</prosody>"
+    },
+    {
+        "path": "classes/idols/idol 4x rare.mp3",
+        "tts_text": "rare 4x idol",
+        "ssml_text": "<prosody rate='fast'>rare 4x idol</prosody>"
+    },
+    {
+        "path": "classes/idols/idol normal.mp3",
+        "tts_text": "normal idol",
+        "ssml_text": "<prosody rate='fast'>normal idol</prosody>"
+    },
+    {
         "path": "classes/jewel magic corrupted mod.mp3",
         "tts_text": "magic corrupted mod jewel",
         "ssml_text": "<prosody rate='fast'>magic corrupted mod jewel</prosody>"
@@ -1273,6 +1328,11 @@
         "path": "classes/unique double corrupted.mp3",
         "tts_text": "double corrupted unique",
         "ssml_text": "<prosody rate='fast'>double corrupted unique</prosody>"
+    },
+    {
+        "path": "classes/unique foulborn.mp3",
+        "tts_text": "foulborn unique",
+        "ssml_text": "<prosody rate='fast'>foulborn unique</prosody>"
     },
     {
         "path": "classes/unique jewel corrupted.mp3",
@@ -1795,14 +1855,14 @@
         "ssml_text": "<prosody rate='fast'>fire dot multi mod</prosody>"
     },
     {
-        "path": "ided/dot multi lightning.mp3",
-        "tts_text": "lightning dot multi mod",
-        "ssml_text": "<prosody rate='fast'>lightning dot multi mod</prosody>"
-    },
-    {
         "path": "ided/dot multi physical.mp3",
         "tts_text": "physical dot multi mod",
         "ssml_text": "<prosody rate='fast'>physical dot multi mod</prosody>"
+    },
+    {
+        "path": "ided/dot multi.mp3",
+        "tts_text": "dot multi mod",
+        "ssml_text": "<prosody rate='fast'>dot multi mod</prosody>"
     },
     {
         "path": "ided/flask bleed.mp3",
@@ -4195,6 +4255,27 @@
         "path": "tiers/veiled special mod s tier.mp3",
         "tts_text": "s tier special mod veiled",
         "ssml_text": "<prosody rate='fast'>s tier special mod veiled</prosody>"
+    },
+    {
+        "path": "tiers/wombgift s tier.mp3",
+        "tts_text": "s tier wombgift",
+        "ssml_text": "",
+        "mixin": "6"
+    },
+    {
+        "path": "tiers/wombgift a tier.mp3",
+        "tts_text": "a tier wombgift",
+        "ssml_text": "<prosody rate='fast'>a tier wombgift</prosody>"
+    },
+    {
+        "path": "tiers/wombgift b tier.mp3",
+        "tts_text": "b tier wombgift",
+        "ssml_text": "<prosody rate='fast'>b tier wombgift</prosody>"
+    },
+    {
+        "path": "tiers/wombgift c tier.mp3",
+        "tts_text": "c tier wombgift",
+        "ssml_text": "<prosody rate='fast'>c tier wombgift</prosody>"
     },
     {
         "path": "uniques/impresence double curse.mp3",
