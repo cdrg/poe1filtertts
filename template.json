@@ -456,6 +456,11 @@
         "ssml_text": "<prosody rate='fast'>abyss jewel</prosody>"
     },
     {
+        "path": "classes/amulet anointed.mp3",
+        "tts_text": "anointed amulet",
+        "ssml_text": "<prosody rate='fast'>anointed amulet</prosody>"
+    },
+    {
         "path": "classes/amulet rare.mp3",
         "tts_text": "rare amulet",
         "ssml_text": "<prosody rate='fast'>rare amulet</prosody>"
@@ -845,6 +850,11 @@
         "ssml_text": "<prosody rate='fast'>rare helm</prosody>"
     },
     {
+        "path": "classes/incubator campaign.mp3",
+        "tts_text": "campaign incubator",
+        "ssml_text": "<prosody rate='fast'>campaign incubator</prosody>"
+    },
+    {
         "path": "classes/incubator high level.mp3",
         "tts_text": "incubator high level",
         "ssml_text": "<prosody rate='fast'>incubator high level</prosody>"
@@ -1215,6 +1225,11 @@
         "ssml_text": ""
     },
     {
+        "path": "classes/ring anointed.mp3",
+        "tts_text": "anointed ring",
+        "ssml_text": "<prosody rate='fast'>anointed ring</prosody>"
+    },
+    {
         "path": "classes/ring rare.mp3",
         "tts_text": "rare ring",
         "ssml_text": "<prosody rate='fast'>rare ring</prosody>"
@@ -1343,6 +1358,11 @@
         "path": "classes/unique jewel.mp3",
         "tts_text": "unique jewel",
         "ssml_text": ""
+    },
+    {
+        "path": "classes/unique overquality.mp3",
+        "tts_text": "overquality unique",
+        "ssml_text": "<prosody rate='fast'>overquality unique</prosody>"
     },
     {
         "path": "classes/unique replica.mp3",
@@ -3424,6 +3444,11 @@
         "ssml_text": "<prosody rate='fast'>6 white socket</prosody>"
     },
     {
+        "path": "sockets/abyss socket.mp3",
+        "tts_text": "abyss socket",
+        "ssml_text": "<prosody rate='fast'>abyss socket</prosody>"
+    },
+    {
         "path": "sockets/white socket.mp3",
         "tts_text": "white socket",
         "ssml_text": "<prosody rate='fast'>white socket</prosody>"
@@ -3691,6 +3716,12 @@
         "ssml_text": "<prosody rate='fast'>e tier div card</prosody>"
     },
     {
+        "path": "tiers/divination card high tier stack.mp3",
+        "tts_text": "high tier div card stack",
+        "ssml_text": "<prosody rate='fast'>high tier div card stack</prosody>",
+        "mixin": "6"
+    },
+    {
         "path": "tiers/divination card s tier.mp3",
         "tts_text": "s tier div card",
         "ssml_text": "<prosody rate='fast'>s tier div card</prosody>",
@@ -3725,6 +3756,16 @@
         "path": "tiers/fossil b tier.mp3",
         "tts_text": "b tier fossil",
         "ssml_text": "<prosody rate='fast'>b tier fossil</prosody>"
+    },
+    {
+        "path": "tiers/fossil c tier.mp3",
+        "tts_text": "c tier fossil",
+        "ssml_text": "<prosody rate='fast'>c tier fossil</prosody>"
+    },
+    {
+        "path": "tiers/fossil d tier.mp3",
+        "tts_text": "d tier fossil",
+        "ssml_text": "<prosody rate='fast'>d tier fossil</prosody>"
     },
     {
         "path": "tiers/fossil s tier.mp3",
@@ -3833,6 +3874,37 @@
         "path": "tiers/influenced s tier.mp3",
         "tts_text": "s tier influenced",
         "ssml_text": "<prosody rate='fast'>s tier influenced</prosody>"
+    },
+    {
+        "path": "tiers/lifeforce stack a tier.mp3",
+        "tts_text": "eigh tier lifeforce",
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier lifeforce</prosody></speak>"
+    },
+    {
+        "path": "tiers/lifeforce stack b tier.mp3",
+        "tts_text": "b tier lifeforce",
+        "ssml_text": "<prosody rate='fast'>b tier lifeforce</prosody>"
+    },
+    {
+        "path": "tiers/lifeforce stack c tier.mp3",
+        "tts_text": "c tier lifeforce",
+        "ssml_text": "<prosody rate='fast'>c tier lifeforce</prosody>"
+    },
+    {
+        "path": "tiers/lifeforce stack d tier.mp3",
+        "tts_text": "d tier lifeforce",
+        "ssml_text": "<prosody rate='fast'>d tier lifeforce</prosody>"
+    },
+    {
+        "path": "tiers/lifeforce stack e tier.mp3",
+        "tts_text": "e tier lifeforce",
+        "ssml_text": "<prosody rate='fast'>e tier lifeforce</prosody>"
+    },
+    {
+        "path": "tiers/lifeforce stack s tier.mp3",
+        "tts_text": "s tier lifeforce",
+        "ssml_text": "<prosody rate='fast'>s tier lifeforce</prosody>",
+        "mixin": "6"
     },
     {
         "path": "tiers/memory strands a tier high.mp3",
@@ -3952,6 +4024,11 @@
         "ssml_text": "<speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier replica unique</speak>"
     },
     {
+        "path": "tiers/replica unique multibase.mp3",
+        "tts_text": "multibase replica unique",
+        "ssml_text": "<prosody rate='fast'>multibase replica unique</prosody>"
+    },
+    {
         "path": "tiers/replica unique s tier.mp3",
         "tts_text": "s tier replica unique",
         "ssml_text": "",
@@ -3986,6 +4063,11 @@
         "path": "tiers/runegraft c tier.mp3",
         "tts_text": "c tier runegraft",
         "ssml_text": "<prosody rate='fast'>c tier runegraft</prosody>"
+    },
+    {
+        "path": "tiers/runegraft d tier.mp3",
+        "tts_text": "d tier runegraft",
+        "ssml_text": "<prosody rate='fast'>d tier runegraft</prosody>"
     },
     {
         "path": "tiers/runegraft s tier.mp3",
