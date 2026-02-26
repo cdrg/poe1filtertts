@@ -1472,7 +1472,8 @@
     {
         "path": "currency/divine orb.mp3",
         "tts_text": "divine",
-        "ssml_text": ""
+        "ssml_text": "",
+        "mixin": "6"
     },
     {
         "path": "currency/enkindling orb.mp3",
@@ -1587,7 +1588,8 @@
     {
         "path": "currency/hinekoras lock.mp3",
         "tts_text": "hinekoras lock",
-        "ssml_text": "<prosody rate='fast'>hinekoras lock</prosody>"
+        "ssml_text": "<prosody rate='fast'>hinekoras lock</prosody>",
+        "mixin": "6"
     },
     {
         "path": "currency/imprint.mp3",
@@ -1622,7 +1624,13 @@
     {
         "path": "currency/mirror of kalandra.mp3",
         "tts_text": "mirror of kalandra",
-        "ssml_text": "<prosody rate='fast'>mirror of kalandra</prosody>"
+        "ssml_text": "",
+        "mixin": "6"
+    },
+    {
+        "path": "currency/orb of alchemy stack.mp3",
+        "tts_text": "alchemy stack",
+        "ssml_text": "<prosody rate='fast'>alchemy stack</prosody>"
     },
     {
         "path": "currency/orb of alchemy.mp3",
@@ -3428,7 +3436,7 @@
     {
         "path": "tiers/blight oil a tier.mp3",
         "tts_text": "ei tier blight oil",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier blight oil</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier blight oil</prosody></speak>"
     },
     {
         "path": "tiers/blight oil b tier.mp3",
@@ -3500,7 +3508,7 @@
     {
         "path": "tiers/corpse a tier.mp3",
         "tts_text": "eigh tier corpse",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier corpse</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier corpse</prosody></speak>"
     },
     {
         "path": "tiers/corpse b tier.mp3",
@@ -3526,7 +3534,7 @@
     {
         "path": "tiers/currency a tier.mp3",
         "tts_text": "eigh tier currency",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier currency</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier currency</prosody></speak>"
     },
     {
         "path": "tiers/currency b tier.mp3",
@@ -3634,7 +3642,7 @@
     {
         "path": "tiers/delirium orb a tier.mp3",
         "tts_text": "eigh tier delirium orb",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier delirium orb</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier delirium orb</prosody></speak>"
     },
     {
         "path": "tiers/delirium orb b tier.mp3",
@@ -3650,7 +3658,7 @@
     {
         "path": "tiers/divination card a tier.mp3",
         "tts_text": "eigh tier div card",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier div card</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier div card</prosody></speak>"
     },
     {
         "path": "tiers/divination card b tier.mp3",
@@ -3691,7 +3699,7 @@
     {
         "path": "tiers/essence a tier.mp3",
         "tts_text": "eigh tier essence",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier essence</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier essence</prosody></speak>"
     },
     {
         "path": "tiers/essence b tier.mp3",
@@ -3711,7 +3719,7 @@
     {
         "path": "tiers/fossil a tier.mp3",
         "tts_text": "eigh tier fossil",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier fossil</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier fossil</prosody></speak>"
     },
     {
         "path": "tiers/fossil b tier.mp3",
@@ -3727,7 +3735,7 @@
     {
         "path": "tiers/fractured a tier.mp3",
         "tts_text": "eigh tier fractured",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier fractured</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier fractured</prosody></speak>"
     },
     {
         "path": "tiers/fractured b tier.mp3",
@@ -3747,7 +3755,7 @@
     {
         "path": "tiers/fragment a tier.mp3",
         "tts_text": "eigh tier fragment",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier fragment</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier fragment</prosody></speak>"
     },
     {
         "path": "tiers/fragment b tier.mp3",
@@ -3773,7 +3781,7 @@
     {
         "path": "tiers/incubator a tier.mp3",
         "tts_text": "eigh tier incubator",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier incubator</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier incubator</prosody></speak>"
     },
     {
         "path": "tiers/incubator b tier.mp3",
@@ -3798,7 +3806,7 @@
     {
         "path": "tiers/incursion vial a tier.mp3",
         "tts_text": "eigh tier incursion vial",
-        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier incursion vial</prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier incursion vial</prosody></speak>"
     },
     {
         "path": "tiers/incursion vial b tier.mp3",
@@ -3814,7 +3822,7 @@
     {
         "path": "tiers/influenced a tier.mp3",
         "tts_text": "eigh tier influenced",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier influenced</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier influenced</prosody></speak>"
     },
     {
         "path": "tiers/influenced b tier.mp3",
@@ -3829,12 +3837,12 @@
     {
         "path": "tiers/memory strands a tier high.mp3",
         "tts_text": "eigh tier memory strands high",
-        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier memory strands high</prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier memory strands high</prosody></speak>"
     },
     {
         "path": "tiers/memory strands a tier.mp3",
         "tts_text": "eigh tier memory strands",
-        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier memory strands</prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier memory strands</prosody></speak>"
     },
     {
         "path": "tiers/memory strands b tier high.mp3",
@@ -3879,7 +3887,7 @@
     {
         "path": "tiers/omen a tier.mp3",
         "tts_text": "eigh tier omen",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier omen</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier omen</prosody></speak>"
     },
     {
         "path": "tiers/omen b tier.mp3",
@@ -3952,7 +3960,7 @@
     {
         "path": "tiers/resonator a tier.mp3",
         "tts_text": "eigh tier resonator",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier resonator</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier resonator</prosody></speak>"
     },
     {
         "path": "tiers/resonator b tier.mp3",
@@ -3967,7 +3975,7 @@
     {
         "path": "tiers/runegraft a tier.mp3",
         "tts_text": "eigh tier runegraft",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier runegraft</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier runegraft</prosody></speak>"
     },
     {
         "path": "tiers/runegraft b tier.mp3",
@@ -3988,7 +3996,7 @@
     {
         "path": "tiers/scarab a tier.mp3",
         "tts_text": "eigh tier scarab",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier scarab</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier scarab</prosody></speak>"
     },
     {
         "path": "tiers/scarab b tier.mp3",
@@ -4101,12 +4109,12 @@
     {
         "path": "tiers/synthesised a tier.mp3",
         "tts_text": "eigh tier synthesised",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier synthesised</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier synthesised</prosody></speak>"
     },
     {
         "path": "tiers/talisman a tier.mp3",
         "tts_text": "eigh tier talisman",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier talisman</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier talisman</prosody></speak>"
     },
     {
         "path": "tiers/talisman b tier.mp3",
@@ -4126,7 +4134,7 @@
     {
         "path": "tiers/tattoo a tier.mp3",
         "tts_text": "eigh tier tattoo",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier tattoo</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier tattoo</prosody></speak>"
     },
     {
         "path": "tiers/tattoo b tier.mp3",
@@ -4147,7 +4155,7 @@
     {
         "path": "tiers/unique a tier.mp3",
         "tts_text": "eigh tier unique",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier unique</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier unique</prosody></speak>"
     },
     {
         "path": "tiers/unique b tier.mp3",
@@ -4182,7 +4190,7 @@
     {
         "path": "tiers/unique map a tier.mp3",
         "tts_text": "eigh tier unique map",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier unique map</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier unique map</prosody></speak>"
     },
     {
         "path": "tiers/unique map b tier.mp3",
@@ -4224,7 +4232,7 @@
     {
         "path": "tiers/veiled a tier.mp3",
         "tts_text": "eigh tier veiled",
-        "ssml_text": "<prosody rate='fast'><speak><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier veiled</speak></prosody>"
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier veiled</prosody></speak>"
     },
     {
         "path": "tiers/veiled b tier.mp3",
@@ -4257,15 +4265,9 @@
         "ssml_text": "<prosody rate='fast'>s tier special mod veiled</prosody>"
     },
     {
-        "path": "tiers/wombgift s tier.mp3",
-        "tts_text": "s tier wombgift",
-        "ssml_text": "",
-        "mixin": "6"
-    },
-    {
         "path": "tiers/wombgift a tier.mp3",
-        "tts_text": "a tier wombgift",
-        "ssml_text": "<prosody rate='fast'>a tier wombgift</prosody>"
+        "tts_text": "eigh tier wombgift",
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier wombgift</prosody></speak>"
     },
     {
         "path": "tiers/wombgift b tier.mp3",
@@ -4276,6 +4278,12 @@
         "path": "tiers/wombgift c tier.mp3",
         "tts_text": "c tier wombgift",
         "ssml_text": "<prosody rate='fast'>c tier wombgift</prosody>"
+    },
+    {
+        "path": "tiers/wombgift s tier.mp3",
+        "tts_text": "s tier wombgift",
+        "ssml_text": "<prosody rate='fast'>s tier wombgift</prosody>",
+        "mixin": "6"
     },
     {
         "path": "uniques/impresence double curse.mp3",
