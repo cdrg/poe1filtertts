@@ -1350,6 +1350,11 @@
         "ssml_text": "<prosody rate='fast'>foulborn unique</prosody>"
     },
     {
+        "path": "classes/unique heavy belt.mp3",
+        "tts_text": "heavy belt unique",
+        "ssml_text": "<prosody rate='fast'>heavy belt unique</prosody>"
+    },
+    {
         "path": "classes/unique jewel corrupted.mp3",
         "tts_text": "corrupted unique jewel",
         "ssml_text": "<prosody rate='fast'>corrupted unique jewel</prosody>"
@@ -1358,6 +1363,11 @@
         "path": "classes/unique jewel.mp3",
         "tts_text": "unique jewel",
         "ssml_text": ""
+    },
+    {
+        "path": "classes/unique leather belt.mp3",
+        "tts_text": "leather belt unique",
+        "ssml_text": "<prosody rate='fast'>leather belt unique</prosody>"
     },
     {
         "path": "classes/unique overquality.mp3",
