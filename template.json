@@ -985,6 +985,11 @@
         "ssml_text": ""
     },
     {
+        "path": "classes/maps/nightmare map.mp3",
+        "tts_text": "nightmare map",
+        "ssml_text": "<prosody rate='fast'>nightmare map</prosody>"
+    },
+    {
         "path": "classes/maps/shaper map.mp3",
         "tts_text": "shaper map",
         "ssml_text": ""
@@ -1035,11 +1040,6 @@
         "ssml_text": ""
     },
     {
-        "path": "classes/maps/t17 map.mp3",
-        "tts_text": "t17 map",
-        "ssml_text": ""
-    },
-    {
         "path": "classes/maps/t2 map.mp3",
         "tts_text": "t2 map",
         "ssml_text": ""
@@ -1077,6 +1077,11 @@
     {
         "path": "classes/maps/t9 map.mp3",
         "tts_text": "t9 map",
+        "ssml_text": ""
+    },
+    {
+        "path": "classes/maps/valdo map.mp3",
+        "tts_text": "valdo map",
         "ssml_text": ""
     },
     {
@@ -1986,6 +1991,11 @@
         "path": "ided/jewellery/ring minion.mp3",
         "tts_text": "ring minion mods",
         "ssml_text": "<prosody rate='fast'>ring minion mods</prosody>"
+    },
+    {
+        "path": "ided/jewels/abyss 5 mod.mp3",
+        "tts_text": "5 mod abyss jewel",
+        "ssml_text": "<prosody rate='fast'>5 mod abyss jewel</prosody>"
     },
     {
         "path": "ided/jewels/abyss attack.mp3",
@@ -3827,6 +3837,27 @@
         "path": "tiers/fragment s tier.mp3",
         "tts_text": "s tier fragment",
         "ssml_text": "<prosody rate='fast'>s tier fragment</prosody>",
+        "mixin": "6"
+    },
+    {
+        "path": "tiers/gem exceptional a tier.mp3",
+        "tts_text": "eigh tier exceptional gem",
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier exceptional gem</prosody></speak>"
+    },
+    {
+        "path": "tiers/gem exceptional b tier.mp3",
+        "tts_text": "b tier exceptional gem",
+        "ssml_text": "<prosody rate='fast'>b tier exceptional gem</prosody>"
+    },
+    {
+        "path": "tiers/gem exceptional c tier.mp3",
+        "tts_text": "c tier exceptional gem",
+        "ssml_text": "<prosody rate='fast'>c tier exceptional gem</prosody>"
+    },
+    {
+        "path": "tiers/gem exceptional s tier.mp3",
+        "tts_text": "s tier exceptional gem",
+        "ssml_text": "<prosody rate='fast'>s tier exceptional gem</prosody>",
         "mixin": "6"
     },
     {
