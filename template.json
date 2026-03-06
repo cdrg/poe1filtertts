@@ -2348,6 +2348,11 @@
         "ssml_text": "<prosody rate='fast'>rare 2 jee 1 are</prosody>"
     },
     {
+        "path": "links/3l/2g1r rune dagger.mp3",
+        "tts_text": "2 jee 1 are rune dagger",
+        "ssml_text": "<prosody rate='fast'>rare 2 jee 1 rune dagger</prosody>"
+    },
+    {
         "path": "links/3l/2g1r sceptre.mp3",
         "tts_text": "2 jee 1 are sceptre",
         "ssml_text": "<prosody rate='fast'>2 jee 1 are sceptre</prosody>"
@@ -3763,6 +3768,11 @@
         "ssml_text": "<prosody rate='fast'>c tier essence</prosody>"
     },
     {
+        "path": "tiers/essence d tier.mp3",
+        "tts_text": "d tier essence",
+        "ssml_text": "<prosody rate='fast'>d tier essence</prosody>"
+    },
+    {
         "path": "tiers/essence s tier.mp3",
         "tts_text": "s tier essence",
         "ssml_text": "<prosody rate='fast'>s tier essence</prosody>"
@@ -4401,6 +4411,11 @@
         "path": "tiers/wombgift c tier.mp3",
         "tts_text": "c tier wombgift",
         "ssml_text": "<prosody rate='fast'>c tier wombgift</prosody>"
+    },
+    {
+        "path": "tiers/wombgift d tier.mp3",
+        "tts_text": "d tier wombgift",
+        "ssml_text": "<prosody rate='fast'>d tier wombgift</prosody>"
     },
     {
         "path": "tiers/wombgift s tier.mp3",
