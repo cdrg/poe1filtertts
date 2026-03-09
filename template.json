@@ -1080,6 +1080,11 @@
         "ssml_text": ""
     },
     {
+        "path": "classes/maps/unique map.mp3",
+        "tts_text": "unique map",
+        "ssml_text": "<prosody rate='fast'>unique map</prosody>"
+    },
+    {
         "path": "classes/maps/valdo map.mp3",
         "tts_text": "valdo map",
         "ssml_text": ""
