@@ -2,7 +2,7 @@
 Text-To-Speech sound file packs for Path of Exile 1 item filters
 
 ---
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7ROZFD) - [![patreon](https://github.com/user-attachments/assets/b7841f4d-5bcc-4642-a04c-2f22e5c48a24)](https://patreon.com/cdrpt) - [![discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d74e9607e61eeec9c91b_Logo.svg)](https://discord.gg/gRMjT5gVms)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7ROZFD) / [![patreon](https://github.com/user-attachments/assets/d52158fe-389c-446e-9054-867f88c5462e)](https://patreon.com/cdrpt) / [![discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d74e9607e61eeec9c91b_Logo.svg)](https://discord.gg/gRMjT5gVms)
 ### Table of Contents
 - [Notes](#poe1filtertts)
 - [Installation](#installation-guide)
