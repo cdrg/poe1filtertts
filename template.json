@@ -120,16 +120,6 @@
         "ssml_text": "<prosody rate='fast'>divine life flask</prosody>"
     },
     {
-        "path": "basetypes/flasks/divine life flask.mp3",
-        "tts_text": "divine life flask",
-        "ssml_text": "<prosody rate='fast'>divine life flask</prosody>"
-    },
-    {
-        "path": "basetypes/flasks/divine mana flask.mp3",
-        "tts_text": "divine mana flask",
-        "ssml_text": "<prosody rate='fast'>divine mana flask</prosody>"
-    },
-    {
         "path": "basetypes/flasks/divine mana flask.mp3",
         "tts_text": "divine mana flask",
         "ssml_text": "<prosody rate='fast'>divine mana flask</prosody>"
@@ -707,7 +697,13 @@
         "path": "classes/gems/gem exceptional level 2.mp3",
         "tts_text": "level 2 exceptional gem",
         "ssml_text": "<prosody rate='fast'>level 2 exceptional gem</prosody>",
-        "mixin": "6"
+        "mixin": "1"
+    },
+    {
+        "path": "classes/gems/gem exceptional level 3 corrupt.mp3",
+        "tts_text": "level 3 exceptional corrupt gem",
+        "ssml_text": "<prosody rate='fast'>level 3 exceptional corrupt gem</prosody>",
+        "mixin": "1"
     },
     {
         "path": "classes/gems/gem exceptional level 4.mp3",
@@ -720,6 +716,11 @@
         "tts_text": "s tier exceptional gem",
         "ssml_text": "<prosody rate='fast'>s tier exceptional gem</prosody>",
         "mixin": "6"
+    },
+    {
+        "path": "classes/gems/gem exceptional quality.mp3",
+        "tts_text": "quality exceptional gem",
+        "ssml_text": "<prosody rate='fast'>quality exceptional gem</prosody>"
     },
     {
         "path": "classes/gems/gem exceptional.mp3",
@@ -875,16 +876,6 @@
         "path": "classes/helm rare.mp3",
         "tts_text": "rare helm",
         "ssml_text": "<prosody rate='fast'>rare helm</prosody>"
-    },
-    {
-        "path": "classes/incubator campaign.mp3",
-        "tts_text": "campaign incubator",
-        "ssml_text": "<prosody rate='fast'>campaign incubator</prosody>"
-    },
-    {
-        "path": "classes/incubator high level.mp3",
-        "tts_text": "incubator high level",
-        "ssml_text": "<prosody rate='fast'>incubator high level</prosody>"
     },
     {
         "path": "classes/idols/idol 1x magic.mp3",
@@ -4070,6 +4061,11 @@
         "ssml_text": "<prosody rate='fast'>4 link 3 color warstaff</prosody>"
     },
     {
+        "path": "links/4l/4 link 4 color body.mp3",
+        "tts_text": "4 link 4 color body",
+        "ssml_text": "<prosody rate='fast'>4 link 4 color body</prosody>"
+    },
+    {
         "path": "links/4l/4 link 4 color boots.mp3",
         "tts_text": "4 link 4 color boots",
         "ssml_text": "<prosody rate='fast'>4 link 4 color boots</prosody>"
@@ -5409,6 +5405,28 @@
         "path": "tiers/unique d tier.mp3",
         "tts_text": "d tier unique",
         "ssml_text": "<prosody rate='fast'>d tier unique</prosody>"
+    },
+    {
+        "path": "tiers/unique foulborn a tier.mp3",
+        "tts_text": "eigh tier foulborn unique",
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier foulborn unique</prosody></speak>",
+        "mixin": "1"
+    },
+    {
+        "path": "tiers/unique foulborn b tier.mp3",
+        "tts_text": "b tier foulborn unique",
+        "ssml_text": "<prosody rate='fast'>b tier foulborn unique</prosody>"
+    },
+    {
+        "path": "tiers/unique foulborn multibase.mp3",
+        "tts_text": "foulborn multibase unique",
+        "ssml_text": "<prosody rate='fast'>foulborn multibase unique</prosody>"
+    },
+    {
+        "path": "tiers/unique foulborn s tier.mp3",
+        "tts_text": "s tier foulborn unique",
+        "ssml_text": "<prosody rate='fast'>s tier foulborn unique</prosody>",
+        "mixin": "6"
     },
     {
         "path": "tiers/unique map a tier.mp3",
