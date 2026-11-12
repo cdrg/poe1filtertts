@@ -478,6 +478,11 @@
         "ssml_text": "<prosody rate='fast'>anointed amulet</prosody>"
     },
     {
+        "path": "classes/amulet implicit.mp3",
+        "tts_text": "amulet implicit",
+        "ssml_text": "<prosody rate='fast'>amulet implicit</prosody>"
+    },
+    {
         "path": "classes/amulet rare.mp3",
         "tts_text": "rare amulet",
         "ssml_text": "<prosody rate='fast'>rare amulet</prosody>"
@@ -488,9 +493,19 @@
         "ssml_text": "<prosody rate='fast'>valuable base</prosody>"
     },
     {
+        "path": "classes/belt implicit.mp3",
+        "tts_text": "belt implicit",
+        "ssml_text": "<prosody rate='fast'>belt implicit</prosody>"
+    },
+    {
         "path": "classes/belt rare.mp3",
         "tts_text": "rare belt",
         "ssml_text": "<prosody rate='fast'>rare belt</prosody>"
+    },
+    {
+        "path": "classes/blueprint enchanted.mp3",
+        "tts_text": "blueprint enchanted",
+        "ssml_text": "<prosody rate='fast'>blueprint enchanted</prosody>"
     },
     {
         "path": "classes/blueprint.mp3",
@@ -498,9 +513,19 @@
         "ssml_text": ""
     },
     {
+        "path": "classes/body armour implicit.mp3",
+        "tts_text": "body implicit",
+        "ssml_text": "<prosody rate='fast'>body implicit</prosody>"
+    },
+    {
         "path": "classes/body armour rare.mp3",
         "tts_text": "rare body",
         "ssml_text": "<prosody rate='fast'>rare body</prosody>"
+    },
+    {
+        "path": "classes/boots implicit.mp3",
+        "tts_text": "boots implicit",
+        "ssml_text": "<prosody rate='fast'>boots implicit</prosody>"
     },
     {
         "path": "classes/boots magic.mp3",
@@ -658,6 +683,11 @@
         "ssml_text": "<prosody rate='fast'>i 85 utility flask</prosody>"
     },
     {
+        "path": "classes/flask utility.mp3",
+        "tts_text": "utility flask",
+        "ssml_text": "<prosody rate='fast'>utility flask</prosody>"
+    },
+    {
         "path": "classes/flask.mp3",
         "tts_text": "flask",
         "ssml_text": ""
@@ -681,6 +711,16 @@
         "path": "classes/gems/gem 23% quality.mp3",
         "tts_text": "23% quality gem",
         "ssml_text": "<prosody rate='fast'>23% quality gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem mid quality.mp3",
+        "tts_text": "mid quality gem",
+        "ssml_text": "<prosody rate='fast'>mid quality gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem quality.mp3",
+        "tts_text": "quality gem",
+        "ssml_text": "<prosody rate='fast'>quality gem</prosody>"
     },
     {
         "path": "classes/gems/gem awakened s tier.mp3",
@@ -871,6 +911,11 @@
         "path": "classes/heist/tool t3.mp3",
         "tts_text": "tool t 3",
         "ssml_text": ""
+    },
+    {
+        "path": "classes/helm implicit.mp3",
+        "tts_text": "helm implicit",
+        "ssml_text": "<prosody rate='fast'>helm implicit</prosody>"
     },
     {
         "path": "classes/helm rare.mp3",
@@ -1278,6 +1323,11 @@
         "ssml_text": "<prosody rate='fast'>anointed ring</prosody>"
     },
     {
+        "path": "classes/ring implicit.mp3",
+        "tts_text": "ring implicit",
+        "ssml_text": "<prosody rate='fast'>ring implicit</prosody>"
+    },
+    {
         "path": "classes/ring rare.mp3",
         "tts_text": "rare ring",
         "ssml_text": "<prosody rate='fast'>rare ring</prosody>"
@@ -1523,6 +1573,11 @@
         "ssml_text": "<prosody rate='fast'>rare warstaff</prosody>"
     },
     {
+        "path": "classes/weapon high attack speed.mp3",
+        "tts_text": "high attack speed weapon",
+        "ssml_text": "<prosody rate='fast'>high attack speed weapon</prosody>"
+    },
+    {
         "path": "currency/armourers scrap stack.mp3",
         "tts_text": "armourers stack",
         "ssml_text": "<prosody rate='fast'>armourers stack</prosody>"
@@ -1674,6 +1729,18 @@
         "ssml_text": ""
     },
     {
+        "path": "currency/foulborn exalted orb.mp3",
+        "tts_text": "foulborn exalted",
+        "ssml_text": "",
+        "mixin": "6"
+    },
+    {
+        "path": "currency/fracturing orb.mp3",
+        "tts_text": "fracturing",
+        "ssml_text": "",
+        "mixin": "6"
+    },
+    {
         "path": "currency/gemcutters prism.mp3",
         "tts_text": "gemcutters",
         "ssml_text": "<prosody rate='fast'>gemcutters</prosody>"
@@ -1730,8 +1797,19 @@
         "ssml_text": "<prosody rate='fast'>lesser eldritch ichor</prosody>"
     },
     {
+        "path": "currency/message in a bottle.mp3",
+        "tts_text": "message in a bottle",
+        "ssml_text": "<prosody rate='fast'>message in a bottle</prosody>"
+    },
+    {
         "path": "currency/mirror of kalandra.mp3",
         "tts_text": "mirror of kalandra",
+        "ssml_text": "",
+        "mixin": "6"
+    },
+    {
+        "path": "currency/mirror shard.mp3",
+        "tts_text": "mirror shard",
         "ssml_text": "",
         "mixin": "6"
     },
@@ -1789,6 +1867,12 @@
         "path": "currency/orb of chance.mp3",
         "tts_text": "chance",
         "ssml_text": ""
+    },
+    {
+        "path": "currency/orb of dominance.mp3",
+        "tts_text": "dominance",
+        "ssml_text": "",
+        "mixin": "6"
     },
     {
         "path": "currency/orb of fusing stack.mp3",
@@ -1884,6 +1968,12 @@
         "path": "currency/vaal orb.mp3",
         "tts_text": "vaal",
         "ssml_text": ""
+    },
+    {
+        "path": "currency/veiled exalted orb.mp3",
+        "tts_text": "veiled exalted",
+        "ssml_text": "",
+        "mixin": "6"
     },
     {
         "path": "ided/additional arrow.mp3",
@@ -4850,6 +4940,33 @@
         "mixin": "6"
     },
     {
+        "path": "tiers/ducat a tier.mp3",
+        "tts_text": "eigh tier ducat",
+        "ssml_text": "<prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier ducat</prosody>",
+        "mixin": "1"
+    },
+    {
+        "path": "tiers/ducat b tier.mp3",
+        "tts_text": "b tier ducat",
+        "ssml_text": "<prosody rate='fast'>b tier ducat</prosody>"
+    },
+    {
+        "path": "tiers/ducat c tier.mp3",
+        "tts_text": "c tier ducat",
+        "ssml_text": "<prosody rate='fast'>c tier ducat</prosody>"
+    },
+    {
+        "path": "tiers/ducat d tier.mp3",
+        "tts_text": "d tier ducat",
+        "ssml_text": "<prosody rate='fast'>d tier ducat</prosody>"
+    },
+    {
+        "path": "tiers/ducat s tier.mp3",
+        "tts_text": "s tier ducat",
+        "ssml_text": "<prosody rate='fast'>s tier ducat</prosody>",
+        "mixin": "6"
+    },
+    {
         "path": "tiers/essence a tier.mp3",
         "tts_text": "eigh tier essence",
         "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier essence</prosody></speak>",
@@ -5322,6 +5439,33 @@
         "path": "tiers/splinter stack tiny.mp3",
         "tts_text": "splinter tiny stack",
         "ssml_text": "<prosody rate='fast'>splinter tiny stack</prosody>"
+    },
+    {
+        "path": "tiers/sulphur gigantic stack.mp3",
+        "tts_text": "sulphur gigantic stack",
+        "ssml_text": "<prosody rate='fast'>sulphur gigantic stack</prosody>",
+        "mixin": "6"
+    },
+    {
+        "path": "tiers/sulphur huge stack.mp3",
+        "tts_text": "sulphur huge stack",
+        "ssml_text": "<prosody rate='fast'>sulphur huge stack</prosody>",
+        "mixin": "1"
+    },
+    {
+        "path": "tiers/sulphur large stack.mp3",
+        "tts_text": "sulphur large stack",
+        "ssml_text": "<prosody rate='fast'>sulphur large stack</prosody>"
+    },
+    {
+        "path": "tiers/sulphur medium stack.mp3",
+        "tts_text": "sulphur medium stack",
+        "ssml_text": "<prosody rate='fast'>sulphur medium stack</prosody>"
+    },
+    {
+        "path": "tiers/sulphur small stack.mp3",
+        "tts_text": "sulphur small stack",
+        "ssml_text": "<prosody rate='fast'>sulphur small stack</prosody>"
     },
     {
         "path": "tiers/synthesised a tier.mp3",
