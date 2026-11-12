@@ -1408,6 +1408,26 @@
         "ssml_text": "<prosody rate='fast'>rare <say-as interpret-as='characters'>2h</say-as> sword</prosody>"
     },
     {
+        "path": "classes/unid tier 2.mp3",
+        "tts_text": "unid tier 2",
+        "ssml_text": "<prosody rate='fast'>unid tier 2</prosody>"
+    },
+    {
+        "path": "classes/unid tier 3.mp3",
+        "tts_text": "unid tier 3",
+        "ssml_text": "<prosody rate='fast'>unid tier 3</prosody>"
+    },
+    {
+        "path": "classes/unid tier 4.mp3",
+        "tts_text": "unid tier 4",
+        "ssml_text": "<prosody rate='fast'>unid tier 4</prosody>"
+    },
+    {
+        "path": "classes/unid tier 5.mp3",
+        "tts_text": "unid tier 5",
+        "ssml_text": "<prosody rate='fast'>unid tier 5</prosody>"
+    },
+    {
         "path": "classes/unique 1250 dust per slot.mp3",
         "tts_text": "1250 dust per slot",
         "ssml_text": "<prosody rate='fast'>1250 dust per slot</prosody>"
@@ -5513,6 +5533,92 @@
         "tts_text": "s tier tattoo",
         "ssml_text": "<prosody rate='fast'>s tier tattoo</prosody>",
         "mixin": "6"
+    },
+    {
+        "path": "tiers/thread s tier stack huge.mp3",
+        "tts_text": "s tier thread huge stack",
+        "ssml_text": "<prosody rate='fast'>s tier thread huge stack</prosody>",
+        "mixin": "6"
+    },
+    {
+        "path": "tiers/thread s tier stack large.mp3",
+        "tts_text": "s tier thread large stack",
+        "ssml_text": "<prosody rate='fast'>s tier thread large stack</prosody>"
+    },
+    {
+        "path": "tiers/thread s tier stack medium.mp3",
+        "tts_text": "s tier thread medium stack",
+        "ssml_text": "<prosody rate='fast'>s tier thread medium stack</prosody>"
+    },
+    {
+        "path": "tiers/thread s tier stack small.mp3",
+        "tts_text": "s tier thread small stack",
+        "ssml_text": "<prosody rate='fast'>s tier thread small stack</prosody>"
+    },
+    {
+        "path": "tiers/thread stack huge.mp3",
+        "tts_text": "thread huge stack",
+        "ssml_text": "<prosody rate='fast'>thread huge stack</prosody>"
+    },
+    {
+        "path": "tiers/thread stack large.mp3",
+        "tts_text": "thread large stack",
+        "ssml_text": "<prosody rate='fast'>thread large stack</prosody>"
+    },
+    {
+        "path": "tiers/thread stack medium.mp3",
+        "tts_text": "thread medium stack",
+        "ssml_text": "<prosody rate='fast'>thread medium stack</prosody>"
+    },
+    {
+        "path": "tiers/thread stack small.mp3",
+        "tts_text": "thread small stack",
+        "ssml_text": "<prosody rate='fast'>thread small stack</prosody>"
+    },
+    {
+        "path": "tiers/thread s tier stack tiny.mp3",
+        "tts_text": "s tier thread tiny stack",
+        "ssml_text": "<prosody rate='fast'>s tier thread tiny stack</prosody>"
+    },
+    {
+        "path": "tiers/unid t4 a tier.mp3",
+        "tts_text": "eigh tier t4",
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier t4</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t4 b tier.mp3",
+        "tts_text": "b tier t4",
+        "ssml_text": "<speak><prosody rate='fast'>b tier t4</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t4 c tier.mp3",
+        "tts_text": "c tier t4",
+        "ssml_text": "<speak><prosody rate='fast'>c tier t4</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t4 s tier.mp3",
+        "tts_text": "s tier t4",
+        "ssml_text": "<speak><prosody rate='fast'>s tier t4</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t2 a tier.mp3",
+        "tts_text": "eigh tier t2",
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier t2</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t2 b tier.mp3",
+        "tts_text": "b tier t2",
+        "ssml_text": "<speak><prosody rate='fast'>b tier t2</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t3 c tier.mp3",
+        "tts_text": "c tier t3",
+        "ssml_text": "<speak><prosody rate='fast'>c tier t3</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t2 s tier.mp3",
+        "tts_text": "s tier t2",
+        "ssml_text": "<speak><prosody rate='fast'>s tier t2</prosody></speak>"
     },
     {
         "path": "tiers/unique a tier.mp3",
