@@ -623,6 +623,11 @@
         "ssml_text": ""
     },
     {
+        "path": "classes/contract enchanted.mp3",
+        "tts_text": "enchanted contract",
+        "ssml_text": ""
+    },
+    {
         "path": "classes/corrupted double.mp3",
         "tts_text": "double corrupted",
         "ssml_text": "<prosody rate='fast'>double corrupted</prosody>"
@@ -821,6 +826,11 @@
         "path": "classes/gems/gem transfigured.mp3",
         "tts_text": "transfigured gem",
         "ssml_text": "<prosody rate='fast'>transfigured gem</prosody>"
+    },
+    {
+        "path": "classes/gems/gem vaal 20% quality.mp3",
+        "tts_text": "20% vaal gem",
+        "ssml_text": "<prosody rate='fast'>20% vaal gem</prosody>"
     },
     {
         "path": "classes/gems/gem vaal.mp3",
@@ -1409,23 +1419,23 @@
     },
     {
         "path": "classes/unid tier 2.mp3",
-        "tts_text": "unid tier 2",
-        "ssml_text": "<prosody rate='fast'>unid tier 2</prosody>"
+        "tts_text": "unn i d tier 2",
+        "ssml_text": "<prosody rate='fast'>un i d tier 2</prosody>"
     },
     {
         "path": "classes/unid tier 3.mp3",
-        "tts_text": "unid tier 3",
-        "ssml_text": "<prosody rate='fast'>unid tier 3</prosody>"
+        "tts_text": "unn i d tier 3",
+        "ssml_text": "<prosody rate='fast'>un i d tier 3</prosody>"
     },
     {
         "path": "classes/unid tier 4.mp3",
-        "tts_text": "unid tier 4",
-        "ssml_text": "<prosody rate='fast'>unid tier 4</prosody>"
+        "tts_text": "unn i d tier 4",
+        "ssml_text": "<prosody rate='fast'>un i d tier 4</prosody>"
     },
     {
         "path": "classes/unid tier 5.mp3",
-        "tts_text": "unid tier 5",
-        "ssml_text": "<prosody rate='fast'>unid tier 5</prosody>"
+        "tts_text": "unn i d tier 5",
+        "ssml_text": "<prosody rate='fast'>un i d tier 5</prosody>"
     },
     {
         "path": "classes/unique 1250 dust per slot.mp3",
@@ -1606,6 +1616,12 @@
         "path": "currency/armourers scrap.mp3",
         "tts_text": "armourers",
         "ssml_text": ""
+    },
+    {
+        "path": "currency/awakeners orb.mp3",
+        "tts_text": "awakeners",
+        "ssml_text": "",
+        "mixin": "6"
     },
     {
         "path": "currency/blacksmiths whetstone stack.mp3",
@@ -1950,6 +1966,12 @@
         "ssml_text": "<prosody rate='fast'>portal</prosody>"
     },
     {
+        "path": "currency/reflecting mist.mp3",
+        "tts_text": "reflecting mist",
+        "ssml_text": "",
+        "mixin": "6"
+    },
+    {
         "path": "currency/regal orb.mp3",
         "tts_text": "regal",
         "ssml_text": ""
@@ -1985,6 +2007,12 @@
         "ssml_text": "<prosody rate='fast'>stacked deck</prosody>"
     },
     {
+        "path": "currency/tainted divine teardrop.mp3",
+        "tts_text": "tainted divine",
+        "ssml_text": "",
+        "mixin": "6"
+    },
+    {
         "path": "currency/vaal orb.mp3",
         "tts_text": "vaal",
         "ssml_text": ""
@@ -1992,6 +2020,12 @@
     {
         "path": "currency/veiled exalted orb.mp3",
         "tts_text": "veiled exalted",
+        "ssml_text": "",
+        "mixin": "6"
+    },
+    {
+        "path": "currency/volatile vaal orb.mp3",
+        "tts_text": "volatile vaal",
         "ssml_text": "",
         "mixin": "6"
     },
@@ -5581,6 +5615,26 @@
         "ssml_text": "<prosody rate='fast'>s tier thread tiny stack</prosody>"
     },
     {
+        "path": "tiers/unid t5 a tier.mp3",
+        "tts_text": "eigh tier t5",
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier t5</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t5 b tier.mp3",
+        "tts_text": "b tier t5",
+        "ssml_text": "<speak><prosody rate='fast'>b tier t5</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t5 c tier.mp3",
+        "tts_text": "c tier t5",
+        "ssml_text": "<speak><prosody rate='fast'>c tier t5</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t5 s tier.mp3",
+        "tts_text": "s tier t5",
+        "ssml_text": "<speak><prosody rate='fast'>s tier t5</prosody></speak>"
+    },
+    {
         "path": "tiers/unid t4 a tier.mp3",
         "tts_text": "eigh tier t4",
         "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier t4</prosody></speak>"
@@ -5601,6 +5655,26 @@
         "ssml_text": "<speak><prosody rate='fast'>s tier t4</prosody></speak>"
     },
     {
+        "path": "tiers/unid t3 a tier.mp3",
+        "tts_text": "a tier t3",
+        "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier t3</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t3 b tier.mp3",
+        "tts_text": "b tier t3",
+        "ssml_text": "<speak><prosody rate='fast'>b tier t3</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t3 c tier.mp3",
+        "tts_text": "c tier t3",
+        "ssml_text": "<speak><prosody rate='fast'>c tier t3</prosody></speak>"
+    },
+    {
+        "path": "tiers/unid t3 s tier.mp3",
+        "tts_text": "s tier t3",
+        "ssml_text": "<speak><prosody rate='fast'>s tier t3</prosody></speak>"
+    },
+    {
         "path": "tiers/unid t2 a tier.mp3",
         "tts_text": "eigh tier t2",
         "ssml_text": "<speak><prosody rate='fast'><phoneme alphabet='ipa' ph='eɪ'>a</phoneme> tier t2</prosody></speak>"
@@ -5611,9 +5685,9 @@
         "ssml_text": "<speak><prosody rate='fast'>b tier t2</prosody></speak>"
     },
     {
-        "path": "tiers/unid t3 c tier.mp3",
-        "tts_text": "c tier t3",
-        "ssml_text": "<speak><prosody rate='fast'>c tier t3</prosody></speak>"
+        "path": "tiers/unid t2 c tier.mp3",
+        "tts_text": "c tier t2",
+        "ssml_text": "<speak><prosody rate='fast'>c tier t2</prosody></speak>"
     },
     {
         "path": "tiers/unid t2 s tier.mp3",
